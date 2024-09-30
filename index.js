@@ -1,7 +1,8 @@
 /* 
-    33 JavaScript Concepts is a project created to help JavaScript developers master their skills. It is a compilation of fundamental JavaScript concepts that are important and fundamental. 
+    33 Awọn Erongba JavaScript jẹ iṣẹ akanṣe ti a ṣẹda lati ṣe iranlọwọ fun awọn onise sise JavaScript lati ni oye jinna ninu awọn ogbon wọn. O jẹ akojọpọ awọn erongba ipilẹ JavaScript ti o ṣe pataki ati ipilẹ.
 
-    This project was inspired by an article written by Stephen Curtis. 
+    Iṣẹ akanṣe yii ni ifẹsẹmulẹ lati inu àpilẹkọ ti Stephen Curtis kọ.
 
-    Any kind of contribution is welcome. Feel free to contribute.
+    Eyikeyi iru ilowosi jẹ itẹwọgba. Ma ṣe ṣiyemeji lati ṣe alabapin.
 */
+
