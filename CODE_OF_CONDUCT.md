@@ -39,61 +39,42 @@ A, gẹgẹ bi awọn ọmọ ẹgbẹ, awọn oludasiṣẹ, ati awọn oludari
 Iwe Ìwà yìí ní àpamọ́ sí gbogbo àwọn ibi àwùjọ, àti ó tún ní àpamọ́ sígbà tí ẹnikan bá ń ṣojú àwùjọ ní àwọn ààyè gbangba. Àpẹẹrẹ ti ṣíṣojú àwùjọ wa ni pẹ̀lú lílo àdírẹ́sì imeeli gẹgẹ bí ẹni tó ń ṣojú, fífiranṣẹ̀ nípasẹ̀ akọọ́lẹ̀ ẹ̀rọ ìbánisọ̀rọ̀ àwùjọ tó jẹ́ gbajúmọ̀, tàbí ṣe bí ẹni tó jẹ́ aṣojú tí wọ́n yàn ní iṣẹlẹ̀ lori ìkànnì tàbí iṣẹlẹ̀ tí kò ṣe ní ẹ̀rọ ayélujára.
 
 
-## Enforcement
+## Ìmúlò
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at
+Àwọn ìṣẹ̀lẹ̀ ti ilokulo, ipàniláyà, tàbí ìwà tí a kò le gba wọ́n lè jẹ́ ànà tí a lè ránṣẹ́ sí àwọn olùdarí àwùjọ tí ó ṣe ojúṣe fún ìmúlò ní 
 leonardomso11@gmail.com.
-All complaints will be reviewed and investigated promptly and fairly.
+Gbogbo ẹ̀dáhùn yóò jẹ́ àtúpalẹ̀ àti ìṣewádìí pẹ̀lú ìyàtọ̀ àti ìṣètìlẹ́sẹ̀.
 
-All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
+Gbogbo olùdarí àwùjọ ni ojúsùrù láti bójú tó ìpamọ́ àti ààbò fún ẹni tó ránṣẹ́ nípa àjọṣe ẹni kejì.
 
-## Enforcement Guidelines
+## Àṣà Fun Ìmúlò
 
-Community leaders will follow these Community Impact Guidelines in determining
-the consequences for any action they deem in violation of this Code of Conduct:
+Àwọn olùdarí àwùjọ yóò tẹ̀lé àwọn Ìlànà Ètò Ìdájọ́ Ìfàsílẹ̀ Awùjọ yìí láti pinnu àwọn ìjìnlẹ̀ fún ìgbésẹ̀ kankan tí wọ́n bá rí wí pé ó dáríkọjá Iwe Ìwà yìí:
 
-### 1. Correction
+### 1. Ìtúnṣe
 
-**Community Impact**: Use of inappropriate language or other behavior deemed
-unprofessional or unwelcome in the community.
+**Ìtẹ̀sí ìkànsí Awùjọ**: Lílo èdè tí kò tó wọ́n tàbí ìwà míràn tí a gbà pé kò ṣe tàbí àìtẹ̀wọ́gba nínú àwùjọ.
 
-**Consequence**: A private, written warning from community leaders, providing
-clarity around the nature of the violation and an explanation of why the
-behavior was inappropriate. A public apology may be requested.
+**Àbájáde**: Ìkìlọ̀ ikọkọ́ tí a kọ láti ọwọ́ àwọn olùdarí àwùjọ, tí ó ṣàlàyé ìjìnlẹ̀ ìṣe náà àti àlàyé ohun tó jẹ́ kí ìwà náà kò yẹ. Àpólọ́pólọ́ ní gbangba lè jẹ́ ohun tí a béèrè.
 
-### 2. Warning
+### 2. Ìkìlọ̀
 
-**Community Impact**: A violation through a single incident or series
-of actions.
+**Ìtẹ̀sí ìkànsí Awùjọ**: Ìṣe tó ṣẹ́ nípasẹ̀ ìṣẹ̀lẹ̀ kan tàbí ìjíròrò tó tẹ̀lé ara.
 
-**Consequence**: A warning with consequences for continued behavior. No
-interaction with the people involved, including unsolicited interaction with
-those enforcing the Code of Conduct, for a specified period of time. This
-includes avoiding interactions in community spaces as well as external channels
-like social media. Violating these terms may lead to a temporary or
-permanent ban.
+**Àbájáde**: Ìkìlọ̀ pẹ̀lú àwọn ìpinnu fún ìṣe tí ó bá tẹ̀síwájú. Kò sí ìbáraẹnisọrọ̀ pẹ̀lú àwọn èèyàn tí ó ní í ṣe pẹ̀lú rẹ̀, pẹ̀lú ìbáraẹnisọrọ tí kò jẹ́ béèrè pẹ̀lú àwọn tó ń mú Iwe Ìwà yìí nípasẹ̀, fún àkókò tí a yàn. Èyí pẹ̀lú ìyàtọ̀ pẹ̀lú àwọn ibi ìjọsìn àwùjọ àti àwọn ìkànnì ilẹ̀ ayélujára. Fífà wíwọ̀nyí di àwọn òfin yìí lè múra kó tó sí ìdìgbépọ̀ tàbí ìdènà fún àkókò.
 
-### 3. Temporary Ban
+### 3. Ìdènà Fún Àkókò
 
-**Community Impact**: A serious violation of community standards, including
-sustained inappropriate behavior.
+**Ìtẹ̀sí ìkànsí Awùjọ**: Ìdíje tó ṣe pataki sí ìlànà àwùjọ, pẹ̀lú ìwà tí kò yẹ tó tẹ̀síwájú.
 
-**Consequence**: A temporary ban from any sort of interaction or public
-communication with the community for a specified period of time. No public or
-private interaction with the people involved, including unsolicited interaction
-with those enforcing the Code of Conduct, is allowed during this period.
-Violating these terms may lead to a permanent ban.
+**Àbájáde**: Ìdènà fún àkókò kan kankan kúrò nínú ìbáraẹnisọrọ tàbí ìbaraẹnisọrọ ní gbangba pẹ̀lú àwùjọ fún àkókò tí a yàn. Kò sí ìbaraẹnisọrọ ní gbangba tàbí ní ikọkọ̀ pẹ̀lú àwọn tó ní í ṣe pẹ̀lú rẹ̀, pẹ̀lú ìbáraẹnisọrọ tí kò jẹ́ béèrè pẹ̀lú àwọn tó ń mú Iwe Ìwà yìí nípasẹ̀, ní àkókò yìí. Fífà wíwọ̀nyí di àwọn òfin lè múra kó sì ìdìgbépọ̀ fún ìgbà gbogbo.
 
-### 4. Permanent Ban
+### 4. Ìdìgbépọ̀ Fún Ìgbà Gbogbo
 
-**Community Impact**: Demonstrating a pattern of violation of community
-standards, including sustained inappropriate behavior,  harassment of an
-individual, or aggression toward or disparagement of classes of individuals.
+**Ìtẹ̀sí ìkànsí Awùjọ**: Ìfihàn àṣà tí ó ṣe àfihàn ìdíje sí àwọn ìlànà àwùjọ, pẹ̀lú ìwà tó tẹ̀síwájú tí kò yẹ, ìpàniláyà ẹni kan, tàbí ìjakúpọ̀ sí ìran kan tàbí àwọn ẹ̀yà kàn.
 
-**Consequence**: A permanent ban from any sort of public interaction within
-the community.
+**Àbájáde**: Ìdìgbépọ̀ fún ìgbà gbogbo kúrò ní irú ìbáraẹnisọrọ ní gbangba nínú àwùjọ.
+
 
 ## Attribution
 
