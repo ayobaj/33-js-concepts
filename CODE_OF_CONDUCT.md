@@ -27,17 +27,12 @@ A, gẹgẹ bi awọn ọmọ ẹgbẹ, awọn oludasiṣẹ, ati awọn oludari
 * Èyíòkan àwọn ìwà mìíràn tí a lè gbà pé kò yẹ ní àyíká iṣẹ́ àmúgbálẹ̀gbẹ́
 
 
-## Enforcement Responsibilities
+## Àwọn Ìdájọ́ Ìṣẹ̀kùṣe
 
-Community leaders are responsible for clarifying and enforcing our standards of
-acceptable behavior and will take appropriate and fair corrective action in
-response to any behavior that they deem inappropriate, threatening, offensive,
-or harmful.
+Àwọn olùdarí àwùjọ ló ní ojúsùrù láti ṣàlàyé àti láti múra àwọn àṣà ìwà tó jẹ́ gbọ́dọ̀ ṣe, àti wọn yóò ṣe àwọn ìgbésẹ̀ tó yẹ̀ àti tó dára láti ṣàṣeyọrí ìṣètíwájú sí ìwà eyikeyi tí wọn bá gbà pé kò tọ́, tó ń halẹ̀, tó kọja ààfin, tàbí tó lè ṣe ipalara.
 
-Community leaders have the right and responsibility to remove, edit, or reject
-comments, commits, code, wiki edits, issues, and other contributions that are
-not aligned to this Code of Conduct, and will communicate reasons for moderation
-decisions when appropriate.
+Àwọn olùdarí àwùjọ ní ẹ̀tọ́ àti ojúṣe láti yọ, ṣàtúnṣe, tàbí kọ àwọn àlàyé, àwọn àfikún, kóòdù, ṣàtúnṣe sí wiki, àwọn iṣoro, àti àwọn ìfilọ́lẹ̀ míràn tí kò bá ìlànà Iwe Ìwà yìí mu, àti wọ́n yóò fi ìdí ẹ̀ tó pé fún ìdájọ́ náà kálẹ̀ nígbà tó bá yẹ.
+
 
 ## Scope
 
