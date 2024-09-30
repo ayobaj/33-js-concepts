@@ -5,18 +5,18 @@
 A, gẹgẹ bi awọn ọmọ ẹgbẹ, awọn oludasiṣẹ, ati awọn oludari, ṣe adehun lati kopa ninu agbegbe wa lati pese iriri ti ko ni ipanilaya fun gbogbo eniyan, laibikita ọjọ-ori, iwọn ara, ailera ti o han tabi ti ko han, eya, awọn abuda abo, idanimọ ati ifihan abo, ipele iriri, eto ẹkọ, ipo awujọ-ọrọ, orilẹ-ede, iwo ara ẹni, ẹya, ẹsin, tabi idanimọ ati ọna ibalopo.
 
 
-## Our Standards
+## Àwọn Àṣà Wa
 
-Examples of behavior that contributes to a positive environment for our
-community includes:
+Àpẹẹrẹ ìwà tó ṣe ìlànà fún ayika rere fún àwùjọ wa jẹ:
 
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes,
-  and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the
-  overall community
+* Fífihan ìfẹ́ àti àánú sí àwọn ẹlòmíràn
+* Ní ọwọ́ fún àwọn èrò, ojú-iwòye, àti irírí tó yàtọ̀ 
+* Fúnni àti gbígbà àwọn ìkìlọ̀ àti àbájáde tó jíná lọ́wọ́ láyọ̀ 
+* Gbà ìdájọ́ra àti bíbèèrè àforíjì fún àwọn tó kan nípa àwọn àṣìṣe wa,
+  àti kíkọ́ nípasẹ̀ irírí náà
+* Fojú sókè sí ohun tí ó dára jù, kìí ṣe fún ara ẹni, ṣùgbọ́n fún 
+  gbogbo àwùjọ lapapọ̀
+
 
 Examples of unacceptable behavior include:
 
