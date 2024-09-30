@@ -1,8 +1,8 @@
-# These are supported funding model platforms
+# Awọn iru ẹrọ awoṣe inawo ti o ni atilẹyin wọnyi ni:
 
-github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]
-patreon: # Replace with a single Patreon username
-open_collective: # Replace with a single Open Collective username
-ko_fi: # Replace with a single Ko-fi username
-tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
+github: # Rọpo pẹlu to 4 orukọ olumulo ti o ni agbara GitHub Sponsors, e.g., [olumulo1, olumulo2]
+patreon: # Rọpo pẹlu orukọ olumulo Patreon kan ṣoṣo
+open_collective: # Rọpo pẹlu orukọ olumulo Open Collective kan ṣoṣo
+ko_fi: # Rọpo pẹlu orukọ olumulo Ko-fi kan ṣoṣo
+tidelift: # Rọpo pẹlu orukọ iru ẹrọ Tidelift/package kan ṣoṣo, e.g., npm/babel
 custom: https://www.buymeacoffee.com/PtZnDSaEo
