@@ -18,16 +18,14 @@ A, gẹgẹ bi awọn ọmọ ẹgbẹ, awọn oludasiṣẹ, ati awọn oludari
   gbogbo àwùjọ lapapọ̀
 
 
-Examples of unacceptable behavior include:
+Àpẹẹrẹ àwọn ìwà tí a kò gbọ́dọ̀ ṣe ní:
 
-* The use of sexualized language or imagery, and sexual attention or
-  advances of any kind
-* Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or email
-  address, without their explicit permission
-* Other conduct that could reasonably be considered inappropriate in a
-  professional setting
+* Lílo èdè tàbí àwòrán tí ó ní àfihàn ibalopọ̀, àti fífún ẹnikẹ́ni ní ìfura ibalopọ̀ tàbí ìgbẹ́kẹ̀lé ibalopọ̀ ní ọ̀nà kankan
+* Ìtìjú, fífún àwọn èrò tó ń ṣàníyàn tàbí àwọn àsọ̀rò ìkórìíra, àti ìkànsí tàbí ìjàkúpọ̀ ọ̀nà èrò ẹni tàbí èrò ìṣèlú
+* Ìpàniláyà ní gbangba tàbí ní ikọkọ
+* Ṣíṣe gbangba àwọn àlàyé ikọkọ àwọn ẹlòmíràn, gẹ́gẹ́ bí àdírẹ́sì gidi tàbí àdírẹ́sì imeeli, láìfi ìyọ́núpamọ́ wọn hàn
+* Èyíòkan àwọn ìwà mìíràn tí a lè gbà pé kò yẹ ní àyíká iṣẹ́ àmúgbálẹ̀gbẹ́
+
 
 ## Enforcement Responsibilities
 
