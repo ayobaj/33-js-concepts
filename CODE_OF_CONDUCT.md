@@ -1,16 +1,9 @@
-# Contributor Covenant Code of Conduct
+# Iwe Iwa Contributor Covenant
 
-## Our Pledge
+## Adehun Wa
 
-We as members, contributors, and leaders pledge to participate in our
-community a harassment-free experience for everyone, regardless of age, body
-size, visible or invisible disability, ethnicity, sex characteristics, gender
-identity and expression, level of experience, education, socio-economic status,
-nationality, personal appearance, race, religion, or sexual identity
-and orientation.
+A, gẹgẹ bi awọn ọmọ ẹgbẹ, awọn oludasiṣẹ, ati awọn oludari, ṣe adehun lati kopa ninu agbegbe wa lati pese iriri ti ko ni ipanilaya fun gbogbo eniyan, laibikita ọjọ-ori, iwọn ara, ailera ti o han tabi ti ko han, eya, awọn abuda abo, idanimọ ati ifihan abo, ipele iriri, eto ẹkọ, ipo awujọ-ọrọ, orilẹ-ede, iwo ara ẹni, ẹya, ẹsin, tabi idanimọ ati ọna ibalopo.
 
-We pledge to act and interact in ways that contribute to an open, welcoming,
-diverse, inclusive, and healthy community.
 
 ## Our Standards
 
