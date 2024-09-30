@@ -76,17 +76,18 @@ Gbogbo olùdarí àwùjọ ni ojúsùrù láti bójú tó ìpamọ́ àti ààb�
 **Àbájáde**: Ìdìgbépọ̀ fún ìgbà gbogbo kúrò ní irú ìbáraẹnisọrọ ní gbangba nínú àwùjọ.
 
 
-## Attribution
+## Ìfọ̀rọ̀wérọ̀
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-version 2.0, available at
+Iwe Ìwà yìí jẹ́ àtúnṣe láti [Contributor Covenant][homepage],
+ẹ̀dá 2.0, tí ó wà ní 
 https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
 
-Community Impact Guidelines were inspired by [Mozilla's code of conduct
-enforcement ladder](https://github.com/mozilla/diversity).
+Àwọn Ilana Ètò Ìdájọ́ Awùjọ ni wọ́n rí ìmísí láti [pípe ìlànà ìmúlò Iwe Ìwà
+Mozilla](https://github.com/mozilla/diversity).
 
 [homepage]: https://www.contributor-covenant.org
 
-For answers to common questions about this code of conduct, see the FAQ at
-https://www.contributor-covenant.org/faq. Translations are available at
+Fún àwọn ìdáhùn sí àwọn ìbéèrè tí ó wọ́pọ̀ nípa Iwe Ìwà yìí, wo FAQ ní 
+https://www.contributor-covenant.org/faq. Àwọn àtúnmọ̀ yóò wà ní 
 https://www.contributor-covenant.org/translations.
+
