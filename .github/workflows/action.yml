@@ -1,10 +1,10 @@
-name: Check Markdown links
+orukọ: Ṣayẹwo Awọn ọna asopọ Markdown
 
-on: push
+ni: itẹ̀sí
 
-jobs:
+iṣẹ́:
   markdown-link-check:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@master
-      - uses: gaurav-nelson/github-action-markdown-link-check@v1
+    nṣiṣẹ́: ubuntu-latest
+    igbesẹ̀:
+      - lo: actions/checkout@master
+      - lo: gaurav-nelson/github-action-markdown-link-check@v1
