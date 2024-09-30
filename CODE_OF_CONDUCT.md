@@ -34,13 +34,10 @@ A, gẹgẹ bi awọn ọmọ ẹgbẹ, awọn oludasiṣẹ, ati awọn oludari
 Àwọn olùdarí àwùjọ ní ẹ̀tọ́ àti ojúṣe láti yọ, ṣàtúnṣe, tàbí kọ àwọn àlàyé, àwọn àfikún, kóòdù, ṣàtúnṣe sí wiki, àwọn iṣoro, àti àwọn ìfilọ́lẹ̀ míràn tí kò bá ìlànà Iwe Ìwà yìí mu, àti wọ́n yóò fi ìdí ẹ̀ tó pé fún ìdájọ́ náà kálẹ̀ nígbà tó bá yẹ.
 
 
-## Scope
+## Ààlà
 
-This Code of Conduct applies within all community spaces, and also applies when
-an individual is officially representing the community in public areas.
-Examples of representing our community include using an official e-mail address,
-posting via an official social media account, or acting as an appointed
-representative at an online or offline event.
+Iwe Ìwà yìí ní àpamọ́ sí gbogbo àwọn ibi àwùjọ, àti ó tún ní àpamọ́ sígbà tí ẹnikan bá ń ṣojú àwùjọ ní àwọn ààyè gbangba. Àpẹẹrẹ ti ṣíṣojú àwùjọ wa ni pẹ̀lú lílo àdírẹ́sì imeeli gẹgẹ bí ẹni tó ń ṣojú, fífiranṣẹ̀ nípasẹ̀ akọọ́lẹ̀ ẹ̀rọ ìbánisọ̀rọ̀ àwùjọ tó jẹ́ gbajúmọ̀, tàbí ṣe bí ẹni tó jẹ́ aṣojú tí wọ́n yàn ní iṣẹlẹ̀ lori ìkànnì tàbí iṣẹlẹ̀ tí kò ṣe ní ẹ̀rọ ayélujára.
+
 
 ## Enforcement
 
