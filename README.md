@@ -734,90 +734,90 @@ Gbogbo awọn itumọ fun ibi ipamọ yii yoo wa ni atokọ ni isalẹ:
 
 ---
 
-## 20. Pure Functions, Side Effects, State Mutation and Event Propagation
+## 20. Awọn iṣẹ-ṣiṣe Mimọ, Awọn ipa ẹgbẹ, Iyipada Ipo ati Itankale Iṣẹlẹ
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img align=center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Àwọn Àpilẹkọ
 
--  [Javascript and Functional Programming — Pure Functions — Omer Goldberg](https://hackernoon.com/javascript-and-functional-programming-pt-3-pure-functions-d572bb52e21c)
--  [Master the JavaScript Interview: What is a Pure Function? — Eric Elliott](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
--  [JavaScript: What Are Pure Functions And Why Use Them? — James Jeffery](https://medium.com/@jamesjefferyuk/javascript-what-are-pure-functions-4d4d5392d49c)
--  [Pure functions in JavaScript — @nicoespeon](http://www.nicoespeon.com/en/2015/01/pure-functions-javascript/)
--  [Functional Programming: Pure Functions — Arne Brasseur](https://www.sitepoint.com/functional-programming-pure-functions/)
--  [Making your JavaScript Pure — Jack Franklin](https://alistapart.com/article/making-your-javascript-pure)
--  [Arrays, Objects and Mutations — Federico Knüssel](https://medium.com/@fknussel/arrays-objects-and-mutations-6b23348b54aa)
--  [The State of Immutability — Maciej Sikora](https://medium.com/dailyjs/the-state-of-immutability-169d2cd11310)
+-  [Javascript ati Iṣeduro Iṣẹ-ṣiṣe — Awọn iṣẹ-ṣiṣe Mimọ — Omer Goldberg](https://hackernoon.com/javascript-and-functional-programming-pt-3-pure-functions-d572bb52e21c)
+-  [Di Ẹgbẹ Iṣaaju JavaScript: Kí ni Iṣẹ-ṣiṣe Mimọ? — Eric Elliott](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
+-  [JavaScript: Kí ni Awọn Iṣẹ-ṣiṣe Mimọ ati Kí ni idi ti a fi n lo wọn? — James Jeffery](https://medium.com/@jamesjefferyuk/javascript-what-are-pure-functions-4d4d5392d49c)
+-  [Awọn iṣẹ-ṣiṣe mimọ ni JavaScript — @nicoespeon](http://www.nicoespeon.com/en/2015/01/pure-functions-javascript/)
+-  [Iṣeduro Iṣẹ-ṣiṣe: Awọn iṣẹ-ṣiṣe Mimọ — Arne Brasseur](https://www.sitepoint.com/functional-programming-pure-functions/)
+-  [Ṣiṣe JavaScript rẹ di Mimọ — Jack Franklin](https://alistapart.com/article/making-your-javascript-pure)
+-  [Àwọn Àkópọ, Awọn ohun kan ati Iyipada — Federico Knüssel](https://medium.com/@fknussel/arrays-objects-and-mutations-6b23348b54aa)
+-  [Ipo ti Immutability — Maciej Sikora](https://medium.com/dailyjs/the-state-of-immutability-169d2cd11310)
 -  [Hablemos de Inmutabilidad — Kike Sanchez](https://medium.com/zurvin/hablemos-de-inmutabilidad-3dc65d290783)
--  [How to deal with dirty side effects in your pure functional JavaScript — James Sinclair](https://jrsinclair.com/articles/2018/how-to-deal-with-dirty-side-effects-in-your-pure-functional-javascript/)
--  [Preventing Side Effects in JavaScript — David Walsh](https://davidwalsh.name/preventing-sideeffects-javascript)
--  [JavaScript: Pure Functions — William S. Vincent](https://wsvincent.com/javascript-pure-functions/)
--  [Functional programming paradigms in modern JavaScript: Pure functions — Alexander Kondov](https://hackernoon.com/functional-programming-paradigms-in-modern-javascript-pure-functions-797d9abbee1)
--  [Understanding Javascript Mutation and Pure Functions — Chidume Nnamdi](https://blog.bitsrc.io/understanding-javascript-mutation-and-pure-functions-7231cc2180d3)
--  [Functional-ish JavaScript — Daniel Brain](https://medium.com/@bluepnume/functional-ish-javascript-205c05d0ed08)
--  [Event Propagation — MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
--  [Event Propagation — Bubbling and capturing](https://javascript.info/bubbling-and-capturing)
+-  [Bawo ni lati dojuko awọn ipa ẹgbẹ dirty ni JavaScript iṣẹ-ṣiṣe mimọ rẹ — James Sinclair](https://jrsinclair.com/articles/2018/how-to-deal-with-dirty-side-effects-in-your-pure-functional-javascript/)
+-  [Idena Awọn ipa ẹgbẹ ni JavaScript — David Walsh](https://davidwalsh.name/preventing-sideeffects-javascript)
+-  [JavaScript: Awọn Iṣẹ-ṣiṣe Mimọ — William S. Vincent](https://wsvincent.com/javascript-pure-functions/)
+-  [Àwọn ilana iṣeduro iṣẹ-ṣiṣe ni JavaScript ode oni: Awọn iṣẹ-ṣiṣe Mimọ — Alexander Kondov](https://hackernoon.com/functional-programming-paradigms-in-modern-javascript-pure-functions-797d9abbee1)
+-  [I understand Javascript Mutation and Pure Functions — Chidume Nnamdi](https://blog.bitsrc.io/understanding-javascript-mutation-and-pure-functions-7231cc2180d3)
+-  [Iṣẹ-ṣiṣe kan ni JavaScript — Daniel Brain](https://medium.com/@bluepnume/functional-ish-javascript-205c05d0ed08)
+-  [Itankale Iṣẹlẹ — MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
+-  [Itankale Iṣẹlẹ — Bubbling ati gbigba](https://javascript.info/bubbling-and-capturing)
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Fídíò
 
-- [Pure Functions — Hexlet](https://www.youtube.com/watch?v=dZ41D6LDSBg)
-- [Pure Functions - Functional Programming in JavaScript — Paul McBride](https://www.youtube.com/watch?v=Jh_Uzqzz_wM)
-- [JavaScript Pure Functions — Seth Alexander](https://www.youtube.com/watch?v=frT3H-eBmPc)
-- [JavaScript Pure vs Impure Functions Explained — Theodore Anderson](https://www.youtube.com/watch?v=AHbRVJzpB54)
-- [Pure Functions - Programação Funcional: Parte 1 - Fun Fun Function](https://www.youtube.com/watch?v=BMUiFMZr7vk)
-- [Event Propagation - JavaScript Event Bubbling and Propagation - Steve Griffith](https://www.youtube.com/watch?v=JYc7gr9Ehl0)
+- [Awọn Iṣẹ-ṣiṣe Mimọ — Hexlet](https://www.youtube.com/watch?v=dZ41D6LDSBg)
+- [Awọn Iṣẹ-ṣiṣe Mimọ - Iṣeduro Iṣẹ-ṣiṣe ni JavaScript — Paul McBride](https://www.youtube.com/watch?v=Jh_Uzqzz_wM)
+- [JavaScript Awọn Iṣẹ-ṣiṣe Mimọ — Seth Alexander](https://www.youtube.com/watch?v=frT3H-eBmPc)
+- [JavaScript Mimọ vs Impure Functions ti a ṣalaye — Theodore Anderson](https://www.youtube.com/watch?v=AHbRVJzpB54)
+- [Awọn Iṣẹ-ṣiṣe Mimọ - Iṣeduro Iṣẹ-ṣiṣe: Apá 1 - Fun Fun Function](https://www.youtube.com/watch?v=BMUiFMZr7vk)
+- [Itankale Iṣẹlẹ - Itankale Iṣẹlẹ JavaScript ati Itankale - Steve Griffith](https://www.youtube.com/watch?v=JYc7gr9Ehl0)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Pada si oke](#table-of-contents)**
 
 ---
 
-## 21. Closures
+## 21. Iparapọ
 
-### Reference
+### Ipele
 
--  [Closures — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
--  [Closure — JavaScript.Info](https://javascript.info/closure)
+-  [Iparapọ — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
+-  [Iparapọ — JavaScript.Info](https://javascript.info/closure)
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Àwọn Àkọọlẹ
 
--  [I never understood JavaScript closures — Olivier De Meulder](https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8)
--  [Understand JavaScript Closures With Ease — Richard Bovell](http://javascriptissexy.com/understand-javascript-closures-with-ease/)
--  [Understanding JavaScript Closures — Codesmith](https://codeburst.io/understanding-javascript-closures-da6aab330302)
--  [Understand Closures in JavaScript — Brandon Morelli](https://codeburst.io/understand-closures-in-javascript-d07852fa51e7)
--  [A simple guide to help you understand closures in JavaScript — Prashant Ram](https://medium.freecodecamp.org/javascript-closures-simplified-d0d23fa06ba4)
--  [Understanding JavaScript Closures: A Practical Approach — Paul Upendo](https://scotch.io/tutorials/understanding-javascript-closures-a-practical-approach)
--  [Understanding JavaScript: Closures — Alexander Kondov](https://hackernoon.com/understanding-javascript-closures-4188edf5ea1b)
--  [How to use JavaScript closures with confidence — Léna Faure](https://hackernoon.com/how-to-use-javascript-closures-with-confidence-85cd1f841a6b)
--  [JavaScript closures by example — tyler](https://howchoo.com/g/mge2mji2mtq/javascript-closures-by-example)
--  [JavaScript — Closures and Scope — Alex Aitken](https://codeburst.io/javascript-closures-and-scope-3784c75b9290)
--  [Discover the power of closures in JavaScript — Cristi Salcescu](https://medium.freecodecamp.org/discover-the-power-of-closures-in-javascript-5c472a7765d7)
--  [Getting Closure — RealLifeJS](http://reallifejs.com/the-meat/getting-closure/)
--  [Closure, Currying and IIFE in JavaScript — Ritik](https://dev.to/ritik_dev_js/what-the-hack-is-closure-currying-and-iife-in-javascript-32m9)
--  [Understanding Closures in JavaScript — Sukhjinder Arora](https://blog.bitsrc.io/a-beginners-guide-to-closures-in-javascript-97d372284dda)
--  [A basic guide to Closures in JavaScript — Parathan Thiyagalingam](https://medium.freecodecamp.org/a-basic-guide-to-closures-in-javascript-9fc8b7e3463e)
--  [Closures: Using Memoization — Brian Barbour](https://dev.to/steelvoltage/closures-using-memoization-3597)
--  [A Brief Introduction to Closures and Lexical Scoping in JavaScript — Ashutosh K Singh](https://betterprogramming.pub/a-brief-introduction-to-closures-and-lexical-scoping-in-javascript-8a5866496232)
--  [Demystify Closures — stereobooster](https://dev.to/stereobooster/demystify-closures-5g42)
--  [Scopes and Closures - JavaScript Concepts — Agney Menon](https://dev.to/boywithsilverwings/scopes-and-closures-javascript-concepts-4dfj)
--  [Understanding Closures in JavaScript — Matt Popovich](https://dev.to/mattpopovich/understanding-closures-in-javascript-3k0d)
--  [whatthefuck.is · A Closure - Dan Abramov](https://whatthefuck.is/closure)
--  [Closures in JavaScript can... - Brandon LeBoeuf](https://dev.to/brandonleboeuf/closure-in-javascript-49n7)
--  [Do you know Closures - Mohamed Khaled](https://dev.to/this_mkhy/do-you-know-es6-part-3-advanced-3fcl#Closures-2)
+-  [N kò mọ Iparapọ JavaScript — Olivier De Meulder](https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8)
+-  [Yẹra fun Iparapọ JavaScript Pẹlu Irọrun — Richard Bovell](http://javascriptissexy.com/understand-javascript-closures-with-ease/)
+-  [Itumọ Iparapọ JavaScript — Codesmith](https://codeburst.io/understanding-javascript-closures-da6aab330302)
+-  [Yẹra fun Iparapọ ni JavaScript — Brandon Morelli](https://codeburst.io/understand-closures-in-javascript-d07852fa51e7)
+-  [Iṣakoso to Rọrun lati Ran Ọ lọwọ lati Loye Iparapọ ni JavaScript — Prashant Ram](https://medium.freecodecamp.org/javascript-closures-simplified-d0d23fa06ba4)
+-  [Loye Iparapọ JavaScript: Ọna Ti a le Lo — Paul Upendo](https://scotch.io/tutorials/understanding-javascript-closures-a-practical-approach)
+-  [Loye JavaScript: Iparapọ — Alexander Kondov](https://hackernoon.com/understanding-javascript-closures-4188edf5ea1b)
+-  [Bá a ṣe le Lo Iparapọ JavaScript Pẹlu Igbagbọ — Léna Faure](https://hackernoon.com/how-to-use-javascript-closures-with-confidence-85cd1f841a6b)
+-  [Iparapọ JavaScript nipa Àpẹẹrẹ — tyler](https://howchoo.com/g/mge2mji2mtq/javascript-closures-by-example)
+-  [JavaScript — Iparapọ ati Ibi — Alex Aitken](https://codeburst.io/javascript-closures-and-scope-3784c75b9290)
+-  [Ṣawari Agbara Iparapọ ni JavaScript — Cristi Salcescu](https://medium.freecodecamp.org/discover-the-power-of-closures-in-javascript-5c472a7765d7)
+-  [Gba Iparapọ — RealLifeJS](http://reallifejs.com/the-meat/getting-closure/)
+-  [Iparapọ, Currying ati IIFE ni JavaScript — Ritik](https://dev.to/ritik_dev_js/what-the-hack-is-closure-currying-and-iife-in-javascript-32m9)
+-  [Loye Iparapọ ni JavaScript — Sukhjinder Arora](https://blog.bitsrc.io/a-beginners-guide-to-closures-in-javascript-97d372284dda)
+-  [Ìtòsọna ipilẹ si Iparapọ ni JavaScript — Parathan Thiyagalingam](https://medium.freecodecamp.org/a-basic-guide-to-closures-in-javascript-9fc8b7e3463e)
+-  [Iparapọ: Lilo Memoization — Brian Barbour](https://dev.to/steelvoltage/closures-using-memoization-3597)
+-  [Ìtòsọna Kékèké si Iparapọ ati Ibi Ise ni JavaScript — Ashutosh K Singh](https://betterprogramming.pub/a-brief-introduction-to-closures-and-lexical-scoping-in-javascript-8a5866496232)
+-  [Ṣe àkọsílẹ Iparapọ — stereobooster](https://dev.to/stereobooster/demystify-closures-5g42)
+-  [Ibi ati Iparapọ - Àwọn Ẹkọ JavaScript — Agney Menon](https://dev.to/boywithsilverwings/scopes-and-closures-javascript-concepts-4dfj)
+-  [Loye Iparapọ ni JavaScript — Matt Popovich](https://dev.to/mattpopovich/understanding-closures-in-javascript-3k0d)
+-  [whatthefuck.is · Iparapọ - Dan Abramov](https://whatthefuck.is/closure)
+-  [Iparapọ ni JavaScript le... - Brandon LeBoeuf](https://dev.to/brandonleboeuf/closure-in-javascript-49n7)
+-  [Ṣé o mọ Iparapọ - Mohamed Khaled](https://dev.to/this_mkhy/do-you-know-es6-part-3-advanced-3fcl#Closures-2)
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Àwọn Fídíò
 
-- [JavaScript The Hard Parts: Closure, Scope & Execution Context - Codesmith](https://www.youtube.com/watch?v=XTAzsODSCsM)
-- [Namaste Javascript by Akshay Saini](https://youtu.be/qikxEIxsXco?si=fGFgUHuaOW49Wg9p)
-- [Javascript Closure — techsith](https://www.youtube.com/watch?v=71AtaJpJHw0)
-- [Closures — Fun Fun Function](https://www.youtube.com/watch?v=CQqwU2Ixu-U)
-- [Closures in JavaScript — techsith](https://www.youtube.com/watch?v=-xqJo5VRP4A)
-- [JavaScript Closures 101: What is a closure? — JavaScript Tutorials](https://www.youtube.com/watch?v=yiEeiMN2Khs)
-- [Closures — freeCodeCamp](https://www.youtube.com/watch?v=1JsJx1x35c0)
-- [JavaScript Closures — CodeWorkr](https://www.youtube.com/watch?v=-rLrGAXK8WE)
-- [Closures in JS - Akshay Saini](https://www.youtube.com/watch?v=qikxEIxsXco)
-- [CLOSURES en JavaScript: Qué son y cómo funcionan - Carlos Azaustre](https://youtu.be/xa8lhVwQBw4)
-- [Learn Closures In 7 Minutes - Web Dev Simplified](https://www.youtube.com/watch?v=3a0I8ICR1Vg)
+- [JavaScript The Hard Parts: Iparapọ, Ibi & Iṣakoso Ise - Codesmith](https://www.youtube.com/watch?v=XTAzsODSCsM)
+- [Namaste Javascript nipasẹ Akshay Saini](https://youtu.be/qikxEIxsXco?si=fGFgUHuaOW49Wg9p)
+- [Iparapọ JavaScript — techsith](https://www.youtube.com/watch?v=71AtaJpJHw0)
+- [Iparapọ — Fun Fun Function](https://www.youtube.com/watch?v=CQqwU2Ixu-U)
+- [Iparapọ ni JavaScript — techsith](https://www.youtube.com/watch?v=-xqJo5VRP4A)
+- [Iparapọ JavaScript 101: Kí ni Iparapọ? — Àwọn ẹkọ JavaScript](https://www.youtube.com/watch?v=yiEeiMN2Khs)
+- [Iparapọ — freeCodeCamp](https://www.youtube.com/watch?v=1JsJx1x35c0)
+- [Iparapọ JavaScript — CodeWorkr](https://www.youtube.com/watch?v=-rLrGAXK8WE)
+- [Iparapọ ni JS - Akshay Saini](https://www.youtube.com/watch?v=qikxEIxsXco)
+- [IPARAPỌ ni JavaScript: Kí ni wọn jẹ àti bí wọn ṣe n ṣiṣẹ - Carlos Azaustre](https://youtu.be/xa8lhVwQBw4)
+- [Kọ Iparapọ ni Awọn iṣẹju 7 - Web Dev Simplified](https://www.youtube.com/watch?v=3a0I8ICR1Vg)
 
+**[⬆ Pada si Òkè](#table-of-contents)**
 
-**[⬆ Back to Top](#table-of-contents)**
 
 ---
 
