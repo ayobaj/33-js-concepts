@@ -101,103 +101,106 @@ Gbogbo awọn itumọ fun ibi ipamọ yii yoo wa ni atokọ ni isalẹ:
 
 ---
 
-## 1. Call Stack
+## 1. Pila Ipe
 
-### Reference
+### Iru Àwọn Iye Ìtọ́ka
 
 -  [Call Stack — MDN](https://developer.mozilla.org/en-US/docs/Glossary/Call_stack)
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Àwọn Àpilẹkọ
 
-- [Understanding Javascript Call Stack, Event Loops — Gaurav Pandvia](https://medium.com/@gaurav.pandvia/understanding-javascript-function-executions-tasks-event-loop-call-stack-more-part-1-5683dea1f5ec)
-- [Understanding the JavaScript Call Stack — Charles Freeborn](https://medium.freecodecamp.org/understanding-the-javascript-call-stack-861e41ae61d4)
--  [Javascript: What Is The Execution Context? What Is The Call Stack? — Valentino Gagliardi](https://medium.com/@valentinog/javascript-what-is-the-execution-context-what-is-the-call-stack-bd23c78f10d1)
--  [What is the JS Event Loop and Call Stack? — Jess Telford](https://gist.github.com/jesstelford/9a35d20a2aa044df8bf241e00d7bc2d0)
--  [Understanding Execution Context and Execution Stack in Javascript — Sukhjinder Arora](https://blog.bitsrc.io/understanding-execution-context-and-execution-stack-in-javascript-1c9ea8642dd0)
--  [How JavaScript Works Under The Hood: An Overview of JavaScript Engine, Heap and, Call Stack — Bipin Rajbhar](https://dev.to/bipinrajbhar/how-javascript-works-under-the-hood-an-overview-of-javascript-engine-heap-and-call-stack-1j5o)
--  [The JS Call stack Explained in 9 minutes](https://www.youtube.com/watch?v=W8AeMrVtFLY) - Colt Steel (YouTube)
+- [Ìgbàgbọ Ìtọkasi Stackpipe Javascript, Event Loops — Gaurav Pandvia](https://medium.com/@gaurav.pandvia/understanding-javascript-function-executions-tasks-event-loop-call-stack-more-part-1-5683dea1f5ec)
+- [Ìgbàgbọ Stackpipe Javascript — Charles Freeborn](https://medium.freecodecamp.org/understanding-the-javascript-call-stack-861e41ae61d4)
+- [Javascript: Kini Ẹgbẹ́ Ẹkọ? Kini Stackpipe Call? — Valentino Gagliardi](https://medium.com/@valentinog/javascript-what-is-the-execution-context-what-is-the-call-stack-bd23c78f10d1)
+- [Kini JS Event Loop àti Stackpipe Call? — Jess Telford](https://gist.github.com/jesstelford/9a35d20a2aa044df8bf241e00d7bc2d0)
+- [Ìgbàgbọ Akoko Àti Stackpipe Ìdájọ́ Ninu Javascript — Sukhjinder Arora](https://blog.bitsrc.io/understanding-execution-context-and-execution-stack-in-javascript-1c9ea8642dd0)
+- [Bawo ni Javascript Ṣe Nṣiṣẹ Nínú Ẹ̀kọ — Bipin Rajbhar](https://dev.to/bipinrajbhar/how-javascript-works-under-the-hood-an-overview-of-javascript-engine-heap-and-call-stack-1j5o)
+- [Àpilẹkọ Stackpipe JS ni Ìwọ̀n 9 iṣẹju](https://www.youtube.com/watch?v=W8AeMrVtFLY) - Colt Steel (YouTube)
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/> Àwọn Fídíò
 
-- [Javascript: the Call Stack explained — Coding Blocks India](https://www.youtube.com/watch?v=w6QGEiQceOM)
-- [The JS Call Stack Explained In 9 Minutes — Colt Steele](https://www.youtube.com/watch?v=W8AeMrVtFLY)
-- [What is the Call Stack? — Eric Traub](https://www.youtube.com/watch?v=w7QWQlkLY_s)
-- [The Call Stack — Kevin Drumm](https://www.youtube.com/watch?v=Q2sFmqvpBe0)
-- [Understanding JavaScript Execution — Codesmith](https://www.youtube.com/watch?v=Z6a1cLyq7Ac&list=PLWrQZnG8l0E4kd1T_nyuVoxQUaYEWFgcD)
-- [The Ultimate Guide to Execution Contexts, Hoisting, Scopes, and Closures in JavaScript — Tyler McGinnis](https://www.youtube.com/watch?v=Nt-qa_LlUH0)
-- [What the heck is the event loop anyway? — Philip Roberts](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
-- [La PILA DE EJECUCIÓN (Call Stack) de JavaScript — La Cocina del Código](https://www.youtube.com/watch?v=ygA5U7Wgsg8)
-- [How JavaScript Code is executed? ❤️& Call Stack — Akshay Saini](https://www.youtube.com/watch?v=iLWTnMzWtj4&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
-- [Call Stacks - CS50](https://www.youtube.com/watch?v=aCPkszeKRa4)
-- [Learn the JavaScript Call Stack - codecupdev](https://www.youtube.com/watch?v=HXqXPGS96rw)
-- [JavaScript Functions and the Call Stack | How does the Call stack work - Chidre'sTechTutorials](https://www.youtube.com/watch?v=P6H-T4cUDR4)
-    
-**[⬆ Back to Top](#table-of-contents)**
+- [Javascript: Stackpipe Call ṣàlàyé — Coding Blocks India](https://www.youtube.com/watch?v=w6QGEiQceOM)
+- [Stackpipe JS Ṣàlàyé Nínú Ìwọ̀n 9 iṣẹju — Colt Steele](https://www.youtube.com/watch?v=W8AeMrVtFLY)
+- [Kini Stackpipe Call? — Eric Traub](https://www.youtube.com/watch?v=w7QWQlkLY_s)
+- [Stackpipe Call — Kevin Drumm](https://www.youtube.com/watch?v=Q2sFmqvpBe0)
+- [Ìmọ̀ Ìṣẹ́ Nínú Javascript — Codesmith](https://www.youtube.com/watch?v=Z6a1cLyq7Ac&list=PLWrQZnG8l0E4kd1T_nyuVoxQUaYEWFgcD)
+- [Ìtọ́sọ́nà Gigà Nítorí Àṣà Ẹkọ, Àgbékalẹ̀, Àwọn Òfin, àti Ìdáná Nínú Javascript — Tyler McGinnis](https://www.youtube.com/watch?v=Nt-qa_LlUH0)
+- [Kini Lo’níló rẹ? — Philip Roberts](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+- [PILA DE EJECUCIÓN (Stackpipe Call) Javascript — La Cocina del Código](https://www.youtube.com/watch?v=ygA5U7Wgsg8)
+- [Báwo ni Javascript Ṣé Ṣiṣẹ? ❤️& Stackpipe Call — Akshay Saini](https://www.youtube.com/watch?v=iLWTnMzWtj4&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
+- [Stackpipe Call - CS50](https://www.youtube.com/watch?v=aCPkszeKRa4)
+- [Kọ Nipa Stackpipe Call Javascript - codecupdev](https://www.youtube.com/watch?v=HXqXPGS96rw)
+- [Ìmọ̀ Javascript Ati Stackpipe Call | Báwo ni Stackpipe Ṣe Nṣiṣẹ - Chidre'sTechTutorials](https://www.youtube.com/watch?v=P6H-T4cUDR4)
+
+**[⬆ Pada s'óke](#table-of-contents)**
 
 ---
 
-## 2. Primitive Types
+## 2. Iru Àwọn Iye Alákọkọ
 
-### Reference
+### Ìtọ́kasí
 
--  [JavaScript data types and data structures — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Primitive_values)
+-  [Àwọn ẹ̀dá ati àkópọ data Javascript — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Primitive_values)
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Àwọn Àpilẹkọ
 
--  [Primitive and Non-primitive data-types in JavaScript - GeeksforGeeks](https://www.geeksforgeeks.org/primitive-and-non-primitive-data-types-in-javascript)
--  [Javascript variables (Beginner thinking)](https://robiul.dev/javascript-variables-beginner-thinking)
--  [How numbers are encoded in JavaScript — Dr. Axel Rauschmayer](http://2ality.com/2012/04/number-encoding.html)
--  [What You Need to Know About JavaScript Number Type — Max Wizard K](https://indepth.dev/posts/1139/here-is-what-you-need-to-know-about-javascripts-number-type)
--  [What Every JavaScript Developer Should Know About Floating Point Numbers — Chewxy](https://blog.chewxy.com/2014/02/24/what-every-javascript-developer-should-know-about-floating-point-numbers/)
--  [The Secret Life of JavaScript Primitives — Angus Croll](https://javascriptweblog.wordpress.com/2010/09/27/the-secret-life-of-javascript-primitives/)
--  [Primitive Types — Flow](https://flow.org/en/docs/types/primitives/)
--  [(Not) Everything in JavaScript is an Object — Daniel Li](https://dev.to/d4nyll/not-everything-in-javascript-is-an-object)
--  [JavaScript data types and data structures — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Primitive_values)
--  [Diving Deeper in JavaScripts Objects — Arfat Salman](https://blog.bitsrc.io/diving-deeper-in-javascripts-objects-318b1e13dc12)
--  [The differences between Object.freeze() vs Const in JavaScript — Bolaji Ayodeji](https://medium.com/@bolajiayodeji/the-differences-between-object-freeze-vs-const-in-javascript-4eacea534d7c)
+-  [Iru Ẹ̀kọ Alákọkọ àti Ti Ko Ba Ṣe Alákọkọ Nínú Javascript - GeeksforGeeks](https://www.geeksforgeeks.org/primitive-and-non-primitive-data-types-in-javascript)
+-  [Àwọn Oníyàjẹ̀mí Nínú Javascript (Ẹ̀kọ Akọkọ)](https://robiul.dev/javascript-variables-beginner-thinking)
+-  [Báwo ni Àwọn Nọ́mbà Ṣe Wa Nínú Javascript — Dr. Axel Rauschmayer](http://2ality.com/2012/04/number-encoding.html)
+-  [Ohun tí O Nìyànjú Láti Mọ Nipa Iru Nọ́mbà Javascript — Max Wizard K](https://indepth.dev/posts/1139/here-is-what-you-need-to-know-about-javascripts-number-type)
+-  [Ohun tí Olùgbéejáde Javascript Yẹ Kí O Mọ Nipa Floating Point Nọ́mbà — Chewxy](https://blog.chewxy.com/2014/02/24/what-every-javascript-developer-should-know-about-floating-point-numbers/)
+-  [Àwọn Ẹ̀kọ Ìmọ Primitivi Nínú Javascript — Angus Croll](https://javascriptweblog.wordpress.com/2010/09/27/the-secret-life-of-javascript-primitives/)
+-  [Àwọn Iru Ẹ̀kọ Alákọkọ — Flow](https://flow.org/en/docs/types/primitives/)
+-  [(Kì í ṣe) Gbogbo Nínú Javascript jẹ̀ Ohun Kan — Daniel Li](https://dev.to/d4nyll/not-everything-in-javascript-is-an-object)
+-  [Àwọn Ẹ̀dá Ati Àkọpọ Data Nínú Javascript — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Primitive_values)
+-  [Ìjìnlẹ̀ Jinlè Nínú Àwọn Ohun Javascript — Arfat Salman](https://blog.bitsrc.io/diving-deeper-in-javascripts-objects-318b1e13dc12)
+-  [Àwọn Iyatọ Larin Object.freeze() àti Const Nínú Javascript — Bolaji Ayodeji](https://medium.com/@bolajiayodeji/the-differences-between-object-freeze-vs-const-in-javascript-4eacea534d7c)
 -  [Object to primitive conversion — JavaScript.info](https://javascript.info/object-toprimitive)
 - [Methods of primitives - Javascript.info](https://javascript.info/primitives-methods)
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/> Àwọn Fídíò
 
 - [JavaScript Reference vs Primitive Types — Academind](https://www.youtube.com/watch?v=9ooYYRLdg_g)
 - [JavaScript Primitive Types — Simon Sez IT](https://www.youtube.com/watch?v=HsbWQsSCE5Y)
 - [Value Types and Reference Types in JavaScript — Programming with Mosh](https://www.youtube.com/watch?v=e-_mDyqm2oU)
 - [JavaScript Primitive Data Types — Avelx](https://www.youtube.com/watch?v=qw3j0A3DIzQ)
-- [Everything you never wanted to know about JavaScript numbers — Bartek Szopka](https://www.youtube.com/watch?v=MqHDDtVYJRI)
-- [What are variables in Javascript? — JS For Everyone](https://www.youtube.com/watch?v=B4Bbmei_thw)
+- [Gbogbo Ohun tí O Kò Nìyàn Lati Mọ Nipa Nọ́mbà Javascript — Bartek Szopka](https://www.youtube.com/watch?v=MqHDDtVYJRI)
+- [Kí ni Àwọn Oniyàjẹ̀mí Nínú Javascript? — JS For Everyone](https://www.youtube.com/watch?v=B4Bbmei_thw)
 - [TIPOS DE DATOS PRIMITIVOS en JAVASCRIPT - La Cocina del Código](https://www.youtube.com/watch?v=cC65D2q5f8I)
 - [Data Type in JavaScript - ScholarHat](https://www.youtube.com/watch?v=aFDvBjVjCh8)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Pada s'óke](#table-of-contents)**
 
 ---
 
-## 3. Value Types and Reference Types
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+## 3. Iru Àwọn Iye àti Àwọn Iru Ijẹ́rẹ́
 
--  [Explaining Value vs. Reference in Javascript — Arnav Aggarwal](https://codeburst.io/explaining-value-vs-reference-in-javascript-647a975e12a0)
--  [Primitive Types & Reference Types in JavaScript — Bran van der Meer](https://gist.github.com/branneman/7fb06d8a74d7e6d4cbcf75c50fec599c)
--  [Value Types, Reference Types and Scope in JavaScript — Ben Aston](https://medium.com/@benastontweet/lesson-1b-javascript-fundamentals-380f601ba851)
--  [Back to roots: JavaScript Value vs Reference — Miro Koczka](https://medium.com/dailyjs/back-to-roots-javascript-value-vs-reference-8fb69d587a18)
--  [Grasp “By Value” and “By Reference” in JavaScript — Léna Faure](https://hackernoon.com/grasp-by-value-and-by-reference-in-javascript-7ed75efa1293)
--  [JavaScript Reference and Copy Variables — Vítor Capretz](https://hackernoon.com/javascript-reference-and-copy-variables-b0103074fdf0)
--  [JavaScript Primitive vs Reference Values](http://www.javascripttutorial.net/javascript-primitive-vs-reference-values/)
--  [JavaScript by Reference vs. by Value — nrabinowitz](https://stackoverflow.com/questions/6605640/javascript-by-reference-vs-by-value)
--  [JavaScript Interview Prep: Primitive vs. Reference Types — Mike Cronin](https://dev.to/mostlyfocusedmike/javascript-interview-prep-primitive-vs-reference-types-3o4f)
--  [forEach method in JavaScript - A Comprehensive Guide](https://robiul.dev/foreach-method-in-javascript-a-comprehensive-guide)
--  [JavaScript map vs. forEach: When to Use Each One - Sajal Soni](https://code.tutsplus.com/tutorials/javascript-map-vs-foreach-when-to-use-each-one--cms-38365)
+### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Àwọn Àpilẹkọ
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+-  [Ìtúpalẹ̀ Iye vs. Ijẹ́rẹ́ Nínú Javascript — Arnav Aggarwal](https://codeburst.io/explaining-value-vs-reference-in-javascript-647a975e12a0)
+-  [Iru Àwọn Iye Alákọkọ & Iru Ijẹ́rẹ́ Nínú Javascript — Bran van der Meer](https://gist.github.com/branneman/7fb06d8a74d7e6d4cbcf75c50fec599c)
+-  [Iru Àwọn Iye, Iru Ijẹ́rẹ́ àti Ibi Iṣẹ́ Nínú Javascript — Ben Aston](https://medium.com/@benastontweet/lesson-1b-javascript-fundamentals-380f601ba851)
+-  [Pada s’ígbà: Javascript Iye vs Ijẹ́rẹ́ — Miro Koczka](https://medium.com/dailyjs/back-to-roots-javascript-value-vs-reference-8fb69d587a18)
+-  [Mú “Nipasẹ́ Iye” àti “Nipasẹ́ Ijẹ́rẹ́” Nínú Javascript — Léna Faure](https://hackernoon.com/grasp-by-value-and-by-reference-in-javascript-7ed75efa1293)
+-  [Javascript Ijẹ́rẹ́ àti Ikọ́pá Àwọn Oníyàjẹ̀mí — Vítor Capretz](https://hackernoon.com/javascript-reference-and-copy-variables-b0103074fdf0)
+-  [Javascript Iru Alákọkọ vs Iru Ijẹ́rẹ́](http://www.javascripttutorial.net/javascript-primitive-vs-reference-values/)
+-  [Javascript nipa Ijẹ́rẹ́ vs. nipa Iye — nrabinowitz](https://stackoverflow.com/questions/6605640/javascript-by-reference-vs-by-value)
+-  [Ìtọ́sọ́nà Iwádìí Javascript: Iru Alákọkọ vs. Iru Ijẹ́rẹ́ — Mike Cronin](https://dev.to/mostlyfocusedmike/javascript-interview-prep-primitive-vs-reference-types-3o4f)
+-  [Ọna forEach Nínú Javascript - Ìtọ́sọ́nà Kúnrẹ́rẹ́](https://robiul.dev/foreach-method-in-javascript-a-comprehensive-guide)
+-  [Javascript map vs. forEach: Nigbà wo ni Lati Lo Kọọkan - Sajal Soni](https://code.tutsplus.com/tutorials/javascript-map-vs-foreach-when-to-use-each-one--cms-38365)
 
-- [Javascript Pass by Value vs Pass by Reference — techsith](https://www.youtube.com/watch?v=E-dAnFdq8k8)
-- [JavaScript Value vs Reference Types — Programming with Mosh](https://www.youtube.com/watch?v=fD0t_DKREbE)
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/> Àwọn Fídíò
+
+- [Javascript Pàsì nipasẹ Iye vs Pàsì nipasẹ Ijẹ́rẹ́ — techsith](https://www.youtube.com/watch?v=E-dAnFdq8k8)
+- [Javascript Iye vs Iru Ijẹ́rẹ́ — Programming with Mosh](https://www.youtube.com/watch?v=fD0t_DKREbE)
 - [VALORES vs REFERENCIAS en JAVASCRIPT - La Cocina del Código](https://www.youtube.com/watch?v=AvkyOrWkuQc)
-- [JavaScript - Reference vs Primitive Values/ Types - Academind](https://www.youtube.com/watch?v=9ooYYRLdg_g)
-- [Value Types and Reference Types in JavaScript - Programming with Mosh](https://www.youtube.com/watch?v=e-_mDyqm2oU)
+- [Javascript - Ijẹ́rẹ́ vs Iru Alákọkọ/ Iru - Academind](https://www.youtube.com/watch?v=9ooYYRLdg_g)
+- [Iru Àwọn Iye àti Iru Ijẹ́rẹ́ Nínú Javascript - Programming with Mosh](https://www.youtube.com/watch?v=e-_mDyqm2oU)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Pada s'óke](#table-of-contents)**
+
+
 
 ---
 
