@@ -643,129 +643,94 @@ Gbogbo awọn itumọ fun ibi ipamọ yii yoo wa ni atokọ ni isalẹ:
 
 ---
 
-## 18. Object.create and Object.assign
+## 18. Object.create ati Object.assign
 
-### Reference
+### Ijoba
 
 -  [Object.create() — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/create)
 -  [Object.assign() — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign)
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Àwọn Àpilẹ̀kọ
 
--  [Object.create in JavaScript — Rupesh Mishra](https://medium.com/@happymishra66/object-create-in-javascript-fa8674df6ed2)
--  [Object.create(): the New Way to Create Objects in JavaScript — Rob Gravelle](https://www.htmlgoodies.com/beyond/javascript/object.create-the-new-way-to-create-objects-in-javascript.html)
--  [Basic Inheritance with Object.create — Joshua Clanton](http://adripofjavascript.com/blog/drips/basic-inheritance-with-object-create.html)
--  [Object.create() In JavaScript — GeeksforGeeks](https://www.geeksforgeeks.org/object-create-javascript/)
--  [Understanding the difference between Object.create() and the new operator — Jonathan Voxland](https://medium.com/@jonathanvox01/understanding-the-difference-between-object-create-and-the-new-operator-b2a2f4749358)
--  [JavaScript Object Creation: Patterns and Best Practices — Jeff Mott](https://www.sitepoint.com/javascript-object-creation-patterns-best-practises/)
--  [Javascript hasOwnProperty: A Powerful Property Checking tool](https://robiul.dev/javascript-hasownproperty-method)
--  [Dealing With Objects in JavaScript With Object.assign, Object.keys and hasOwnProperty](https://www.digitalocean.com/community/tutorials/js-dealing-with-objects)
--  [Copying Objects in JavaScript ― Orinami Olatunji](https://scotch.io/bar-talk/copying-objects-in-javascript)
+-  [Object.create ninu JavaScript — Rupesh Mishra](https://medium.com/@happymishra66/object-create-in-javascript-fa8674df6ed2)
+-  [Object.create(): Ọna Tuntun Lati Da Awọn Ọbjects Ṣẹda Ninu JavaScript — Rob Gravelle](https://www.htmlgoodies.com/beyond/javascript/object.create-the-new-way-to-create-objects-in-javascript.html)
+-  [Iṣeduro Iṣẹ́ Pẹ̀lú Object.create — Joshua Clanton](http://adripofjavascript.com/blog/drips/basic-inheritance-with-object-create.html)
+-  [Object.create() Ninu JavaScript — GeeksforGeeks](https://www.geeksforgeeks.org/object-create-javascript/)
+-  [Loye iyatọ laarin Object.create() ati oludari tuntun — Jonathan Voxland](https://medium.com/@jonathanvox01/understanding-the-difference-between-object-create-and-the-new-operator-b2a2f4749358)
+-  [Creation Object Ninu JavaScript: Àwọn Àmì ati Àmúlò Tó Dara Jùlọ — Jeff Mott](https://www.sitepoint.com/javascript-object-creation-patterns-best-practises/)
+-  [Javascript hasOwnProperty: Ọpa Ẹtọ Nkan Ti o Lagbara — Ròbiul](https://robiul.dev/javascript-hasownproperty-method)
+-  [Iṣakoso Pẹlu Awọn Ọbjects Ninu JavaScript Pẹlu Object.assign, Object.keys ati hasOwnProperty](https://www.digitalocean.com/community/tutorials/js-dealing-with-objects)
+-  [Daakọ Awọn Ọbjects Ninu JavaScript ― Orinami Olatunji](https://scotch.io/bar-talk/copying-objects-in-javascript)
 -  [JavaScript: Object.assign() — Thiago S. Adriano](https://codeburst.io/javascript-object-assign-bc9696dcbb6e)
--  [How to deep clone a JavaScript Object — Flavio Copes](https://flaviocopes.com/how-to-clone-javascript-object/)
--  [Object.create(): When and Why to Use — VZing](https://dev.to/vzing/object-create-when-and-why-to-use-20m9)
+-  [Báwo ni Lati Deep Clone Ọbject JavaScript — Flavio Copes](https://flaviocopes.com/how-to-clone-javascript-object/)
+-  [Object.create(): Nigbawo ati Kíni Lati Lo — VZing](https://dev.to/vzing/object-create-when-and-why-to-use-20m9)
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Àwọn Fídíò
 
-- [Object.assign() explained — Aaron Writes Code](https://www.youtube.com/watch?v=aw7NfYhR5rc)
-- [Object.assign() Method — techsith](https://www.youtube.com/watch?v=9Ky4X6inpi4)
+- [Object.assign() ti ṣe alaye — Aaron Writes Code](https://www.youtube.com/watch?v=aw7NfYhR5rc)
+- [Iṣe Object.assign() — techsith](https://www.youtube.com/watch?v=9Ky4X6inpi4)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Pada si Oke](#table-of-contents)**
 
 ---
 
 ## 19. map, reduce, filter
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Àwọn Àpilẹ̀kọ
 
--  [JavaScript Functional Programming — map, filter and reduce — Bojan Gvozderac](https://medium.com/jsguru/javascript-functional-programming-map-filter-and-reduce-846ff9ba492d)
--  [Learn map, filter and reduce in Javascript — João Miguel Cunha](https://medium.com/@joomiguelcunha/learn-map-filter-and-reduce-in-javascript-ea59009593c4)
--  [JavaScript’s Map, Reduce, and Filter — Dan Martensen](https://danmartensen.svbtle.com/javascripts-map-reduce-and-filter)
--  [How to Use Map, Filter, & Reduce in JavaScript — Peleke Sengstacke](https://code.tutsplus.com/tutorials/how-to-use-map-filter-reduce-in-javascript--cms-26209)
--  [JavaScript — Learn to Chain Map, Filter, and Reduce — Brandon Morelli](https://codeburst.io/javascript-learn-to-chain-map-filter-and-reduce-acd2d0562cd4)
--  [Javascript data structure with map, reduce, filter and ES6 — Deepak Gupta](https://codeburst.io/write-beautiful-javascript-with-%CE%BB-fp-es6-350cd64ab5bf)
--  [Understanding map, filter and reduce in Javascript — Luuk Gruijs](https://hackernoon.com/understanding-map-filter-and-reduce-in-javascript-5df1c7eee464)
--  [Functional Programming in JS: map, filter, reduce (Pt. 5) — Omer Goldberg](https://hackernoon.com/functional-programming-in-js-map-filter-reduce-pt-5-308a205fdd5f)
+-  [JavaScript Iṣe Fun - map, filter ati reduce — Bojan Gvozderac](https://medium.com/jsguru/javascript-functional-programming-map-filter-and-reduce-846ff9ba492d)
+-  [Kọ ẹkọ map, filter ati reduce ninu Javascript — João Miguel Cunha](https://medium.com/@joomiguelcunha/learn-map-filter-and-reduce-in-javascript-ea59009593c4)
+-  [Map, Reduce, ati Filter Ninu JavaScript — Dan Martensen](https://danmartensen.svbtle.com/javascripts-map-reduce-and-filter)
+-  [Báwo ni Lati Lo Map, Filter, & Reduce Ninu JavaScript — Peleke Sengstacke](https://code.tutsplus.com/tutorials/how-to-use-map-filter-reduce-in-javascript--cms-26209)
+-  [JavaScript — Kọ ẹkọ Lati Ṣe Àtẹle Map, Filter, ati Reduce — Brandon Morelli](https://codeburst.io/javascript-learn-to-chain-map-filter-and-reduce-acd2d0562cd4)
+-  [JavaScript data structure pẹlu map, reduce, filter ati ES6 — Deepak Gupta](https://codeburst.io/write-beautiful-javascript-with-%CE%BB-fp-es6-350cd64ab5bf)
+-  [Loye map, filter ati reduce ninu Javascript — Luuk Gruijs](https://hackernoon.com/understanding-map-filter-and-reduce-in-javascript-5df1c7eee464)
+-  [Iṣe Fun Ninu JS: map, filter, reduce (Pt. 5) — Omer Goldberg](https://hackernoon.com/functional-programming-in-js-map-filter-reduce-pt-5-308a205fdd5f)
 -  [JavaScript: Map, Filter, Reduce — William S. Vincent](https://wsvincent.com/functional-javascript-map-filter-reduce/)
--  [Arrow Functions: Fat and Concise Syntax in JavaScript — Kyle Pennell](https://www.sitepoint.com/es6-arrow-functions-new-fat-concise-syntax-javascript/)
--  [JavaScript: Arrow Functions for Beginners — Brandon Morelli](https://codeburst.io/javascript-arrow-functions-for-beginners-926947fc0cdc)
--  [When (and why) you should use ES6 arrow functions — and when you shouldn’t — Cynthia Lee](https://medium.freecodecamp.org/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26)
--  [JavaScript — Learn & Understand Arrow Functions — Brandon Morelli](https://codeburst.io/javascript-learn-understand-arrow-functions-fe2083533946)
+-  [Arrow Functions: Àtẹ́wọ́dá ati Àtẹ̀lẹwọ́ Ninu JavaScript — Kyle Pennell](https://www.sitepoint.com/es6-arrow-functions-new-fat-concise-syntax-javascript/)
+-  [JavaScript: Arrow Functions fún Àwọn Olubere — Brandon Morelli](https://codeburst.io/javascript-arrow-functions-for-beginners-926947fc0cdc)
+-  [Nigbawo (ati kilode) o yẹ ki o lo arrow functions ES6 — ati nigbawo ti o yẹ ki o ma lo — Cynthia Lee](https://medium.freecodecamp.org/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26)
+-  [JavaScript — Kọ & Loye Arrow Functions — Brandon Morelli](https://codeburst.io/javascript-learn-understand-arrow-functions-fe2083533946)
 -  [(JavaScript )=> Arrow functions — sigu](https://medium.com/podiihq/javascript-arrow-functions-27d4c3334b83)
 -  [Javascript.reduce() — Paul Anderson](https://medium.com/@panderson.dev/javascript-reduce-79aab078da23)
--  [Why you should replace forEach with map and filter in JavaScript — Roope Hakulinen](https://gofore.com/en/why-you-should-replace-foreach/)
--  [Simplify your JavaScript – Use .map(), .reduce(), and .filter() — Etienne Talbot](https://medium.com/poka-techblog/simplify-your-javascript-use-map-reduce-and-filter-bd02c593cc2d)
--  [JavaScript’s Reduce Method Explained By Going On a Diet — Kevin Kononenko](https://blog.codeanalogies.com/2018/07/24/javascripts-reduce-method-explained-by-going-on-a-diet/)
--  [Difference between map, filter and reduce in JavaScript — Amirata Khodaparast](https://medium.com/@amiratak88/difference-between-map-filter-and-reduce-in-javascript-822ff79d5160)
+-  [Kilode ti o yẹ ki o rọpo forEach pẹlu map ati filter ninu JavaScript — Roope Hakulinen](https://gofore.com/en/why-you-should-replace-foreach/)
+-  [Mura JavaScript rẹ — Lo .map(), .reduce(), ati .filter() — Etienne Talbot](https://medium.com/poka-techblog/simplify-your-javascript-use-map-reduce-and-filter-bd02c593cc2d)
+-  [Method Reduce JavaScript ti ṣalaye nipa Lati lọ lori Ounjẹ — Kevin Kononenko](https://blog.codeanalogies.com/2018/07/24/javascripts-reduce-method-explained-by-going-on-a-diet/)
+-  [Iyatọ laarin map, filter ati reduce ninu JavaScript — Amirata Khodaparast](https://medium.com/@amiratak88/difference-between-map-filter-and-reduce-in-javascript-822ff79d5160)
 -  [Map⇄Filter⇄Reduce↻ — ashay mandwarya](https://hackernoon.com/map-filter-reduce-ebbed4be4201)
--  [Finding Your Way With .map() — Brandon Wozniewicz](https://medium.freecodecamp.org/finding-your-way-with-map-aecb8ca038f6)
--  [How to write your own map, filter and reduce functions in JavaScript — Hemand Nair](https://medium.freecodecamp.org/how-to-write-your-own-map-filter-and-reduce-functions-in-javascript-ab1e35679d26)
--  [How to Manipulate Arrays in JavaScript — Bolaji Ayodeji](https://www.freecodecamp.org/news/manipulating-arrays-in-javascript/)
--  [How to simplify your codebase with map(), reduce(), and filter() in JavaScript — Alex Permyakov](https://www.freecodecamp.org/news/15-useful-javascript-examples-of-map-reduce-and-filter-74cbbb5e0a1f)
--  [.map(), .filter(), and .reduce() — Andy Pickle](https://dev.to/pickleat/map-filter-and-reduce-2efb)
+-  [Ri Ọna Rẹ Pẹlu .map() — Brandon Wozniewicz](https://medium.freecodecamp.org/finding-your-way-with-map-aecb8ca038f6)
+-  [Báwo ni Lati kọ àwa tirẹ map, filter ati reduce awọn iṣẹ ni JavaScript — Hemand Nair](https://medium.freecodecamp.org/how-to-write-your-own-map-filter-and-reduce-functions-in-javascript-ab1e35679d26)
+-  [Báwo ni Lati Ṣakoso Awọn akojọ Ninu JavaScript — Bolaji Ayodeji](https://www.freecodecamp.org/news/manipulating-arrays-in-javascript/)
+-  [Báwo ni lati rọrun awọn koodu rẹ pẹlu map(), reduce(), ati filter() ninu JavaScript — Alex Permyakov](https://www.freecodecamp.org/news/15-useful-javascript-examples-of-map-reduce-and-filter-74cbbb5e0a1f)
+-  [.map(), .filter(), ati .reduce() — Andy Pickle](https://dev.to/pickleat/map-filter-and-reduce-2efb)
 -  [Map/Filter/Reduce Crash Course — Chris Achard](https://dev.to/chrisachard/map-filter-reduce-crash-course-5gan)
--  [Map, Filter and Reduce – Animated — JavaScript Teacher](https://medium.com/@js_tut/map-filter-and-reduce-animated-7fe391a35a47)
--  [Map, Filter, Reduce and others Arrays Iterators You Must Know to Become an Algorithms Wizard — Mauro Bono](https://dev.to/uptheirons78/map-filter-reduce-and-others-arrays-iterators-you-must-know-to-become-an-algorithms-wizard-4209)
--  [How to Use JavaScript’s .map, .filter, and .reduce — Avery Duffin](https://betterprogramming.pub/how-to-javascripts-map-vs-filter-vs-reduce-80d87a5a0a24)
--  [Javascript performance test - for vs for each vs (map, reduce, filter, find) — Deepak Gupta](https://towardsdatascience.com/javascript-performance-test-for-vs-for-each-vs-map-reduce-filter-find-32c1113f19d7)
--  [Using .map(), .filter() and .reduce() properly — Sasanka Kudagoda](https://medium.com/javascript-in-plain-english/using-map-filter-and-reduce-properly-50e07f80c8b2)
--  [Mastering the JavaScript Reduce method ✂️ — sanderdebr](https://dev.to/sanderdebr/mastering-the-javascript-reduce-method-2foj)
--  [JavaScript Map – How to Use the JS .map() Function (Array Method) — FreeCodeCamp](https://www.freecodecamp.org/news/javascript-map-how-to-use-the-js-map-function-array-method/)
+-  [Map, Filter ati Reduce – Animated — Olukọ JavaScript](https://medium.com/@js_tut/map-filter-and-reduce-animated-7fe391a35a47)
+-  [Map, Filter, Reduce ati awọn Iterators Arrays miiran Ti o gbọdọ mọ lati di Wizard Algorithms — Mauro Bono](https://dev.to/uptheirons78/map-filter-reduce-and-others-arrays-iterators-you-must-know-to-become-an-algorithms-wizard-4209)
+-  [Bawo ni Lati Lo .map, .filter, ati .reduce JavaScript — Avery Duffin](https://betterprogramming.pub/how-to-javascripts-map-vs-filter-vs-reduce-80d87a5a0a24)
+-  [Idanwo iṣẹ-ṣiṣe Javascript - fun vs fun kọọkan vs (map, reduce, filter, find) — Deepak Gupta](https://towardsdatascience.com/javascript-performance-test-for-vs-for-each-vs-map-reduce-filter-find-32c1113f19d7)
+-  [Lilo .map(), .filter() ati .reduce() ni ọna to tọ — Sasanka Kudagoda](https://medium.com/javascript-in-plain-english/using-map-filter-and-reduce-properly-50e07f80c8b2)
+-  [Iṣakoso Ilana JavaScript Reduce ✂️ — sanderdebr](https://dev.to/sanderdebr/mastering-the-javascript-reduce-method-2foj)
+-  [JavaScript Map – Bawo ni Lati Lo iṣẹ .map() JS (Ọna Array) — FreeCodeCamp](https://www.freecodecamp.org/news/javascript-map-how-to-use-the-js-map-function-array-method/)
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Fídíò
 
-- [Map, Filter and Reduce — Lydia Hallie](https://www.youtube.com/watch?v=UXiYii0Y7Nw)
-- [Map, Filter and Reduce - Akshaay Saini](https://youtu.be/zdp0zrpKzIE?si=6QusFzD6tmwn-el4)
+- [Map, Filter ati Reduce — Lydia Hallie](https://www.youtube.com/watch?v=UXiYii0Y7Nw)
+- [Map, Filter ati Reduce - Akshaay Saini](https://youtu.be/zdp0zrpKzIE?si=6QusFzD6tmwn-el4)
 - [Functional JavaScript: Map, forEach, Reduce, Filter — Theodore Anderson](https://www.youtube.com/watch?v=vytzLlY_wmU)
-- [JavaScript Array superpowers: Map, Filter, Reduce (part I) — Michael Rosata](https://www.youtube.com/watch?v=qTeeVd8hOFY)
-- [JavaScript Array superpowers: Map, Filter, Reduce (part 2) — Michael Rosata](https://www.youtube.com/watch?v=gIm9xLYudL0)
+- [JavaScript Array superpowers: Map, Filter, Reduce (ipari I) — Michael Rosata](https://www.youtube.com/watch?v=qTeeVd8hOFY)
+- [JavaScript Array superpowers: Map, Filter, Reduce (ipari II) — Michael Rosata](https://www.youtube.com/watch?v=gIm9xLYudL0)
 - [JavaScript Higher Order Functions - Filter, Map, Sort & Reduce — Epicop](https://www.youtube.com/watch?v=zYBeEPxNSbw)
-- [[Array Methods 2/3] .filter + .map + .reduce — CodeWithNick](https://www.youtube.com/watch?v=4qWlqD0yYTU)
-- [Arrow functions in JavaScript - What, Why and How — Fun Fun Function](https://www.youtube.com/watch?v=6sQDTgOqh-I)
-- [Learning Functional Programming with JavaScript — Anjana Vakil - JSUnconf](https://www.youtube.com/watch?v=e-5obm1G_FY&t=1521s)
-- [Map - Parte 2 JavaScript - Fun Fun Function](https://www.youtube.com/watch?v=bCqtb-Z5YGQ&t=17s)
-- [Reduce basics - Part 3 of FP in JavaScript - Fun Fun Function](https://www.youtube.com/watch?v=Wl98eZpkp-c)
-- [Reduce Advanced - Part 4 of FP in JavaScript - Fun Fun Function](https://www.youtube.com/watch?v=1DMolJ2FrNY&t=621s)
-- [reduce Array Method | JavaScript Tutorial - Florin Pop](https://www.youtube.com/watch?v=IXp06KekEjM)
-- [map Array Method | JavaScript Tutorial - Florin Pop](https://www.youtube.com/watch?v=P4RAFdZDn3M)
-- [Different array methods in 1 minute | Midudev (Spanish)](https://youtu.be/Ah7-PPjQ5Ls)
+- [[Ọna Array 2/3] .filter + .map + .reduce — CodeWithNick](https://www.youtube.com/watch?v=4qWlqD0yYTU)
+- [Awọn iṣẹ-ṣiṣe onigun ni JavaScript - Kí, Kí ni ati Bawo — Fun Fun Function](https://www.youtube.com/watch?v=6sQDTgOqh-I)
+- [Kọ ẹkọ Ẹkọ Iṣẹ-ṣiṣe pẹlu JavaScript — Anjana Vakil - JSUnconf](https://www.youtube.com/watch?v=e-5obm1G_FY&t=1521s)
+- [Map - Apá 2 JavaScript - Fun Fun Function](https://www.youtube.com/watch?v=bCqtb-Z5YGQ&t=17s)
+- [Iṣaaju Reduce - Apá 3 ti FP ni JavaScript - Fun Fun Function](https://www.youtube.com/watch?v=Wl98eZpkp-c)
+- [Reduce Ijinle - Apá 4 ti FP ni JavaScript - Fun Fun Function](https://www.youtube.com/watch?v=1DMolJ2FrNY&t=621s)
+- [Iṣe reduce Array | Itọsọna JavaScript - Florin Pop](https://www.youtube.com/watch?v=IXp06KekEjM)
+- [Iṣe map Array | Itọsọna JavaScript - Florin Pop](https://www.youtube.com/watch?v=P4RAFdZDn3M)
+- [Awọn ọna array oriṣiriṣi ni iṣẹju kan | Midudev (Sipeeni)](https://youtu.be/Ah7-PPjQ5Ls)
 
-**[⬆ Back to Top](#table-of-contents)**
-
----
-
-## 20. Pure Functions, Side Effects, State Mutation and Event Propagation
-
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
-
--  [Javascript and Functional Programming — Pure Functions — Omer Goldberg](https://hackernoon.com/javascript-and-functional-programming-pt-3-pure-functions-d572bb52e21c)
--  [Master the JavaScript Interview: What is a Pure Function? — Eric Elliott](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
--  [JavaScript: What Are Pure Functions And Why Use Them? — James Jeffery](https://medium.com/@jamesjefferyuk/javascript-what-are-pure-functions-4d4d5392d49c)
--  [Pure functions in JavaScript — @nicoespeon](http://www.nicoespeon.com/en/2015/01/pure-functions-javascript/)
--  [Functional Programming: Pure Functions — Arne Brasseur](https://www.sitepoint.com/functional-programming-pure-functions/)
--  [Making your JavaScript Pure — Jack Franklin](https://alistapart.com/article/making-your-javascript-pure)
--  [Arrays, Objects and Mutations — Federico Knüssel](https://medium.com/@fknussel/arrays-objects-and-mutations-6b23348b54aa)
--  [The State of Immutability — Maciej Sikora](https://medium.com/dailyjs/the-state-of-immutability-169d2cd11310)
--  [Hablemos de Inmutabilidad — Kike Sanchez](https://medium.com/zurvin/hablemos-de-inmutabilidad-3dc65d290783)
--  [How to deal with dirty side effects in your pure functional JavaScript — James Sinclair](https://jrsinclair.com/articles/2018/how-to-deal-with-dirty-side-effects-in-your-pure-functional-javascript/)
--  [Preventing Side Effects in JavaScript — David Walsh](https://davidwalsh.name/preventing-sideeffects-javascript)
--  [JavaScript: Pure Functions — William S. Vincent](https://wsvincent.com/javascript-pure-functions/)
--  [Functional programming paradigms in modern JavaScript: Pure functions — Alexander Kondov](https://hackernoon.com/functional-programming-paradigms-in-modern-javascript-pure-functions-797d9abbee1)
--  [Understanding Javascript Mutation and Pure Functions — Chidume Nnamdi](https://blog.bitsrc.io/understanding-javascript-mutation-and-pure-functions-7231cc2180d3)
--  [Functional-ish JavaScript — Daniel Brain](https://medium.com/@bluepnume/functional-ish-javascript-205c05d0ed08)
--  [Event Propagation — MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
--  [Event Propagation — Bubbling and capturing](https://javascript.info/bubbling-and-capturing)
-
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
-
-- [Pure Functions — Hexlet](https://www.youtube.com/watch?v=dZ41D6LDSBg)
-- [Pure Functions - Functional Programming in JavaScript — Paul McBride](https://www.youtube.com/watch?v=Jh_Uzqzz_wM)
-- [JavaScript Pure Functions — Seth Alexander](https://www.youtube.com/watch?v=frT3H-eBmPc)
-- [JavaScript Pure vs Impure Functions Explained — Theodore Anderson](https://www.youtube.com/watch?v=AHbRVJzpB54)
-- [Pure Functions - Programação Funcional: Parte 1 - Fun Fun Function](https://www.youtube.com/watch?v=BMUiFMZr7vk)
-- [Event Propagation - JavaScript Event Bubbling and Propagation - Steve Griffith](https://www.youtube.com/watch?v=JYc7gr9Ehl0)
-
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Pada si oke](#table-of-contents)**
 
 ---
 
