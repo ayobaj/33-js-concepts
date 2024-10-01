@@ -204,57 +204,58 @@ Gbogbo awọn itumọ fun ibi ipamọ yii yoo wa ni atokọ ni isalẹ:
 
 ---
 
-## 4. Implicit, Explicit, Nominal, Structuring and Duck Typing
+## 4. Imù, Kedere, Ìtọ́ka, Ìṣàkóso àti Duck Typing
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Àwárí
 
--  [What you need to know about Javascript's Implicit Coercion — Promise Tochi](https://dev.to/promhize/what-you-need-to-know-about-javascripts-implicit-coercion-e23)
--  [JavaScript Type Coercion Explained — Alexey Samoshkin](https://medium.freecodecamp.org/js-type-coercion-explained-27ba3d9a2839)
--  [Javascript Coercion Explained — Ben Garrison](https://hackernoon.com/javascript-coercion-explained-545c895213d3)
--  [What exactly is Type Coercion in Javascript? - Stack Overflow](https://stackoverflow.com/questions/19915688/what-exactly-is-type-coercion-in-javascript)
+-  [Ohun ti o nilo lati mọ nipa Imù Ìkànsí Javascript — Promise Tochi](https://dev.to/promhize/what-you-need-to-know-about-javascripts-implicit-coercion-e23)
+-  [Ìkànsí Iru JavaScript ti a ṣe alaye — Alexey Samoshkin](https://medium.freecodecamp.org/js-type-coercion-explained-27ba3d9a2839)
+-  [Ìkànsí Javascript ti a ṣe alaye — Ben Garrison](https://hackernoon.com/javascript-coercion-explained-545c895213d3)
+-  [Kini gangan ni Ìkànsí Iru ni Javascript? - Stack Overflow](https://stackoverflow.com/questions/19915688/what-exactly-is-type-coercion-in-javascript)
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Fídíò
 
 - [== ? === ??? ...#@^% - Shirmung Bielefeld](https://www.youtube.com/watch?v=qGyqzN0bjhc&t)
-- [Coercion in Javascript - Hitesh Choudhary](https://www.youtube.com/watch?v=b04Q_vyqEG8)
-- [JavaScript Questions: What is Coercion? - Steven Hancock](https://www.youtube.com/watch?v=z4-8wMSPJyI)
-- [Typing: Static vs Dynamic, Weak vs. Strong - Codexpanse](https://www.youtube.com/watch?v=C5fr0LZLMAs)
-- [EL SISTEMA de TIPOS DE JAVASCRIPT - La Cocina del Código](https://www.youtube.com/watch?v=0ei4nb49GKo)
-- [Duck Typing in Javascript - Techmaker Studio](https://www.youtube.com/watch?v=oEpgyoMEkrM)
+- [Ìkànsí ni Javascript - Hitesh Choudhary](https://www.youtube.com/watch?v=b04Q_vyqEG8)
+- [Ìbéèrè JavaScript: Kini Ìkànsí? - Steven Hancock](https://www.youtube.com/watch?v=z4-8wMSPJyI)
+- [Típa: Iṣọkan vs Iṣe, Aláìmọ́ vs. Alágbára - Codexpanse](https://www.youtube.com/watch?v=C5fr0LZLMAs)
+- [Ẹ̀KỌ́ nipa Àwọn Iru ti JAVASCRIPT - La Cocina del Código](https://www.youtube.com/watch?v=0ei4nb49GKo)
+- [Duck Typing ni Javascript - Techmaker Studio](https://www.youtube.com/watch?v=oEpgyoMEkrM)
 
-### Books
+### Iwe
 
-- [You Don't Know JS, 1st Edition: Types & Grammar — Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed)
+- [O ko mọ JS, Itẹjade 1: Àwọn Iru & Gírámà — Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Pada si oke](#table-of-contents)**
 
 ---
 
 ## 5. == vs === vs typeof
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Àwárí
 
--  [JavaScript Double Equals vs. Triple Equals — Brandon Morelli](https://codeburst.io/javascript-double-equals-vs-triple-equals-61d4ce5a121a)
--  [Should I use === or == equality comparison operator in JavaScript? — Panu Pitkamaki](https://bytearcher.com/articles/equality-comparison-operator-javascript/)
--  [Why Use the Triple-Equals Operator in JavaScript? — Louis Lazaris](https://www.impressivewebs.com/why-use-triple-equals-javascipt/)
--  [What is the difference between == and === in JavaScript? — Craig Buckler](https://www.oreilly.com/learning/what-is-the-difference-between-and-in-javascript)
--  [Why javascript's typeof always return "object"? — Stack Overflow](https://stackoverflow.com/questions/3787901/why-javascripts-typeof-always-return-object)
--  [Checking Types in Javascript — Toby Ho](http://tobyho.com/2011/01/28/checking-types-in-javascript/)
--  [How to better check data types in JavaScript — Webbjocke](https://webbjocke.com/javascript-check-data-types/)
--  [Checking for the Absence of a Value in JavaScript — Tomer Aberbach](https://tomeraberba.ch/html/post/checking-for-the-absence-of-a-value-in-javascript.html)
--  [Difference Between == and === in Javascript](https://www.scaler.com/topics/javascript/difference-between-double-equals-and-triple-equals-in-javascript/)    
--  [Difference between == and === in JavaScript — GeeksforGeeks](https://www.geeksforgeeks.org/difference-between-double-equal-vs-triple-equal-javascript/)
--  [=== vs == Comparision in JavaScript — FreeCodeCamp](https://www.freecodecamp.org/news/javascript-triple-equals-sign-vs-double-equals-sign-comparison-operators-explained-with-examples/)
+-  [Iwọn Meji JavaScript vs. Iwọn Mẹta — Brandon Morelli](https://codeburst.io/javascript-double-equals-vs-triple-equals-61d4ce5a121a)
+-  [Ṣe mo gbọdọ lo === tabi == bi oluyẹwo ìkan ni JavaScript? — Panu Pitkamaki](https://bytearcher.com/articles/equality-comparison-operator-javascript/)
+-  [Kí ni idi ti o fi lo oluyẹwo Iwọn Mẹta ni JavaScript? — Louis Lazaris](https://www.impressivewebs.com/why-use-triple-equals-javascipt/)
+-  [Kini iyatọ laarin == ati === ni JavaScript? — Craig Buckler](https://www.oreilly.com/learning/what-is-the-difference-between-and-in-javascript)
+-  [Kí ni idi ti typeof Javascript nigbagbogbo ma da “ohun” pada? — Stack Overflow](https://stackoverflow.com/questions/3787901/why-javascripts-typeof-always-return-object)
+-  [Ṣayẹwo Àwọn Iru ni Javascript — Toby Ho](http://tobyho.com/2011/01/28/checking-types-in-javascript/)
+-  [Báwo ni lati ṣayẹwo awọn iru data ni JavaScript dara julọ — Webbjocke](https://webbjocke.com/javascript-check-data-types/)
+-  [Ṣayẹwo fun Aisi Iye ni JavaScript — Tomer Aberbach](https://tomeraberba.ch/html/post/checking-for-the-absence-of-a-value-in-javascript.html)
+-  [Iyato laarin == ati === ni Javascript](https://www.scaler.com/topics/javascript/difference-between-double-equals-and-triple-equals-in-javascript/)    
+-  [Iyato laarin == ati === ni JavaScript — GeeksforGeeks](https://www.geeksforgeeks.org/difference-between-double-equal-vs-triple-equal-javascript/)
+-  [=== vs == Iwoye ni JavaScript — FreeCodeCamp](https://www.freecodecamp.org/news/javascript-triple-equals-sign-vs-double-equals-sign-comparison-operators-explained-with-examples/)
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Fídíò
 
-- [JavaScript - The typeof operator — Java Brains](https://www.youtube.com/watch?v=ol_su88I3kw)
-- [Javascript typeof operator — DevDelight](https://www.youtube.com/watch?v=qPYhTPt_SbQ)
+- [JavaScript - Oluyẹwo typeof — Java Brains](https://www.youtube.com/watch?v=ol_su88I3kw)
+- [Javascript oluyẹwo typeof — DevDelight](https://www.youtube.com/watch?v=qPYhTPt_SbQ)
 - [JavaScript "==" VS "===" — Web Dev Simplified](https://www.youtube.com/watch?v=C5ZVC4HHgIg)
-- [=== vs == in javascript - Hitesh Choudhary](https://www.youtube.com/watch?v=a0S1iG3TgP0)
-- [The typeof operator in JS - CodeVault](https://www.youtube.com/watch?v=NSS5WRcv7yM)
+- [=== vs == ni javascript - Hitesh Choudhary](https://www.youtube.com/watch?v=a0S1iG3TgP0)
+- [Oluyẹwo typeof ni JS - CodeVault](https://www.youtube.com/watch?v=NSS5WRcv7yM)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Pada si oke](#table-of-contents)**
+
 
 ---
 
