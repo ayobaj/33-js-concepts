@@ -885,93 +885,76 @@ Gbogbo awọn itumọ fun ibi ipamọ yii yoo wa ni atokọ ni isalẹ:
 
 ---
 
-## 24. Collections and Generators
+## 24. Awọn Ikọ̀ àti Àmúyẹ
 
-### Reference
+### Ìtọ́kasí
 
--  [Generator — MDN web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator)
+- [Àmúyẹ — MDN web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator)
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Àwọn Àtòkọ
 
--  [ES6 In Depth: Collections — Jason Orendorff](https://hacks.mozilla.org/2015/06/es6-in-depth-collections/)
--  [ES6 Collections: Using Map, Set, WeakMap, WeakSet — Kyle Pennell](https://www.sitepoint.com/es6-collections-map-set-weakmap-weakset/)
--  [ES6 WeakMaps, Sets, and WeakSets in Depth — Nicolás Bevacqua](https://ponyfoo.com/articles/es6-weakmaps-sets-and-weaksets-in-depth)
--  [Map, Set, WeakMap and WeakSet — JavaScript.Info](https://javascript.info/map-set-weakmap-weakset)
--  [Maps in ES6 - A Quick Guide — Ben Mildren](https://dev.to/mildrenben/maps-in-es6---a-quick-guide-35pk)
--  [ES6 — Set vs Array — What and when? — Maya Shavin](https://medium.com/front-end-hacking/es6-set-vs-array-what-and-when-efc055655e1a)
--  [ES6 — Map vs Object — What and when? — Maya Shavin](https://medium.com/front-end-hacking/es6-map-vs-object-what-and-when-b80621932373)
--  [Array vs Set vs Map vs Object — Real-time use cases in Javascript (ES6/ES7) — Rajesh Babu](https://codeburst.io/array-vs-set-vs-map-vs-object-real-time-use-cases-in-javascript-es6-47ee3295329b)
--  [How to create an array of unique values in JavaScript using Sets — Claire Parker-Jones](https://dev.to/claireparker/how-to-create-an-array-of-unique-values-in-javascript-using-sets-5dg6)
--  [What You Should Know About ES6 Maps — Just Chris](https://hackernoon.com/what-you-should-know-about-es6-maps-dc66af6b9a1e)
--  [ES6 Maps in Depth — Nicolás Bevacqua](https://ponyfoo.com/articles/es6-maps-in-depth)
--  [What are JavaScript Generators and how to use them — Vladislav Stepanov](https://codeburst.io/what-are-javascript-generators-and-how-to-use-them-c6f2713fd12e)
--  [Understanding JavaScript Generators With Examples — Arfat Salman](https://codeburst.io/understanding-generators-in-es6-javascript-with-examples-6728834016d5)
--  [The Basics of ES6 Generators — Kyle Simpson](https://davidwalsh.name/es6-generators)
--  [An Introduction to JavaScript Generators — Alice Kallaugher](https://dev.to/kallaugher/an-introduction-to-javascript-generators-1224)
+- [ES6 Ni Ijinlẹ: Awọn Ikọ̀ — Jason Orendorff](https://hacks.mozilla.org/2015/06/es6-in-depth-collections/)
+- [ES6 Awọn Ikọ̀: Lilo Map, Set, WeakMap, WeakSet — Kyle Pennell](https://www.sitepoint.com/es6-collections-map-set-weakmap-weakset/)
+- [ES6 WeakMaps, Sets, ati WeakSets Ni Ijinlẹ — Nicolás Bevacqua](https://ponyfoo.com/articles/es6-weakmaps-sets-and-weaksets-in-depth)
+- [Map, Set, WeakMap ati WeakSet — JavaScript.Info](https://javascript.info/map-set-weakmap-weakset)
+- [Maps Ni ES6 - Itọsọna Kẹrẹ — Ben Mildren](https://dev.to/mildrenben/maps-in-es6---a-quick-guide-35pk)
+- [ES6 — Set vs Array — Kí ni àti nígbà wo? — Maya Shavin](https://medium.com/front-end-hacking/es6-set-vs-array-what-and-when-efc055655e1a)
+- [ES6 — Map vs Object — Kí ni àti nígbà wo? — Maya Shavin](https://medium.com/front-end-hacking/es6-map-vs-object-what-and-when-b80621932373)
+- [Array vs Set vs Map vs Object — Awọn ọran ìmúlẹ̀ ni JavaScript (ES6/ES7) — Rajesh Babu](https://codeburst.io/array-vs-set-vs-map-vs-object-real-time-use-cases-in-javascript-es6-47ee3295329b)
+- [Báwo ni a ṣe le ṣẹda array ti awọn iye alailẹgbẹ ni JavaScript nipa lilo Sets — Claire Parker-Jones](https://dev.to/claireparker/how-to-create-an-array-of-unique-values-in-javascript-using-sets-5dg6)
+- [Kí ni O yẹ Kí O Mọ Nípa ES6 Maps — Just Chris](https://hackernoon.com/what-you-should-know-about-es6-maps-dc66af6b9a1e)
+- [ES6 Maps Ni Ijinlẹ — Nicolás Bevacqua](https://ponyfoo.com/articles/es6-maps-in-depth)
+- [Kí ni JavaScript Generators àti bá a ṣe le lo wọn — Vladislav Stepanov](https://codeburst.io/what-are-javascript-generators-and-how-to-use-them-c6f2713fd12e)
+- [Ìtàn Ìmọ̀lára JavaScript Generators Pẹ̀lú Àpẹẹrẹ — Arfat Salman](https://codeburst.io/understanding-generators-in-es6-javascript-with-examples-6728834016d5)
+- [Àkọ́kọ́ ti ES6 Generators — Kyle Simpson](https://davidwalsh.name/es6-generators)
+- [Ìtàn Ìmọ̀lára JavaScript Generators — Alice Kallaugher](https://dev.to/kallaugher/an-introduction-to-javascript-generators-1224)
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Fídíò
 
-- [JavaScript ES6 / ES2015 Set, Map, WeakSet and WeakMap — Traversy Media](https://www.youtube.com/watch?v=ycohYSx5h9w)
+- [JavaScript ES6 / ES2015 Set, Map, WeakSet ati WeakMap — Traversy Media](https://www.youtube.com/watch?v=ycohYSx5h9w)
 - [JavaScript ES6 / ES2015 - \[11\] Generators - Traversy Media](https://www.youtube.com/watch?v=dcP039DYzmE)
-- [The Differences between ES6 Maps and Sets — Steve Griffith](https://www.youtube.com/watch?v=m4abICrldQI)
-- [Javascript Generators - THEY CHANGE EVERYTHING - ES6 Generators Harmony Generators — LearnCode.academy](https://www.youtube.com/watch?v=QO07THdLWQo)
+- [Awọn Iyato laarin ES6 Maps ati Sets — Steve Griffith](https://www.youtube.com/watch?v=m4abICrldQI)
+- [Javascript Generators - WỌ́N YÌÍ YÀ FÚN GBOGBO Ẹ̀YÀ - ES6 Generators Harmony Generators — LearnCode.academy](https://www.youtube.com/watch?v=QO07THdLWQo)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Pada si Orí](#table-of-contents)**
+
 
 ---
 
-## 25. Promises
 
-### Reference
+## 25. Awọn Ẹ̀tọ́
 
--  [Promise — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+### Ìtọ́kasí
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+- [Ẹ̀tọ́ — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 
--  [JavaScript Promises for Dummies ― Jecelyn Yeen](https://scotch.io/tutorials/javascript-promises-for-dummies)
--  [Understanding promises in JavaScript — Gokul N K](https://hackernoon.com/understanding-promises-in-javascript-13d99df067c1)
--  [Master the JavaScript Interview: What is a Promise? — Eric Elliott](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261)
--  [An Overview of JavaScript Promises — Sandeep Panda](https://www.sitepoint.com/overview-javascript-promises/)
--  [How to use Promises in JavaScript — Prashant Ram](https://medium.freecodecamp.org/promises-in-javascript-explained-277b98850de)
--  [Implementing Promises In JavaScript — Maciej Cieslar](https://medium.freecodecamp.org/how-to-implement-promises-in-javascript-1ce2680a7f51)
--  [JavaScript: Promises explained with simple real life analogies — Shruti Kapoor](https://codeburst.io/javascript-promises-explained-with-simple-real-life-analogies-dd6908092138)
--  [Promises for Asynchronous Programming — Exploring JS](http://exploringjs.com/es6/ch_promises.html)
--  [JavaScript Promises Explained By Gambling At A Casino — Kevin Kononenko](https://blog.codeanalogies.com/2018/08/26/javascript-promises-explained-by-gambling-at-a-casino/)
--  [ES6 Promises: Patterns and Anti-Patterns — Bobby Brennan](https://medium.com/datafire-io/es6-promises-patterns-and-anti-patterns-bbb21a5d0918)
--  [A Simple Guide to ES6 Promises — Brandon Morelli](https://codeburst.io/a-simple-guide-to-es6-promises-d71bacd2e13a)
--  [The ES6 Promises — Manoj Singh Negi](https://codeburst.io/the-es6-promises-87a979ab27e4)
--  [ES6 Promises in Depth — Nicolás Bevacqua](https://ponyfoo.com/articles/es6-promises-in-depth)
--  [Playing with Javascript Promises: A Comprehensive Approach — Rajesh Babu](https://codeburst.io/playing-with-javascript-promises-a-comprehensive-approach-25ab752c78c3)
--  [How to Write a JavaScript Promise — Brandon Wozniewicz](https://medium.freecodecamp.org/how-to-write-a-javascript-promise-4ed8d44292b8)
--  [A Coding Writer’s Guide: An Introduction To ES6 Promises — Andrew Ly](https://medium.com/@andrewly07/a-coding-writers-guide-an-introduction-to-es6-promises-9ff9f9e88f6c)
--  [Understanding Promises in JavaScript — Chris Noring](https://dev.to/itnext/reverse-engineering-understand-promises-1jfc)
--  [Converting callbacks to promises — Zell Liew](https://dev.to/zellwk/converting-callbacks-to-promises-nhn)
--  [JavaScript Promises: Zero To Hero Plus Cheat Sheet — Joshua Saunders](https://medium.com/dailyjs/javascript-promises-zero-to-hero-plus-cheat-sheet-64d75051cffa)
--  [Promises - JavaScript concepts — Agney Menon](https://dev.to/boywithsilverwings/promises-javascript-concepts-293c)
--  [Javascript `Promise` 101 — Igor Irianto](https://dev.to/iggredible/javascript-promise-101-3idl)
--  [Simplify JavaScript Promises — Sunny Singh](https://dev.to/sunnysingh/simplify-javascript-promises-4djb)
--  [The Lowdown on Promises — Aphinya Dechalert](https://medium.matcha.fyi/the-low-down-on-promises-af4a96bbb95f)
--  [JavaScript Visualized: Promises & Async/Await — Lydia Hallie](https://dev.to/lydiahallie/javascript-visualized-promises-async-await-5gke)
--  [Promises in JavaScript — Peter Klingelhofer](https://dev.to/peterklingelhofer/promises-in-javascript-3h5k)
--  [Best Practices for ES6 Promises — Basti Ortiz](https://dev.to/somedood/best-practices-for-es6-promises-36da)
--  [Lo que debemos saber de EScript 2020 — Kike Sanchez](https://medium.com/zurvin/lo-que-debemos-saber-de-escript-2020-5fc61da5e4cd)
--  [Promise Basics - javascript.info](https://javascript.info/promise-basics)
--  [The Complete JavaScript Promise Guide](https://blog.webdevsimplified.com/2021-09/javascript-promises)
--  [Promise Chaining - javascript.info](https://javascript.info/promise-chaining)
+### <img align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Àwọn Àtòkọ
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+- [JavaScript Ẹ̀tọ́ fún Awọn Olè — Jecelyn Yeen](https://scotch.io/tutorials/javascript-promises-for-dummies)
+- [Ìmọ̀lára awọn ẹ̀tọ́ ni JavaScript — Gokul N K](https://hackernoon.com/understanding-promises-in-javascript-13d99df067c1)
+- [Màá Sọ Ẹ̀tọ́ JavaScript: Kí ni Ẹ̀tọ́? — Eric Elliott](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261)
+- [Àkótán ti JavaScript Ẹ̀tọ́ — Sandeep Panda](https://www.sitepoint.com/overview-javascript-promises/)
+- [Báwo ni a ṣe lo Ẹ̀tọ́ ni JavaScript — Prashant Ram](https://medium.freecodecamp.org/promises-in-javascript-explained-277b98850de)
+- [Ṣiṣẹda Ẹ̀tọ́ ni JavaScript — Maciej Cieslar](https://medium.freecodecamp.org/how-to-implement-promises-in-javascript-1ce2680a7f51)
+- [JavaScript: Ẹ̀tọ́ tí a ṣe alaye pẹ̀lú àwọn àpẹẹrẹ ìdánilójú — Shruti Kapoor](https://codeburst.io/javascript-promises-explained-with-simple-real-life-analogies-dd6908092138)
+- [Awọn Ẹ̀tọ́ fún Iṣọpọ̀ — Ìmúlẹ́ JS](http://exploringjs.com/es6/ch_promises.html)
+- [JavaScript Ẹ̀tọ́ Tí a ṣe alaye Nípa Iṣere ni Casino — Kevin Kononenko](https://blog.codeanalogies.com/2018/08/26/javascript-promises-explained-by-gambling-at-a-casino/)
+- [ES6 Ẹ̀tọ́: Àwọn Àkópọ̀ àti Àìkópọ̀ — Bobby Brennan](https://medium.com/datafire-io/es6-promises-patterns-and-anti-patterns-bbb21a5d0918)
+- [Ìtọnisọna Kẹrẹ si ES6 Ẹ̀tọ́ — Brandon Morelli](https://codeburst.io/a-simple-guide-to-es6-promises-d71bacd2e13a)
+- [Àwọn ES6 Ẹ̀tọ́ — Manoj Singh Negi](https://codeburst.io/the-es6-promises-87a979ab27e4)
+- [ES6 Ẹ̀tọ́ ni Ijinlẹ — Nicolás Bevacqua](https://ponyfoo.com/articles/es6-promises-in-depth)
+- [Ṣiṣe pẹlu JavaScript Ẹ̀tọ́: Ọ̀nà Kánkán — Rajesh Babu](https://codeburst.io/playing-with-javascript-promises-a-comprehensive-approach-25ab752c78c3)
+- [Báwo ni a ṣe kọ Ẹ̀tọ́ JavaScript — Brandon Wozniewicz](https://medium.freecodecamp.org/how-to-write-a-javascript-promise-4ed8d44292b8)
+- [Ìtọ́sọna Oníṣáájú: Àkọ́kọ́ si ES6 Ẹ̀tọ́ — Andrew Ly](https://medium.com/@andrewly07/a-coding-writers-guide-an-introduction-to-es6-promises-9ff9f9e88f6c)
+- [Ìmọ̀lára Awọn Ẹ̀tọ́ ni JavaScript — Chris Noring](https://dev.to/itnext/reverse-engineering-understand-promises-1jfc)
+- [Yíyí awọn akọsilẹ̀ si ẹ̀tọ́ — Zell Liew](https://dev.to/zellwk/converting-callbacks-to-promises-nhn)
+- [JavaScript Ẹ̀tọ́: Zero Si Hero Pẹ̀lú Àkópọ̀ Ẹ̀tọ́ — Joshua Saunders](https://medium.com/dailyjs/javascript-promises-zero-to-hero-plus-cheat-sheet-64d75051cffa)
+- [Ẹ̀tọ́ - Awọn ìmúlẹ́ JavaScript — Agney Menon](https://dev.to/boywithsilverwings/promises-javascript-concepts-293c)
+- [Javascript `Promise` 101 — Igor Irianto](https://dev.to/iggredible/javascript-promise-101-3idl)
+- [Ẹ̀tọ́ | Ep 02 Àkókò 02 - Namaste JavaScript - Akshay Saini](https://youtu.be/ap-6PPAuK1Y?si=Ri1fopXeYjlrHzpf)
 
-- [Let's Learn ES6 - Promises — Ryan Christiani](https://www.youtube.com/watch?v=vQ3MoXnKfuQ)
-- [JavaScript ES6 / ES2015 Promises — Traversy Media](https://www.youtube.com/watch?v=XJEHuBZQ5dU)
-- [Promises — Fun Fun Function](https://www.youtube.com/watch?v=2d7s3spWAzo)
-- [Error Handling Promises in JavaScript — Fun Fun Function](https://www.youtube.com/watch?v=f8IgdnYIwOU)
-- [Promises Part 1 - Topics of JavaScript/ES6 — The Coding Train](https://www.youtube.com/watch?v=QO4NXhWo_NM)
-- [JavaScript Promise in 100 Seconds](https://www.youtube.com/watch?v=RvYYCGs45L4)
-- [JavaScript Promise in 9 Minutes](https://youtu.be/3NjdOtHpcBM)
-- [JavaScript Promises In 10 Minutes — Web Dev Simplified ](https://www.youtube.com/watch?v=DHvZLI7Db8E)
-- [Promises | Ep 02 Season 02 - Namaste JavaScript - Akshay Saini ](https://youtu.be/ap-6PPAuK1Y?si=Ri1fopXeYjlrHzpf)
+**[⬆ Pada si Orí](#table-of-contents)**
 
-**[⬆ Back to Top](#table-of-contents)**
 
 ---
 
