@@ -821,67 +821,67 @@ Gbogbo awọn itumọ fun ibi ipamọ yii yoo wa ni atokọ ni isalẹ:
 
 ---
 
-## 22. High Order Functions
+## 22. Iṣẹ́ Àṣẹ Giga
 
-### Books
+### Ìwé
 
--  [Eloquent JavaScript, 3rd Edition: Ch. 5 - Higher-order Functions](https://eloquentjavascript.net/05_higher_order.html)
+-  [Eloquent JavaScript, 3rd Edition: Ch. 5 - Iṣẹ́ Àṣẹ Giga](https://eloquentjavascript.net/05_higher_order.html)
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Àwọn Àkọọlẹ
 
--  [Higher-Order Functions in JavaScript — M. David Green](https://www.sitepoint.com/higher-order-functions-javascript/)
--  [Higher Order Functions: Using Filter, Map and Reduce for More Maintainable Code — Guido Schmitz](https://medium.freecodecamp.org/higher-order-functions-in-javascript-d9101f9cf528)
--  [First-class and Higher Order Functions: Effective Functional JavaScript — Hugo Di Francesco](https://hackernoon.com/effective-functional-javascript-first-class-and-higher-order-functions-713fde8df50a)
--  [Higher Order Functions in JavaScript — John Hannah](https://www.lullabot.com/articles/higher-order-functions-in-javascript)
--  [Just a reminder on how to use high order functions — Pedro Filho](https://github.com/pedroapfilho/high-order-functions)
--  [Understanding Higher-Order Functions in JavaScript — Sukhjinder Arora](https://blog.bitsrc.io/understanding-higher-order-functions-in-javascript-75461803bad)
--  [Higher Order Functions - A pragmatic approach — emmanuel ikwuoma](https://dev.to/nuel_ikwuoma/higher-order-functions-a-pragmatic-approach-51fb)
+-  [Iṣẹ́ Àṣẹ Giga ni JavaScript — M. David Green](https://www.sitepoint.com/higher-order-functions-javascript/)
+-  [Iṣẹ́ Àṣẹ Giga: Lilo Fítà, Mápù àti Rédùsù fún Kóòdù tó rọrùn láti ṣetọju — Guido Schmitz](https://medium.freecodecamp.org/higher-order-functions-in-javascript-d9101f9cf528)
+-  [Iṣẹ́ Kíláàsì àti Iṣẹ́ Àṣẹ Giga: JavaScript Ẹ̀rọ Iṣẹ́ to munadoko — Hugo Di Francesco](https://hackernoon.com/effective-functional-javascript-first-class-and-higher-order-functions-713fde8df50a)
+-  [Iṣẹ́ Àṣẹ Giga ni JavaScript — John Hannah](https://www.lullabot.com/articles/higher-order-functions-in-javascript)
+-  [Ranti pé bí a ṣe le lo iṣẹ́ àṣẹ giga — Pedro Filho](https://github.com/pedroapfilho/high-order-functions)
+-  [Loye Iṣẹ́ Àṣẹ Giga ni JavaScript — Sukhjinder Arora](https://blog.bitsrc.io/understanding-higher-order-functions-in-javascript-75461803bad)
+-  [Iṣẹ́ Àṣẹ Giga - Ọna àtinúdá — emmanuel ikwuoma](https://dev.to/nuel_ikwuoma/higher-order-functions-a-pragmatic-approach-51fb)
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Àwọn Fídíò
 
-- [JavaScript Higher Order Functions & Arrays — Traversy Media](https://www.youtube.com/watch?v=rRgD1yVwIvE)
-- [Higher Order Functions — Fun Fun Function](https://www.youtube.com/watch?v=BMUiFMZr7vk)
-- [Higher Order Functions in Javascript — Raja Yogan](https://www.youtube.com/watch?v=dTlpYnmBW9I)
-- [Higher Order Iterators in JavaScript — Fun Fun Function](https://www.youtube.com/watch?v=GYRMNp1SKXA)
-- [Higher Order Functions in JavaScript — The Coding Train](https://www.youtube.com/watch?v=H4awPsyugS0)
-- [Part 1: An Introduction to Callbacks and Higher Order Functions - Codesmith](https://www.youtube.com/watch?v=7E8ctomPQJw)
-- [Part 2: Understanding Why We Need Higher Order Functions - Codesmith](https://www.youtube.com/watch?v=28MXziDZkE4)
-- [Higher-Order Functions ft. Functional Programming - Akshay Saini](https://www.youtube.com/watch?v=HkWxvB1RJq0)
+- [Iṣẹ́ Àṣẹ Giga JavaScript & Àwọn Àtẹ̀jáde — Traversy Media](https://www.youtube.com/watch?v=rRgD1yVwIvE)
+- [Iṣẹ́ Àṣẹ Giga — Fun Fun Function](https://www.youtube.com/watch?v=BMUiFMZr7vk)
+- [Iṣẹ́ Àṣẹ Giga ni JavaScript — Raja Yogan](https://www.youtube.com/watch?v=dTlpYnmBW9I)
+- [Iṣẹ́ Àṣẹ Giga ni JavaScript — Fun Fun Function](https://www.youtube.com/watch?v=GYRMNp1SKXA)
+- [Iṣẹ́ Àṣẹ Giga ni JavaScript — The Coding Train](https://www.youtube.com/watch?v=H4awPsyugS0)
+- [Apá 1: Ifihan sí Callbacks àti Iṣẹ́ Àṣẹ Giga - Codesmith](https://www.youtube.com/watch?v=7E8ctomPQJw)
+- [Apá 2: Loye Kí nìdí tí a fi nílò Iṣẹ́ Àṣẹ Giga - Codesmith](https://www.youtube.com/watch?v=28MXziDZkE4)
+- [Iṣẹ́ Àṣẹ Giga ft. Ẹ̀rọ Iṣẹ́ - Akshay Saini](https://www.youtube.com/watch?v=HkWxvB1RJq0)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Pada si Òkè](#table-of-contents)**
 
 ---
 
-## 23. Recursion
+## 23. Iṣẹ́ Àtúnṣe
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Àwọn Àkọọlẹ
 
--  [Recursion in JavaScript — Kevin Ennis](https://medium.freecodecamp.org/recursion-in-javascript-1608032c7a1f)
--  [Understanding Recursion in JavaScript — Zak Frisch](https://medium.com/@zfrisch/understanding-recursion-in-javascript-992e96449e03)
--  [Learn and Understand Recursion in JavaScript — Brandon Morelli](https://codeburst.io/learn-and-understand-recursion-in-javascript-b588218e87ea)
--  [Recursion in Functional JavaScript — M. David Green](https://www.sitepoint.com/recursion-functional-javascript/)
--  [Programming with JS: Recursion — Alexander Kondov](https://hackernoon.com/programming-with-js-recursion-31371e2bf808)
--  [Anonymous Recursion in JavaScript — simo](https://dev.to/simov/anonymous-recursion-in-javascript)
--  [Recursion, iteration and tail calls in JS — loverajoel](http://www.jstips.co/en/javascript/recursion-iteration-and-tail-calls-in-js/)
--  [What is Recursion? A Recursive Function Explained with JavaScript Code Examples — Nathan Sebhastian](https://www.freecodecamp.org/news/what-is-recursion-in-javascript/)
--  [Intro to Recursion — Brad Newman](https://medium.com/@newmanbradm/intro-to-recursion-984a8bd50f4b)
--  [Accio Recursion!: Your New Favorite JavaScript Spell — Leanne Cabey](https://medium.datadriveninvestor.com/accio-recursion-your-new-favorite-javascript-spell-7e10d3125fb3)
--  [Recursion Explained (with Examples) — Christina](https://dev.to/christinamcmahon/recursion-explained-with-examples-4k1m)
+-  [Iṣẹ́ Àtúnṣe ni JavaScript — Kevin Ennis](https://medium.freecodecamp.org/recursion-in-javascript-1608032c7a1f)
+-  [Loye Iṣẹ́ Àtúnṣe ni JavaScript — Zak Frisch](https://medium.com/@zfrisch/understanding-recursion-in-javascript-992e96449e03)
+-  [Kọ́ àti Loye Iṣẹ́ Àtúnṣe ni JavaScript — Brandon Morelli](https://codeburst.io/learn-and-understand-recursion-in-javascript-b588218e87ea)
+-  [Iṣẹ́ Àtúnṣe ni JavaScript Ẹ̀rọ Iṣẹ́ — M. David Green](https://www.sitepoint.com/recursion-functional-javascript/)
+-  [Ẹ̀kọ́ pẹ̀lú JS: Iṣẹ́ Àtúnṣe — Alexander Kondov](https://hackernoon.com/programming-with-js-recursion-31371e2bf808)
+-  [Iṣẹ́ Àtúnṣe Aláìmọ̀ ni JavaScript — simo](https://dev.to/simov/anonymous-recursion-in-javascript)
+-  [Iṣẹ́ Àtúnṣe, àtúnṣe ati awọn ipe ikẹhin ni JS — loverajoel](http://www.jstips.co/en/javascript/recursion-iteration-and-tail-calls-in-js/)
+-  [Kí ni Iṣẹ́ Àtúnṣe? Ẹ̀kọ́ Iṣẹ́ Àtúnṣe pẹ̀lú Àpẹẹrẹ Kóòdù JavaScript — Nathan Sebhastian](https://www.freecodecamp.org/news/what-is-recursion-in-javascript/)
+-  [Ifihan sí Iṣẹ́ Àtúnṣe — Brad Newman](https://medium.com/@newmanbradm/intro-to-recursion-984a8bd50f4b)
+-  [Accio Iṣẹ́ Àtúnṣe!: Ẹ̀bọ JavaScript tuntun rẹ — Leanne Cabey](https://medium.datadriveninvestor.com/accio-recursion-your-new-favorite-javascript-spell-7e10d3125fb3)
+-  [Iṣẹ́ Àtúnṣe ti a ṣe alaye (pẹ̀lú Àpẹẹrẹ) — Christina](https://dev.to/christinamcmahon/recursion-explained-with-examples-4k1m)
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Àwọn Fídíò
 
-- [Recursion In JavaScript — techsith](https://www.youtube.com/watch?v=VtG0WAUvq2w)
-- [Recursion — Fun Fun Function](https://www.youtube.com/watch?v=k7-N8R0-KY4)
-- [Recursion and Recursive Functions — Hexlet](https://www.youtube.com/watch?v=vLhHyGTkjCs)
-- [Recursion: Recursion() — JS Monthly — Lucas da Costa](https://www.youtube.com/watch?v=kGXVsd8pBLw)
-- [Recursive Function in JavaScript — kudvenkat](https://www.youtube.com/watch?v=uyjsR9eNTIw)
-- [What on Earth is Recursion? — Computerphile](https://www.youtube.com/watch?v=Mv9NEXX1VHc)
-- [Javascript Tutorial 34: Introduction To Recursion — codedamn](https://www.youtube.com/watch?v=9NO5dXSlbv8)
-- [Recursion, Iteration, and JavaScript: A Love Story | JSHeroes 2018 — Anjana Vakil](https://www.youtube.com/watch?v=FmiQr4nfoPQ)
-- [Recursion crash course - Colt Steele](https://www.youtube.com/watch?v=lMBVwYrmFZQ&ab_channel=ColtSteele)
-- [What Is Recursion - In Depth - Web Dev Simplified](https://www.youtube.com/watch?v=6oDQaB2one8)
+- [Iṣẹ́ Àtúnṣe ni JavaScript — techsith](https://www.youtube.com/watch?v=VtG0WAUvq2w)
+- [Iṣẹ́ Àtúnṣe — Fun Fun Function](https://www.youtube.com/watch?v=k7-N8R0-KY4)
+- [Iṣẹ́ Àtúnṣe àti Iṣẹ́ Àtúnṣe — Hexlet](https://www.youtube.com/watch?v=vLhHyGTkjCs)
+- [Iṣẹ́ Àtúnṣe: Iṣẹ́ Àtúnṣe() — JS Monthly — Lucas da Costa](https://www.youtube.com/watch?v=kGXVsd8pBLw)
+- [Iṣẹ́ Àtúnṣe pẹ̀lú JavaScript — kudvenkat](https://www.youtube.com/watch?v=uyjsR9eNTIw)
+- [Kí ni Iṣẹ́ Àtúnṣe — Ni Ipele Giga — Web Dev Simplified](https://www.youtube.com/watch?v=6oDQaB2one8)
+- [Àwọn ẹ̀kọ́ JavaScript 34: Ifihan sí Iṣẹ́ Àtúnṣe — codedamn](https://www.youtube.com/watch?v=9NO5dXSlbv8)
+- [Iṣẹ́ Àtúnṣe, Àtúnṣe, àti JavaScript: Ìtàn ìfẹ́ | JSHeroes 2018 — Anjana Vakil](https://www.youtube.com/watch?v=FmiQr4nfoPQ)
+- [Iṣẹ́ Àtúnṣe crash course - Colt Steele](https://www.youtube.com/watch?v=lMBVwYrmFZQ&ab_channel=ColtSteele)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Pada si Òkè](#table-of-contents)**
+
 
 ---
 
