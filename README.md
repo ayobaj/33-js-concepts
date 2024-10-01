@@ -1,23 +1,23 @@
 <h1 align="center">
 <br>
-  <a href="https://github.com/leonardomso/33"><img src="https://i.imgur.com/dsHmk6H.jpg" alt="33 Concepts Every JS Developer Should Know" width=200" /></a>
+  <a href="https://github.com/leonardomso/33"><img src="https://i.imgur.com/dsHmk6H.jpg" alt="33 Awọn imọran ti gbogbo Olùgbéejáde JavaScript yẹ ki o mọ" width=200" /></a>
   <br>
     <br>
-  33 Concepts Every JavaScript Developer Should Know
+  33 Awọn imọran ti gbogbo Olùgbéejáde JavaScript yẹ ki o mọ
   <br><br>
 </h1>
 
-## Introduction 
+## Ifihan
 
-This repository was created with the intention of helping developers master their concepts in JavaScript. It is not a requirement, but a guide for future studies. It is based on an article written by Stephen Curtis and you can read it [here](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1).
+Ibi ipamọ yii ni a ṣẹda pẹlu ero lati ran awọn olùgbéejáde lọwọ lati ṣakoso awọn imọran wọn ninu JavaScript. Kii ṣe ibeere kan, ṣugbọn itọsọna fun awọn ẹkọ ọjọ iwaju. O da lori àpilẹkọ kan tí Stephen Curtis kọ ati pe o le ka rẹ [níbí](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1).
 
-**🚀 Considered by GitHub as one of the [top open source projects of 2018!](https://blog.github.com/2018-12-13-new-open-source-projects/)**
+**🚀 Ti ṣe ayẹyẹ nipasẹ GitHub gẹgẹ bi ọkan ninu awọn [awọn iṣẹ akanṣe orisun ṣiṣi oke ti 2018!](https://blog.github.com/2018-12-13-new-open-source-projects/)**
 
-## Community
+## Àwọn Aládùúgbò
 
-Feel free to submit a PR by adding a link to your own recaps or reviews. If you want to translate the repo into your native language, please feel free to do so.
+Ẹ jẹ ki o darapọ mọ wa nipasẹ gbigbe PR kan nipa fifi ọna asopọ si awọn apejọ rẹ tabi awọn atunwo. Ti o ba fẹ tumọ ibi ipamọ naa si ede abinibi rẹ, jọwọ ṣe bẹ larọwọto.
 
-All the translations for this repo will be listed below:
+Gbogbo awọn itumọ fun ibi ipamọ yii yoo wa ni atokọ ni isalẹ:
 
 - [اَلْعَرَبِيَّةُ‎ (Arabic)](https://github.com/amrsekilly/33-js-concepts) — Amr Elsekilly
 - [Български (Bulgarian)](https://github.com/thewebmasterp/33-js-concepts) - thewebmasterp
@@ -62,41 +62,42 @@ All the translations for this repo will be listed below:
 - [עברית‎ (Hebrew)](https://github.com/rafyzg/33-js-concepts) — Refael Yzgeav
 
 ---
-## <img  align= center width=50px height=50px src="https://media4.giphy.com/media/3hoLIVAJYkz6T0Ichp/giphy.gif?cid=6c09b952m4j3poopinf91rquev6qy4e8avu0bflq1e0vh4gp&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"> <a id="table-of-contents">Table of Contents</a>
+## <img  align= center width=50px height=50px src="https://media4.giphy.com/media/3hoLIVAJYkz6T0Ichp/giphy.gif?cid=6c09b952m4j3poopinf91rquev6qy4e8avu0bflq1e0vh4gp&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"> <a id="table-of-contents">Akojọ Àwọn Èrò</a>
 
-1. **[Call Stack](#1-call-stack)**
-2. **[Primitive Types](#2-primitive-types)**
-3. **[Value Types and Reference Types](#3-value-types-and-reference-types)**
-4. **[Implicit, Explicit, Nominal, Structuring and Duck Typing](#4-implicit-explicit-nominal-structuring-and-duck-typing)**
+1. **[Stackpipe Call](#1-call-stack)**
+2. **[Iru Akọkọ](#2-primitive-types)**
+3. **[Iru Ààlà Ati Ìtọkasi](#3-value-types-and-reference-types)**
+4. **[Impliciti, Express, Nominal, Àkọsọ àti Duck Typing](#4-implicit-explicit-nominal-structuring-and-duck-typing)**
 5. **[== vs === vs typeof](#5--vs--vs-typeof)**
-6. **[Function Scope, Block Scope and Lexical Scope](#6-function-scope-block-scope-and-lexical-scope)**
-7. **[Expression vs Statement](#7-expression-vs-statement)**
-8. **[IIFE, Modules and Namespaces](#8-iife-modules-and-namespaces)**
-9. **[Message Queue and Event Loop](#9-message-queue-and-event-loop)**
-10. **[setTimeout, setInterval and requestAnimationFrame](#10-settimeout-setinterval-and-requestanimationframe)**
-11. **[JavaScript Engines](#11-javascript-engines)**
-12. **[Bitwise Operators, Type Arrays and Array Buffers](#12-bitwise-operators-type-arrays-and-array-buffers)**
-13. **[DOM and Layout Trees](#13-dom-and-layout-trees)**
-14. **[Factories and Classes](#14-factories-and-classes)**
-15. **[this, call, apply and bind](#15-this-call-apply-and-bind)**
-16. **[new, Constructor, instanceof and Instances](#16-new-constructor-instanceof-and-instances)**
-17. **[Prototype Inheritance and Prototype Chain](#17-prototype-inheritance-and-prototype-chain)**
-18. **[Object.create and Object.assign](#18-objectcreate-and-objectassign)**
+6. **[Aṣà Iṣẹ, Ààlà Iṣẹ, àti Aṣà Lexical](#6-function-scope-block-scope-and-lexical-scope)**
+7. **[Àṣà vs Ìsọ](#7-expression-vs-statement)**
+8. **[IIFE, Àwọn Módúlè àti Àwọn Ilé](#8-iife-modules-and-namespaces)**
+9. **[Ipele Ìfẹ àti Àwọn Iṣẹlẹ Ẹgbẹ](#9-message-queue-and-event-loop)**
+10. **[setTimeout, setInterval ati requestAnimationFrame](#10-settimeout-setinterval-and-requestanimationframe)**
+11. **[Àwọn Ẹrọ ìṣẹ́ Javascript](#11-javascript-engines)**
+12. **[Àwọn Ìṣedéṣe Bitwise, Àwọn Ìpìlẹ Ìtọka àti Àwọn Ika Array](#12-bitwise-operators-type-arrays-and-array-buffers)**
+13. **[DOM àti Àwọn Igi Ilé](#13-dom-and-layout-trees)**
+14. **[Àwọn Ilé àti Awọn Kiláàsì](#14-factories-and-classes)**
+15. **[Èyi, Call, Apply ati Bind](#15-this-call-apply-and-bind)**
+16. **[Tuntun, Akọkọ, instanceof ati Àwọn Àkọkọ](#16-new-constructor-instanceof-and-instances)**
+17. **[Ìṣedédé Prototype àti Igi Ìtọ́jú](#17-prototype-inheritance-and-prototype-chain)**
+18. **[Object.create ati Object.assign](#18-objectcreate-and-objectassign)**
 19. **[map, reduce, filter](#19-map-reduce-filter)**
-20. **[Pure Functions, Side Effects, State Mutation and Event Propagation](#20-pure-functions-side-effects-state-mutation-and-event-propagation)**
+20. **[Àwọn Iṣẹ́ Pípé, Ìkan Àlẹ, Ìṣetọ àti Iṣiṣẹlẹ Iṣẹlẹ](#20-pure-functions-side-effects-state-mutation-and-event-propagation)**
 21. **[Closures](#21-closures)**
-22. **[High Order Functions](#22-high-order-functions)**
-23. **[Recursion](#23-recursion)**
-24. **[Collections and Generators](#24-collections-and-generators)**
-25. **[Promises](#25-promises)**
+22. **[Àwọn Iṣẹ Giga](#22-high-order-functions)**
+23. **[Ìpadabọ](#23-recursion)**
+24. **[Àwọn Gbigba àti Awọn Ọlọfin](#24-collections-and-generators)**
+25. **[Àwọn Gbígbì](#25-promises)**
 26. **[async/await](#26-asyncawait)**
-27. **[Data Structures](#27-data-structures)**
-28. **[Expensive Operation and Big O Notation](#28-expensive-operation-and-big-o-notation)**
-29. **[Algorithms](#29-algorithms)**
-30. **[Inheritance, Polymorphism and Code Reuse](#30-inheritance-polymorphism-and-code-reuse)**
-31. **[Design Patterns](#31-design-patterns)**
-32. **[Partial Applications, Currying, Compose and Pipe](#32-partial-applications-currying-compose-and-pipe)**
-33. **[Clean Code](#33-clean-code)**
+27. **[Àwọn Ètò Alaye](#27-data-structures)**
+28. **[Ìṣẹ́pọnnìyán àti Ìtọka Big O](#28-expensive-operation-and-big-o-notation)**
+29. **[Àwọn Àbínibí](#29-algorithms)**
+30. **[Ìbílẹ, Polymorphism àti Àtunlo Kóòdù](#30-inheritance-polymorphism-and-code-reuse)**
+31. **[Àwọn Àṣà Ìtọka](#31-design-patterns)**
+32. **[Àwọn Ìlọsíwájú Ìdánà, Currying, Ilé àti Pipe](#32-partial-applications-currying-compose-and-pipe)**
+33. **[Kóòdù Mímọ́](#33-clean-code)**
+
 
 ---
 
