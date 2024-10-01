@@ -1041,55 +1041,56 @@ Gbogbo awọn itumọ fun ibi ipamọ yii yoo wa ni atokọ ni isalẹ:
 
 ---
 
-## 28. Expensive Operation and Big O Notation
+## 28. Iṣẹ́ Tí ó Nira àti Big O Notation
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Àwọn Àpilẹkọ
 
--  [Big O Notation in Javascript — César Antón Dorantes](https://medium.com/cesars-tech-insights/big-o-notation-javascript-25c79f50b19b)
--  [Time Complexity/Big O Notation — Tim Roberts](https://medium.com/javascript-scene/time-complexity-big-o-notation-1a4310c3ee4b)
--  [Big O in JavaScript — Gabriela Medina](https://medium.com/@gmedina229/big-o-in-javascript-36ff67766051)
--  [Big O Search Algorithms in JavaScript — Bradley Braithwaite](https://www.bradoncode.com/blog/2012/04/big-o-algorithm-examples-in-javascript.html)
--  [Algorithms in plain English: time complexity and Big-O Notation — Michael Olorunnisola](https://medium.freecodecamp.org/time-is-complex-but-priceless-f0abd015063c)
--  [An Introduction to Big O Notation — Joseph Trettevik](https://dev.to/lofiandcode/an-introduction-to-big-o-notation-210o)
+-  [Big O Notation ní Javascript — César Antón Dorantes](https://medium.com/cesars-tech-insights/big-o-notation-javascript-25c79f50b19b)
+-  [Iye Akoko/Big O Notation — Tim Roberts](https://medium.com/javascript-scene/time-complexity-big-o-notation-1a4310c3ee4b)
+-  [Big O ní JavaScript — Gabriela Medina](https://medium.com/@gmedina229/big-o-in-javascript-36ff67766051)
+-  [Big O Àwárí Algorithms ní JavaScript — Bradley Braithwaite](https://www.bradoncode.com/blog/2012/04/big-o-algorithm-examples-in-javascript.html)
+-  [Algorithms ní èdè ìmọ̀: iye akokò àti Big-O Notation — Michael Olorunnisola](https://medium.freecodecamp.org/time-is-complex-but-priceless-f0abd015063c)
+-  [Ìkìlọ̀ sí Big O Notation — Joseph Trettevik](https://dev.to/lofiandcode/an-introduction-to-big-o-notation-210o)
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Fídíò
 
-- [JavaScript: Intro to Big O Notation and Function Runtime — Eric Traub](https://www.youtube.com/watch?v=HgA5VOFan5E)
-- [Essential Big O for JavaScript Developers — Dave Smith](https://www.youtube.com/watch?v=KatlvCFHPRo)
-- [Big O Notation - Time Complexity Analysis — WebTunings](https://www.youtube.com/watch?v=ALl86xJiTD8)
-- [Learn Big O Notation In 12 Minutes - Web Dev Simplified](https://www.youtube.com/watch?v=itn09C2ZB9Y)
+- [JavaScript: Ìkìlọ̀ sí Big O Notation àti Akoko Iṣẹ́ — Eric Traub](https://www.youtube.com/watch?v=HgA5VOFan5E)
+- [Big O pàtàkì fún Àwọn Olùgbéejáde JavaScript — Dave Smith](https://www.youtube.com/watch?v=KatlvCFHPRo)
+- [Big O Notation - Iṣiro Iye Akoko — WebTunings](https://www.youtube.com/watch?v=ALl86xJiTD8)
+- [Kọ́ Big O Notation ní ìṣẹ́jú 12 - Web Dev Simplified](https://www.youtube.com/watch?v=itn09C2ZB9Y)
 - [JavaScript Algorithms: Big-O Notation - Codevolution](https://www.youtube.com/watch?v=3yUuo7TqMW8)
-- [JavaScript Algorithms Crash Course: Learn Algorithms & "Big O" from the Ground Up! - Academind](https://www.youtube.com/watch?v=JgWm6sQwS_I)
-- [Big O Notation - Data Structures and Algorithms in Javascript - RoadSideCoder](https://www.youtube.com/watch?v=LaexPVi1VRE)
+- [JavaScript Algorithms Crash Course: Kọ́ Algorithms & "Big O" láti Ibi Àtẹ̀yìnwá! - Academind](https://www.youtube.com/watch?v=JgWm6sQwS_I)
+- [Big O Notation - Awọn Ẹ̀ka Ìmọ̀ àti Algorithms ní JavaScript - RoadSideCoder](https://www.youtube.com/watch?v=LaexPVi1VRE)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Pada si Orí](#table-of-contents)**
 
 ---
 
 ## 29. Algorithms
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Àwọn Àpilẹkọ
 
--  [Data Structures and Algorithms using ES6](https://github.com/Crizstian/data-structure-and-algorithms-with-ES6)
--  [Algorithms and data structures implemented in JavaScript with explanations and links to further readings](https://github.com/trekhleb/javascript-algorithms)
--  [JS: Interview Algorithm](http://www.thatjsdude.com/interview/js1.html)
--  [Algorithms in JavaScript — Thon Ly](https://medium.com/siliconwat/algorithms-in-javascript-b0bed68f4038)
--  [JavaScript Objects, Square Brackets and Algorithms — Dmitri Grabov](https://medium.freecodecamp.org/javascript-objects-square-brackets-and-algorithms-e9a2916dc158)
--  [Atwood's Law applied to CS101 - Classic algorithms and data structures implemented in JavaScript](https://github.com/felipernb/algorithms.js)
--  [Data Structures and Algorithms library in JavaScript](https://github.com/yangshun/lago)
--  [Collection of computer science algorithms and data structures written in JavaScript](https://github.com/idosela/algorithms-in-javascript)
--  [Algorithms and Data Structures in JavaScript — Oleksii Trekhleb](https://dev.to/trekhleb/algorithms-and-data-structures-in-javascript-49i3)
+-  [Awọn Ẹ̀ka Ìmọ̀ àti Algorithms pẹ̀lú ES6](https://github.com/Crizstian/data-structure-and-algorithms-with-ES6)
+-  [Algorithms àti awọn ẹ̀ka ìmọ̀ tí a ṣe ní JavaScript pẹ̀lú àlàyé àti ìjápọ̀ sí ìtẹ̀síwájú](https://github.com/trekhleb/javascript-algorithms)
+-  [JS: Algorithm Ijẹ́risi](http://www.thatjsdude.com/interview/js1.html)
+-  [Algorithms ní JavaScript — Thon Ly](https://medium.com/siliconwat/algorithms-in-javascript-b0bed68f4038)
+-  [JavaScript Objects, Square Brackets àti Algorithms — Dmitri Grabov](https://medium.freecodecamp.org/javascript-objects-square-brackets-and-algorithms-e9a2916dc158)
+-  [Ofin Atwood ti a lo sí CS101 - Awọn algoridimu aṣa àti awọn ẹ̀ka ìmọ̀ tí a ṣe ní JavaScript](https://github.com/felipernb/algorithms.js)
+-  [Ibi ìkànsí Ẹ̀ka Ìmọ̀ àti Algorithms ní JavaScript](https://github.com/yangshun/lago)
+-  [Ikole ti awọn algoridimu kọmputa ati awọn ẹ̀ka ìmọ̀ tí a kọ́ ní JavaScript](https://github.com/idosela/algorithms-in-javascript)
+-  [Algorithms àti Awọn Ẹ̀ka Ìmọ̀ ní JavaScript — Oleksii Trekhleb](https://dev.to/trekhleb/algorithms-and-data-structures-in-javascript-49i3)
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Fídíò
 
 - 🎥 [JavaScript Algorithms - Codevolution](https://www.youtube.com/playlist?list=PLC3y8-rFHvwiRYB4-HHKHblh3_bQNJTMa)
-- 🎥 [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges - FreeCodeCamp](https://www.youtube.com/watch?v=oBt53YbR9Kk&t=1021s)
-- 🎥 [Data Structures and Algorithms in Javascript | DSA with JS - RoadsideCoder](https://www.youtube.com/playlist?list=PLKhlp2qtUcSZtJefDThsXcsAbRBCSTgW4)
-- 🎥 [Javascript Algorithms + Data Structures - KodingKevin](https://www.youtube.com/playlist?list=PLn2ipk-jqgZiAHiA70hOxAj8RMUeqYNK3)
-- 🎥 [JavaScript Data Structures: Getting Started - Academind](https://www.youtube.com/watch?v=41GSinwoMYA)
-- 🎥 [Algorithms and Data Structures - The Coding Train (Daniel Shiffman)](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH)
+- 🎥 [Ìtẹ́numọ̀ Dínàmíkì - Kọ́ láti Yanju Ìṣòro Algorithmic & Ipenija Kódìng - FreeCodeCamp](https://www.youtube.com/watch?v=oBt53YbR9Kk&t=1021s)
+- 🎥 [Awọn Ẹ̀ka Ìmọ̀ àti Algorithms ní Javascript | DSA pẹ̀lú JS - RoadsideCoder](https://www.youtube.com/playlist?list=PLKhlp2qtUcSZtJefDThsXcsAbRBCSTgW4)
+- 🎥 [JavaScript Algorithms + Awọn Ẹ̀ka Ìmọ̀ - KodingKevin](https://www.youtube.com/playlist?list=PLn2ipk-jqgZiAHiA70hOxAj8RMUeqYNK3)
+- 🎥 [JavaScript Data Structures: Bíbẹrẹ - Academind](https://www.youtube.com/watch?v=41GSinwoMYA)
+- 🎥 [Algorithms àti Awọn Ẹ̀ka Ìmọ̀ - The Coding Train (Daniel Shiffman)](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Pada si Orí](#table-of-contents)**
+
 
 ---
 
