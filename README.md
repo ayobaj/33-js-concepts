@@ -446,56 +446,57 @@ Gbogbo awọn itumọ fun ibi ipamọ yii yoo wa ni atokọ ni isalẹ:
 
 ---
 
-## 12. Bitwise Operators, Type Arrays and Array Buffers
+## 12. Awọn Olumulo Bitwise, Awọn iru Arrays ati Awọn búfà
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Àwárí
 
--  [Programming with JS: Bitwise Operations — Alexander Kondov](https://hackernoon.com/programming-with-js-bitwise-operations-393eb0745dc4)
--  [Using JavaScript’s Bitwise Operators in Real Life — ian m](https://codeburst.io/using-javascript-bitwise-operators-in-real-life-f551a731ff5)
--  [JavaScript Bitwise Operators — w3resource](https://www.w3resource.com/javascript/operators/bitwise-operator.php)
--  [Bitwise Operators in Javascript — Joe Cha](https://medium.com/bother7-blog/bitwise-operators-in-javascript-65c4c69be0d3)
--  [A Comprehensive Primer on Binary Computation and Bitwise Operators in Javascript — Paul Brown](https://medium.com/techtrument/a-comprehensive-primer-on-binary-computation-and-bitwise-operators-in-javascript-81acf8341f04)
--  [How can I understand Bitwise operation in JavaScript?](https://www.quora.com/How-can-I-understand-Bitwise-operation-in-JavaScript)
+-  [Iṣiro pẹlu JS: Awọn iṣẹ́ Bitwise — Alexander Kondov](https://hackernoon.com/programming-with-js-bitwise-operations-393eb0745dc4)
+-  [Lilo Awọn Olumulo Bitwise JavaScript ni Igbesi aye Gidi — ian m](https://codeburst.io/using-javascript-bitwise-operators-in-real-life-f551a731ff5)
+-  [Awọn Olumulo Bitwise JavaScript — w3resource](https://www.w3resource.com/javascript/operators/bitwise-operator.php)
+-  [Awọn Olumulo Bitwise ni Javascript — Joe Cha](https://medium.com/bother7-blog/bitwise-operators-in-javascript-65c4c69be0d3)
+-  [Ìkànsí Gbogbo nipa Iṣiro Binary ati Awọn Olumulo Bitwise ni Javascript — Paul Brown](https://medium.com/techtrument/a-comprehensive-primer-on-binary-computation-and-bitwise-operators-in-javascript-81acf8341f04)
+-  [Bawo ni mo ṣe le lóye iṣẹ́ Bitwise ni JavaScript?](https://www.quora.com/How-can-I-understand-Bitwise-operation-in-JavaScript)
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Fídíò
 
-- [JavaScript Bitwise Operators — Programming with Mosh](https://www.youtube.com/watch?v=mesu75PTDC8)
-- [Bitwise Operators and WHY we use them — Alex Hyett](https://www.youtube.com/watch?v=igIjGxF2J-w)
-- [JS Bitwise Operators and Binary Numbers — Steve Griffith - Prof3ssorSt3v3](https://www.youtube.com/watch?v=RRyxCmLX_ag)
-- [Deep Dive into Blobs, Files, and ArrayBuffers — Steve Griffith - Prof3ssorSt3v3](https://www.youtube.com/watch?v=ScZZoHj7mqY)
+- [Awọn Olumulo Bitwise JavaScript — Iṣiro pẹlu Mosh](https://www.youtube.com/watch?v=mesu75PTDC8)
+- [Awọn Olumulo Bitwise ati KÍ NI idi ti a fi n lo wọn — Alex Hyett](https://www.youtube.com/watch?v=igIjGxF2J-w)
+- [Awọn Olumulo Bitwise JS ati Awọn Nọ́mbà Binary — Steve Griffith - Prof3ssorSt3v3](https://www.youtube.com/watch?v=RRyxCmLX_ag)
+- [Ijinlẹ si Blobs, Awọn faili, ati ArrayBuffers — Steve Griffith - Prof3ssorSt3v3](https://www.youtube.com/watch?v=ScZZoHj7mqY)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Pada si oke](#table-of-contents)**
 
 ---
 
-## 13. DOM and Layout Trees
+## 13. DOM ati Awọn igi Akopọ
 
-### Books
+### Awọn Iwe
 
--  [Eloquent JavaScript, 3rd Edition: Ch. 14 - The Document Object Model](https://eloquentjavascript.net/14_dom.html)
+-  [Eloquent JavaScript, Iṣé 3: Ch. 14 - Ẹrọ Iwe Ibi](https://eloquentjavascript.net/14_dom.html)
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Àwárí
 
--  [How To Understand and Modify the DOM in JavaScript — Tania Rascia](https://www.digitalocean.com/community/tutorials/introduction-to-the-dom)
--  [What’s the Document Object Model, and why you should know how to use it — Leonardo Maldonado](https://medium.freecodecamp.org/whats-the-document-object-model-and-why-you-should-know-how-to-use-it-1a2d0bc5429d)
--  [JavaScript DOM Tutorial with Example — Guru99](https://www.guru99.com/how-to-use-dom-and-events-in-javascript.html)
--  [What is the DOM? — Chris Coyier](https://css-tricks.com/dom/)
--  [Traversing the DOM with JavaScript — Zell Liew](https://zellwk.com/blog/dom-traversals/)
--  [DOM Tree](https://javascript.info/dom-nodes)
--  [How to traverse the DOM in Javascript — Vojislav Grujić](https://medium.com/javascript-in-plain-english/how-to-traverse-the-dom-in-javascript-d6555c335b4e)
--  [Render Tree Construction — Ilya Grigorik](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/render-tree-construction)
--  [What exactly is the DOM?](https://bitsofco.de/what-exactly-is-the-dom/)
--  [JavaScript DOM](https://www.javascripttutorial.net/javascript-dom/)
--  [Traversing the Dom with Javascript](https://www.youtube.com/watch?v=Pr4LLrmDLLo) - Steve Griffith (YouTube)
+-  [Bawo ni a ṣe le lóye ati yipada DOM ni JavaScript — Tania Rascia](https://www.digitalocean.com/community/tutorials/introduction-to-the-dom)
+-  [Kí ni Ẹrọ Iwe Ibi, ati kí ni idi ti o fi yẹ ki o mọ bí a ṣe le lo — Leonardo Maldonado](https://medium.freecodecamp.org/whats-the-document-object-model-and-why-you-should-know-how-to-use-it-1a2d0bc5429d)
+-  [Ikawe DOM JavaScript pẹlu Apẹẹrẹ — Guru99](https://www.guru99.com/how-to-use-dom-and-events-in-javascript.html)
+-  [Kí ni DOM? — Chris Coyier](https://css-tricks.com/dom/)
+-  [Sísopọ DOM pẹlu JavaScript — Zell Liew](https://zellwk.com/blog/dom-traversals/)
+-  [Igi DOM](https://javascript.info/dom-nodes)
+-  [Bawo ni a ṣe le sáré lọ́pọ̀ DOM ni JavaScript — Vojislav Grujić](https://medium.com/javascript-in-plain-english/how-to-traverse-the-dom-in-javascript-d6555c335b4e)
+-  [Ikole Igi Irisi — Ilya Grigorik](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/render-tree-construction)
+-  [Kí ni DOM gangan?](https://bitsofco.de/what-exactly-is-the-dom/)
+-  [DOM JavaScript](https://www.javascripttutorial.net/javascript-dom/)
+-  [Sísopọ DOM pẹlu JavaScript](https://www.youtube.com/watch?v=Pr4LLrmDLLo) - Steve Griffith (YouTube)
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Fídíò
 
-- [JavaScript DOM — The Net Ninja](https://www.youtube.com/watch?v=FIORjGvT0kk)
-- [JavaScript DOM Crash Course — Traversy Media](https://www.youtube.com/watch?v=0ik6X4DJKCc)
-- [JavaScript DOM Manipulation Methods — Web Dev Simplified](https://www.youtube.com/watch?v=y17RuWkWdn8)
-- [JavaScript DOM Traversal Methods — Web Dev Simplified](https://www.youtube.com/watch?v=v7rSSy8CaYE)
+- [DOM JavaScript — The Net Ninja](https://www.youtube.com/watch?v=FIORjGvT0kk)
+- [Ikẹkọ Ikọja DOM JavaScript — Traversy Media](https://www.youtube.com/watch?v=0ik6X4DJKCc)
+- [Awọn Ọna Iṣakoso DOM JavaScript — Web Dev Simplified](https://www.youtube.com/watch?v=y17RuWkWdn8)
+- [Awọn Ọna Sísopọ DOM JavaScript — Web Dev Simplified](https://www.youtube.com/watch?v=v7rSSy8CaYE)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Pada si oke](#table-of-contents)**
+
 
 ---
 
