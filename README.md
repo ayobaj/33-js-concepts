@@ -259,71 +259,70 @@ Gbogbo awọn itumọ fun ibi ipamọ yii yoo wa ni atokọ ni isalẹ:
 
 ---
 
-## 6. Function Scope, Block Scope and Lexical Scope
+## 6. Ipin iṣẹ́, Ipin gbolohun, àti Ipin Ìkànsí
 
-### Books
+### Iwe
 
-- [You Don't Know JS Yet, 2nd Edition: Scope & Closures — Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/scope-closures)
+- [O ko mọ JS sibẹ, Itẹjade 2: Ipin & Ipa — Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/scope-closures)
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Àwárí
 
--  [JavaScript Functions — Understanding The Basics — Brandon Morelli](https://codeburst.io/javascript-functions-understanding-the-basics-207dbf42ed99)
--  [Var, Let, and Const – What's the Difference?](https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/)
--  [Functions in JavaScript - Deepa Pandey](https://www.scaler.com/topics/javascript/javascript-functions/)
--  [Emulating Block Scope in JavaScript — Josh Clanton](http://adripofjavascript.com/blog/drips/emulating-block-scope-in-javascript.html)
--  [The Difference Between Function and Block Scope in JavaScript — Joseph Cardillo](https://medium.com/@josephcardillo/the-difference-between-function-and-block-scope-in-javascript-4296b2322abe)
--  [Function Scopes and Block Scopes in JavaScript — Samer Buna](https://edgecoders.com/function-scopes-and-block-scopes-in-javascript-25bbd7f293d7)
--  [Understanding Scope and Context in JavaScript — Ryan Morr](http://ryanmorr.com/understanding-scope-and-context-in-javascript/)
--  [JavaScript Scope and Closures — Zell Liew](https://css-tricks.com/javascript-scope-closures/)
--  [Understanding Scope in JavaScript — Wissam Abirached](https://developer.telerik.com/topics/web-development/understanding-scope-in-javascript/)
--  [Understanding Scope in JavaScript ― Hammad Ahmed](https://scotch.io/tutorials/understanding-scope-in-javascript)
--  [When to use a function declaration vs. a function expression ― Amber Wilkie](https://medium.freecodecamp.org/when-to-use-a-function-declarations-vs-a-function-expression-70f15152a0a0)
--  [A JavaScript Fundamentals Cheat Sheet: Scope, Context, and “this” ― Alexandra Fren](https://dev.to/alexandrafren/a-javascript-fundamentals-cheat-sheet-scope-context-and-this-28ai)
--  [Functions / Function scope ― MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions#function_scope)
+-  [Àwọn iṣẹ́ JavaScript — Iwọ̀n Àwọn ipilẹ — Brandon Morelli](https://codeburst.io/javascript-functions-understanding-the-basics-207dbf42ed99)
+-  [Var, Let, àti Const – Kí ni iyatọ?](https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/)
+-  [Àwọn Iṣẹ́ ni JavaScript - Deepa Pandey](https://www.scaler.com/topics/javascript/javascript-functions/)
+-  [Mímu Ipin gbolohun ni JavaScript — Josh Clanton](http://adripofjavascript.com/blog/drips/emulating-block-scope-in-javascript.html)
+-  [Iyatọ laarin Ipin iṣẹ́ ati Ipin gbolohun ni JavaScript — Joseph Cardillo](https://medium.com/@josephcardillo/the-difference-between-function-and-block-scope-in-javascript-4296b2322abe)
+-  [Àwọn Ipin Iṣẹ́ àti Àwọn Ipin Gbolohun ni JavaScript — Samer Buna](https://edgecoders.com/function-scopes-and-block-scopes-in-javascript-25bbd7f293d7)
+-  [Igbagbọ Ipin ati Àpapọ ni JavaScript — Ryan Morr](http://ryanmorr.com/understanding-scope-and-context-in-javascript/)
+-  [Ipin JavaScript ati Ipa — Zell Liew](https://css-tricks.com/javascript-scope-closures/)
+-  [Igbagbọ Ipin ni JavaScript — Wissam Abirached](https://developer.telerik.com/topics/web-development/understanding-scope-in-javascript/)
+-  [Igbagbọ Ipin ni JavaScript ― Hammad Ahmed](https://scotch.io/tutorials/understanding-scope-in-javascript)
+-  [Nigbawo ni lati lo ìkọ́ iṣẹ́ kan vs. ìfihan iṣẹ́ kan ― Amber Wilkie](https://medium.freecodecamp.org/when-to-use-a-function-declarations-vs-a-function-expression-70f15152a0a0)
+-  [A Iwe afọwọkọ nipa Awọn ipilẹ JavaScript: Ipin, Àpapọ, àti “yi” ― Alexandra Fren](https://dev.to/alexandrafren/a-javascript-fundamentals-cheat-sheet-scope-context-and-this-28ai)
+-  [Àwọn Iṣẹ́ / Ipin Iṣẹ́ ― MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions#function_scope)
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Fídíò
 
-- [What Makes Javascript Weird ... and Awesome pt. 4 — LearnCode.academy](https://www.youtube.com/watch?v=SBwoFkRjZvE)
-- [Variable Scope in JavaScript — Kirupa Chinnathambi](https://www.youtube.com/watch?v=dhp57T3p760)
-- [JavaScript Block Scope and Function Scope — mmtuts](https://www.youtube.com/watch?v=aK_nuUAdr8E)
-- [What the Heck is Lexical Scope? — NWCalvank](https://www.youtube.com/watch?v=GhNA0r10MmA)
-- [Variable Scope — Steve Griffith](https://www.youtube.com/watch?v=FyWdrCZZavQ)
-- [Javascript Tutorials for Beginners — Mosh Hemadani](https://www.youtube.com/watch?v=W6NZfCO5SIk)
-- [JavaScript Block scope vs Function scope - nivek](https://www.youtube.com/watch?v=IaTztAtoNEY)
-- [Lexical scoping in javascript - Hitesh Choudhary](https://www.youtube.com/watch?v=qT5S7GgIioE)
- 
+- [Kí ni ń ṣe Javascript Aláìlàáfẹ́ ... àti Awesom pt. 4 — LearnCode.academy](https://www.youtube.com/watch?v=SBwoFkRjZvE)
+- [Ipin Àkópọ ni JavaScript — Kirupa Chinnathambi](https://www.youtube.com/watch?v=dhp57T3p760)
+- [Ipin gbolohun ni JavaScript ati Ipin iṣẹ́ — mmtuts](https://www.youtube.com/watch?v=aK_nuUAdr8E)
+- [Kí ni Lexical Scope? — NWCalvank](https://www.youtube.com/watch?v=GhNA0r10MmA)
+- [Ipin Àkópọ — Steve Griffith](https://www.youtube.com/watch?v=FyWdrCZZavQ)
+- [Àwọn ẹ̀kọ́ Javascript fun Awọn ibẹrẹ — Mosh Hemadani](https://www.youtube.com/watch?v=W6NZfCO5SIk)
+- [Ipin gbolohun vs Ipin iṣẹ́ ni JavaScript - nivek](https://www.youtube.com/watch?v=IaTztAtoNEY)
+- [Ipin Lexical ni javascript - Hitesh Choudhary](https://www.youtube.com/watch?v=qT5S7GgIioE)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Pada si oke](#table-of-contents)**
 
 ---
 
-## 7. Expression vs Statement
+## 7. Àfikún vs Ìsọ̀kan
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Àwárí
 
--  [All you need to know about Javascript's Expressions, Statements and Expression Statements — Promise Tochi](https://dev.to/promhize/javascript-in-depth-all-you-need-to-know-about-expressions-statements-and-expression-statements-5k2)
--  [Function Expressions vs Function Declarations — Paul Wilkins](https://www.sitepoint.com/function-expressions-vs-declarations/)
--  [JavaScript Function — Declaration vs Expression — Ravi Roshan](https://medium.com/@raviroshan.talk/javascript-function-declaration-vs-expression-f5873b8c7b38)
--  [Function Declarations vs. Function Expressions — Mandeep Singh](https://medium.com/@mandeep1012/function-declarations-vs-function-expressions-b43646042052)
--  [Function Declarations vs. Function Expressions — Anguls Croll](https://javascriptweblog.wordpress.com/2010/07/06/function-declarations-vs-function-expressions/)
+-  [Ohun gbogbo ti o nilo lati mọ nipa Àfikún Javascript, Ìsọ̀kan, àti Àfikún Ìsọ̀kan — Promise Tochi](https://dev.to/promhize/javascript-in-depth-all-you-need-to-know-about-expressions-statements-and-expression-statements-5k2)
+-  [Àfikún Iṣẹ́ vs Ìtọ́kasí Iṣẹ́ — Paul Wilkins](https://www.sitepoint.com/function-expressions-vs-declarations/)
+-  [Iṣẹ́ JavaScript — Ìtọ́kasí vs Àfikún — Ravi Roshan](https://medium.com/@raviroshan.talk/javascript-function-declaration-vs-expression-f5873b8c7b38)
+-  [Ìtọ́kasí Iṣẹ́ vs. Àfikún Iṣẹ́ — Mandeep Singh](https://medium.com/@mandeep1012/function-declarations-vs-function-expressions-b43646042052)
+-  [Ìtọ́kasí Iṣẹ́ vs. Àfikún Iṣẹ́ — Anguls Croll](https://javascriptweblog.wordpress.com/2010/07/06/function-declarations-vs-function-expressions/)
 
-- 📜 [Expression statement — MDN web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/Expression_statement)
-- 📜 [All you need to know about Javascript's Expressions, Statements and Expression Statements — Promise Tochi](https://dev.to/promhize/javascript-in-depth-all-you-need-to-know-about-expressions-statements-and-expression-statements-5k2)
-- 📜 [Function Expressions vs Function Declarations — Paul Wilkins](https://www.sitepoint.com/function-expressions-vs-declarations/)
-- 📜 [JavaScript Function — Declaration vs Expression — Ravi Roshan](https://medium.com/@raviroshan.talk/javascript-function-declaration-vs-expression-f5873b8c7b38)
-- 📜 [Function Declarations vs. Function Expressions — Mandeep Singh](https://medium.com/@mandeep1012/function-declarations-vs-function-expressions-b43646042052)
-- 📜 [Function Declarations vs. Function Expressions — Anguls Croll](https://javascriptweblog.wordpress.com/2010/07/06/function-declarations-vs-function-expressions/)
+- 📜 [Àfikún ìsọ̀kan — MDN web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/Expression_statement)
+- 📜 [Ohun gbogbo ti o nilo lati mọ nipa Àfikún Javascript, Ìsọ̀kan, àti Àfikún Ìsọ̀kan — Promise Tochi](https://dev.to/promhize/javascript-in-depth-all-you-need-to-know-about-expressions-statements-and-expression-statements-5k2)
+- 📜 [Àfikún Iṣẹ́ vs Ìtọ́kasí Iṣẹ́ — Paul Wilkins](https://www.sitepoint.com/function-expressions-vs-declarations/)
+- 📜 [Iṣẹ́ JavaScript — Ìtọ́kasí vs Àfikún — Ravi Roshan](https://medium.com/@raviroshan.talk/javascript-function-declaration-vs-expression-f5873b8c7b38)
+- 📜 [Ìtọ́kasí Iṣẹ́ vs. Àfikún Iṣẹ́ — Mandeep Singh](https://medium.com/@mandeep1012/function-declarations-vs-function-expressions-b43646042052)
+- 📜 [Ìtọ́kasí Iṣẹ́ vs. Àfikún Iṣẹ́ — Anguls Croll](https://javascriptweblog.wordpress.com/2010/07/06/function-declarations-vs-function-expressions/)
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Fídíò
 
-- [Expressions vs. Statements in JavaScript — Hexlet](https://www.youtube.com/watch?v=WVyCrI1cHi8)
-- [JavaScript - Expression vs. Statement — WebTunings](https://www.youtube.com/watch?v=3jDpNGJkupA)
-- [Javascript Function Expression Vs Declaration For Beginners — Dev Material](https://www.youtube.com/watch?v=qz7Nq1tV7Io)
-- [The difference between an expression and a statement in JavaScript](https://youtu.be/eWTuFoBYiwg)
-- [Expression in javascript | Statement in javascript - Sathelli Srikanth](https://www.youtube.com/watch?v=cVDs3TZ-kXs)
+- [Àfikún vs. Ìsọ̀kan ni JavaScript — Hexlet](https://www.youtube.com/watch?v=WVyCrI1cHi8)
+- [JavaScript - Àfikún vs. Ìsọ̀kan — WebTunings](https://www.youtube.com/watch?v=3jDpNGJkupA)
+- [Àfikún Iṣẹ́ Javascript Vs Ìtọ́kasí Fun Awọn ibẹrẹ — Dev Material](https://www.youtube.com/watch?v=qz7Nq1tV7Io)
+- [Iyatọ laarin àfikún ati ìsọ̀kan ni JavaScript](https://youtu.be/eWTuFoBYiwg)
+- [Àfikún ni javascript | Ìsọ̀kan ni javascript - Sathelli Srikanth](https://www.youtube.com/watch?v=cVDs3TZ-kXs)
 
+**[⬆ Pada si oke](#table-of-contents)**
 
-**[⬆ Back to Top](#table-of-contents)**
 
 ---
 
