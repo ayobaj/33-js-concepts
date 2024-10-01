@@ -392,56 +392,57 @@ Gbogbo awọn itumọ fun ibi ipamọ yii yoo wa ni atokọ ni isalẹ:
 
 ---
 
-## 10. setTimeout, setInterval and requestAnimationFrame
+## 10. setTimeout, setInterval ati requestAnimationFrame
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Àwárí
 
--  [Javascript setTimeout - All you need to know](https://robiul.dev/javascript-settimeout-all-you-need-to-know)
--  [setTimeout and setInterval — JavaScript.Info](https://javascript.info/settimeout-setinterval)
--  [Why not to use setInterval — Akanksha Sharma](https://dev.to/akanksha_9560/why-not-to-use-setinterval--2na9)
+-  [Javascript setTimeout - Gbogbo ohun ti o nilo lati mọ](https://robiul.dev/javascript-settimeout-all-you-need-to-know)
+-  [setTimeout ati setInterval — JavaScript.Info](https://javascript.info/settimeout-setinterval)
+-  [Kí ni idi ti o fi yẹ ki o má lo setInterval — Akanksha Sharma](https://dev.to/akanksha_9560/why-not-to-use-setinterval--2na9)
 -  [setTimeout VS setInterval — Develoger](https://develoger.com/settimeout-vs-setinterval-cff85142555b)
--  [Using requestAnimationFrame — Chris Coyier](https://css-tricks.com/using-requestanimationframe/)
--  [Understanding JavaScript's requestAnimationFrame() — JavaScript Kit](http://www.javascriptkit.com/javatutors/requestanimationframe.shtml)
--  [Handling time intervals in JavaScript - Amit Merchant](https://www.amitmerchant.com/Handling-Time-Intervals-In-Javascript/)
--  [Debounce – How to Delay a Function in JavaScript - Ondrej Polesny](https://www.freecodecamp.org/news/javascript-debounce-example/)
+-  [Lilo requestAnimationFrame — Chris Coyier](https://css-tricks.com/using-requestanimationframe/)
+-  [Ìtàn requestAnimationFrame() JavaScript — JavaScript Kit](http://www.javascriptkit.com/javatutors/requestanimationframe.shtml)
+-  [Mímu awọn akoko laarin JavaScript - Amit Merchant](https://www.amitmerchant.com/Handling-Time-Intervals-In-Javascript/)
+-  [Debounce – Bawo ni a ṣe le da iṣẹ́ kan dúró ni JavaScript - Ondrej Polesny](https://www.freecodecamp.org/news/javascript-debounce-example/)
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Fídíò
 
-- [Javascript: How setTimeout and setInterval works — Coding Blocks India](https://www.youtube.com/watch?v=6bPKyl8WYWI)
-- [TRUST ISSUES with setTimeout() — Akshay Saini ](https://youtu.be/nqsPmuicJJc?si=4FXKlZfqiJUqO2Y4)                  
-- [setTimeout and setInterval in JavaScript — techsith](https://www.youtube.com/watch?v=TbCgGWe8LN8)
-- [JavaScript Timers — Steve Griffith](https://www.youtube.com/watch?v=0VVJSvlUgtg)
-- [JavaScript setTimeOut and setInterval Explained — Theodore Anderson](https://www.youtube.com/watch?v=mVKfrWCOB60)   
+- [Javascript: Bawo ni setTimeout ati setInterval ṣe n ṣiṣẹ́ — Coding Blocks India](https://www.youtube.com/watch?v=6bPKyl8WYWI)
+- [ISẸ TRUST pẹlu setTimeout() — Akshay Saini ](https://youtu.be/nqsPmuicJJc?si=4FXKlZfqiJUqO2Y4)                  
+- [setTimeout ati setInterval ni JavaScript — techsith](https://www.youtube.com/watch?v=TbCgGWe8LN8)
+- [Àwọn wakati JavaScript — Steve Griffith](https://www.youtube.com/watch?v=0VVJSvlUgtg)
+- [setTimeOut JavaScript ati setInterval ti a ṣalaye — Theodore Anderson](https://www.youtube.com/watch?v=mVKfrWCOB60)   
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Pada si oke](#table-of-contents)**
 
 ---
 
-## 11. JavaScript Engines
+## 11. Ẹrọ JavaScript
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Àwárí
 
--  [Is javascript compiled or interpreted language?](https://robiul.dev/is-javascript-compiled-or-interpreted-language)
--  [JavaScript Engines — Jen Looper](http://www.softwaremag.com/javascript-engines/)
--  [Understanding How the Chrome V8 Engine Translates JavaScript into Machine Code — DroidHead](https://medium.freecodecamp.org/understanding-the-core-of-nodejs-the-powerful-chrome-v8-engine-79e7eb8af964)
--  [Understanding V8’s Bytecode — Franziska Hinkelmann](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775)
--  [A Brief History of Google’s V8 Javascript Engine — Clair Smith](https://www.mediacurrent.com/blog/brief-history-googles-v8-javascript-engine/)
--  [JavaScript essentials: why you should know how the engine works - Rainer Hahnekamp](https://www.freecodecamp.org/news/javascript-essentials-why-you-should-know-how-the-engine-works-c2cc0d321553)
--  [JavaScript engine fundamentals: Shapes and Inline Caches](https://mathiasbynens.be/notes/shapes-ics)
--  [JavaScript engine fundamentals: optimizing prototypes](https://mathiasbynens.be/notes/prototypes)
--  [How V8 optimizes array operations](https://v8.dev/blog/elements-kinds)
--  [JavaScript Internals: JavaScript engine, Run-time environment & setTimeout Web API — Rupesh Mishra](https://blog.bitsrc.io/javascript-internals-javascript-engine-run-time-environment-settimeout-web-api-eeed263b1617)
+-  [Ṣe JavaScript jẹ́ ede ti a ko ni i ṣàlàyé tabi ti a ṣàlàyé?](https://robiul.dev/is-javascript-compiled-or-interpreted-language)
+-  [Àwọn Ẹrọ JavaScript — Jen Looper](http://www.softwaremag.com/javascript-engines/)
+-  [Ìtàn Bawo ni Ẹrọ Chrome V8 ṣe n tú JavaScript sí Koodu Ẹrọ — DroidHead](https://medium.freecodecamp.org/understanding-the-core-of-nodejs-the-powerful-chrome-v8-engine-79e7eb8af964)
+-  [Ìtàn Bytecode V8 — Franziska Hinkelmann](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775)
+-  [Ìtàn Kekere ti Ẹrọ V8 JavaScript Google — Clair Smith](https://www.mediacurrent.com/blog/brief-history-googles-v8-javascript-engine/)
+-  [Ìkànsí JavaScript: Kí nìdí ti o fi yẹ ki o mọ bí ẹrọ ṣe n ṣiṣẹ́ - Rainer Hahnekamp](https://www.freecodecamp.org/news/javascript-essentials-why-you-should-know-how-the-engine-works-c2cc0d321553)
+-  [Iṣeduro Ẹrọ JavaScript: Awọn Shap ati Awọn Cache Inline](https://mathiasbynens.be/notes/shapes-ics)
+-  [Iṣeduro Ẹrọ JavaScript: Mímu awọn prototypes pọ](https://mathiasbynens.be/notes/prototypes)
+-  [Bawo ni V8 ṣe n mu awọn iṣẹ́ array ṣiṣẹ](https://v8.dev/blog/elements-kinds)
+-  [Ìpinnu JavaScript: Ẹrọ JavaScript, Ayika Iṣiṣẹ́ & setTimeout Web API — Rupesh Mishra](https://blog.bitsrc.io/javascript-internals-javascript-engine-run-time-environment-settimeout-web-api-eeed263b1617)
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Fídíò
 
-- [JavaScript Engines: The Good Parts™ — Mathias Bynens & Benedikt Meurer](https://www.youtube.com/watch?v=5nmpokoRaZI)
-- [JS Engine EXPOSED 🔥 Google's V8 Architecture 🚀 | Namaste JavaScript Ep. 16 - Akshay Saini](https://www.youtube.com/watch?v=2WJL19wDH68)
-- [How JavaScript Code is executed? How Javascript works behind the scenes](https://youtu.be/iLWTnMzWtj4)   
-- [Understanding the V8 JavaScript Engine - freeCodeCamp Talks](https://www.youtube.com/watch?v=xckH5s3UuX4)
-- [JavaScript Under The Hood - JavaScript Engine Overview - Traversy Media](https://www.youtube.com/watch?v=oc6faXVc54E)
-- [Arindam Paul - JavaScript VM internals, EventLoop, Async and ScopeChains](https://www.youtube.com/watch?v=QyUFheng6J0)
+- [Àwọn Ẹrọ JavaScript: Awọn Ẹya Rere™ — Mathias Bynens & Benedikt Meurer](https://www.youtube.com/watch?v=5nmpokoRaZI)
+- [JS Ẹrọ EXPOSED 🔥 Àkọsílẹ V8 Google 🚀 | Namaste JavaScript Ep. 16 - Akshay Saini](https://www.youtube.com/watch?v=2WJL19wDH68)
+- [Bawo ni Koodu JavaScript ṣe n ṣiṣẹ́? Bawo ni JavaScript ṣe n ṣiṣẹ́ ni abẹ́](https://youtu.be/iLWTnMzWtj4)   
+- [Ìtàn Ẹrọ JavaScript V8 - freeCodeCamp Talks](https://www.youtube.com/watch?v=xckH5s3UuX4)
+- [JavaScript Ni Ilẹ̀ - Àkótán Ẹrọ JavaScript - Traversy Media](https://www.youtube.com/watch?v=oc6faXVc54E)
+- [Arindam Paul - Awọn ohun ijinlẹ Ẹrọ JavaScript, Ẹrọ Iṣẹ́, Async ati ScopeChains](https://www.youtube.com/watch?v=QyUFheng6J0)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Pada si oke](#table-of-contents)**
+
 
 ---
 
