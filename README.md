@@ -1160,83 +1160,89 @@ Gbogbo awọn itumọ fun ibi ipamọ yii yoo wa ni atokọ ni isalẹ:
 
 ---
 
-## 32. Partial Applications, Currying, Compose and Pipe
+## 32. Awọn ohun elo apakan, Currying, Compose ati Pipe
 
-### Books
+### Awọn iwe
 
--  [Functional-Light JavaScript: Ch. 3 - Managing Function Inputs — Kyle Simpson](https://github.com/getify/Functional-Light-JS/blob/master/manuscript/ch3.md)
+-  [Functional-Light JavaScript: Ch. 3 - Ṣiṣakoso Awọn ẹya ti Iṣẹ — Kyle Simpson](https://github.com/getify/Functional-Light-JS/blob/master/manuscript/ch3.md)
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Awọn nkan
 
--  [Composition and Currying Elegance in JavaScript — Pragyan Das](https://medium.com/@pragyan88/writing-middleware-composition-and-currying-elegance-in-javascript-8b15c98a541b)
--  [Functional JavaScript: Function Composition For Every Day Use — Joel Thoms](https://hackernoon.com/javascript-functional-composition-for-every-day-use-22421ef65a10)
--  [Functional Composition: compose() and pipe() — Anton Paras](https://medium.com/@acparas/what-i-learned-today-july-2-2017-ab9a46dbf85f)
--  [Why The Hipsters Compose Everything: Functional Composing In JavaScript — A. Sharif](http://busypeoples.github.io/post/functional-composing-javascript/)
--  [A Gentle Introduction to Functional JavaScript pt III: Functions for making functions — James Sinclair](https://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-functions/)
--  [Curry And Compose (why you should be using something like ramda in your code) — jsanchesleao](https://jsleao.wordpress.com/2015/02/22/curry-and-compose-why-you-should-be-using-something-like-ramda-in-your-code/)
--  [Function Composition in JavaScript with Pipe — Andy Van Slaars](https://vanslaars.io/post/create-pipe-function/)
--  [Practical Functional JavaScript with Ramda — Andrew D'Amelio, Yuri Takhteyev](https://developer.telerik.com/featured/practical-functional-javascript-ramda/)
--  [The beauty in Partial Application, Currying, and Function Composition — Joel Thoms](https://hackernoon.com/the-beauty-in-partial-application-currying-and-function-composition-d885bdf0d574)
--  [Curry or Partial Application? — Eric Elliott](https://medium.com/javascript-scene/curry-or-partial-application-8150044c78b8)
--  [Partial Application in JavaScript — Ben Alman](http://benalman.com/news/2012/09/partial-application-in-javascript/)
--  [Partial Application of Functions — Functional Reactive Ninja](https://hackernoon.com/partial-application-of-functions-dbe7d9b80760)
--  [Currying vs Partial Application — Deepak Gupta](https://towardsdatascience.com/javascript-currying-vs-partial-application-4db5b2442be8)
--  [Partial Application in ECMAScript 2015 — Ragan Wald](http://raganwald.com/2015/04/01/partial-application.html)
--  [So You Want to be a Functional Programmer pt. I — Charles Scalfani](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536)
--  [So You Want to be a Functional Programmer pt. II — Charles Scalfani](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-2-7005682cec4a)
--  [So You Want to be a Functional Programmer pt. III — Charles Scalfani](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-3-1b0fd14eb1a7)
--  [So You Want to be a Functional Programmer pt. IV — Charles Scalfani](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-4-18fbe3ea9e49)
--  [So You Want to be a Functional Programmer pt. V — Charles Scalfani](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-5-c70adc9cf56a)
--  [An introduction to the basic principles of Functional Programming — TK](https://medium.freecodecamp.org/an-introduction-to-the-basic-principles-of-functional-programming-a2c2a15c84)
--  [Concepts of Functional Programming in Javascript — TK](https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa)
--  [An Introduction to Functional Programming Style in JavaScript — JavaScript Teacher](https://medium.freecodecamp.org/an-introduction-to-functional-programming-style-in-javascript-71fcc050f064)
--  [A practical guide to writing more functional JavaScript — Nadeesha Cabral](https://medium.freecodecamp.org/a-practical-guide-to-writing-more-functional-javascript-db49409f71)
--  [A simple explanation of functional pipe in JavaScript — Ben Lesh](https://dev.to/benlesh/a-simple-explanation-of-functional-pipe-in-javascript-2hbj)
+-  [Iṣopọ ati Elegance Currying ni JavaScript — Pragyan Das](https://medium.com/@pragyan88/writing-middleware-composition-and-currying-elegance-in-javascript-8b15c98a541b)
+-  [JavaScript Iṣẹ: Iṣọpọ Iṣẹ Fun Lo Ojoojumọ — Joel Thoms](https://hackernoon.com/javascript-functional-composition-for-every-day-use-22421ef65a10)
+-  [Iṣọpọ Iṣẹ: compose() ati pipe() — Anton Paras](https://medium.com/@acparas/what-i-learned-today-july-2-2017-ab9a46dbf85f)
+-  [Kilode ti Hipsters fi n ṣe ohun gbogbo: Iṣọpọ Iṣẹ ni JavaScript — A. Sharif](http://busypeoples.github.io/post/functional-composing-javascript/)
+-  [Ikan si Iṣe JavaScript ti Iṣẹ pt III: Awọn iṣẹ fun ṣiṣe awọn iṣẹ — James Sinclair](https://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-functions/)
+-  [Curry Ati Compose (idi ti o yẹ ki o lo nkan bi ramda ni koodu rẹ) — jsanchesleao](https://jsleao.wordpress.com/2015/02/22/curry-and-compose-why-you-should-be-using-something-like-ramda-in-your-code/)
+-  [Iṣọpọ Iṣẹ ni JavaScript pẹlu Pipe — Andy Van Slaars](https://vanslaars.io/post/create-pipe-function/)
+-  [Iṣẹ Iṣẹ ti o munadoko pẹlu Ramda — Andrew D'Amelio, Yuri Takhteyev](https://developer.telerik.com/featured/practical-functional-javascript-ramda/)
+-  [Ẹwa ninu Iṣẹ Apakan, Currying, ati Iṣọpọ Iṣẹ — Joel Thoms](https://hackernoon.com/the-beauty-in-partial-application-currying-and-function-composition-d885bdf0d574)
+-  [Curry tabi Iṣẹ Apakan? — Eric Elliott](https://medium.com/javascript-scene/curry-or-partial-application-8150044c78b8)
+-  [Iṣẹ Apakan ni JavaScript — Ben Alman](http://benalman.com/news/2012/09/partial-application-in-javascript/)
+-  [Iṣẹ Apakan ti Awọn iṣẹ — Iṣẹ-iwa Alailẹgbẹ Ninja](https://hackernoon.com/partial-application-of-functions-dbe7d9b80760)
+-  [Currying vs Iṣẹ Apakan — Deepak Gupta](https://towardsdatascience.com/javascript-currying-vs-partial-application-4db5b2442be8)
+-  [Iṣẹ Apakan ni ECMAScript 2015 — Ragan Wald](http://raganwald.com/2015/04/01/partial-application.html)
+-  [Nitorinaa o fẹ lati jẹ Olukọni Iṣe pt. I — Charles Scalfani](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536)
+-  [Nitorinaa o fẹ lati jẹ Olukọni Iṣe pt. II — Charles Scalfani](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-2-7005682cec4a)
+-  [Nitorinaa o fẹ lati jẹ Olukọni Iṣe pt. III — Charles Scalfani](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-3-1b0fd14eb1a7)
+-  [Nitorinaa o fẹ lati jẹ Olukọni Iṣe pt. IV — Charles Scalfani](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-4-18fbe3ea9e49)
+-  [Nitorinaa o fẹ lati jẹ Olukọni Iṣe pt. V — Charles Scalfani](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-5-c70adc9cf56a)
+-  [Ikan si awọn ilana ipilẹ ti Iṣe Iṣe — TK](https://medium.freecodecamp.org/an-introduction-to-the-basic-principles-of-functional-programming-a2c2a15c84)
+-  [Awọn imọran ti Iṣe Iṣe ni Javascript — TK](https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa)
+-  [Ikan si Iṣe Iṣe ni JavaScript — Olukọni JavaScript](https://medium.freecodecamp.org/an-introduction-to-functional-programming-style-in-javascript-71fcc050f064)
+-  [Itọsọna ti o munadoko si kikọ JavaScript ti o ni iṣẹ diẹ sii — Nadeesha Cabral](https://medium.freecodecamp.org/a-practical-guide-to-writing-more-functional-javascript-db49409f71)
+-  [Itumọ ti o rọrun ti pipẹ iṣẹ ni JavaScript — Ben Lesh](https://dev.to/benlesh/a-simple-explanation-of-functional-pipe-in-javascript-2hbj)
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Awọn fidio
 
-- [Compose vs Pipe: Functional Programming in JavaScript — Chyld Studios](https://www.youtube.com/watch?v=Wl2ejJOqHUU)
-- [JavaScript Functional Programing: Compose — Theodore Anderson](https://www.youtube.com/watch?v=jigHxo9YR30)
-- [Function Composition - Functional JavaScript — NWCalvank](https://www.youtube.com/watch?v=mth5WpEc4Qs)
-- [JavaScript Function Composition Explained — Theodore Anderson](https://www.youtube.com/watch?v=Uam37AlzPYw)
-- [Let's code with function composition — Fun Fun Function](https://www.youtube.com/watch?v=VGB9HbL1GHk)
-- [Partial Application vs. Currying — NWCalvank](https://www.youtube.com/watch?v=DzLkRsUN2vE)
-- [JavaScript Partial Application — Theodore Anderson](https://www.youtube.com/watch?v=jkebgHEcvac)
-- [call, apply and bind method in JavaScript](https://www.youtube.com/watch?v=75W8UPQ5l7k&t=261s)
+- [Compose vs Pipe: Iṣe Iṣe ni JavaScript — Chyld Studios](https://www.youtube.com/watch?v=Wl2ejJOqHUU)
+- [JavaScript Iṣe Iṣe: Compose — Theodore Anderson](https://www.youtube.com/watch?v=jigHxo9YR30)
+- [Iṣọpọ Iṣẹ - Iṣe Iṣe JavaScript — NWCalvank](https://www.youtube.com/watch?v=mth5WpEc4Qs)
+- [Itumọ Iṣọpọ Iṣẹ ni JavaScript — Theodore Anderson](https://www.youtube.com/watch?v=Uam37AlzPYw)
+- [Jẹ ki a koodu pẹlu iṣọpọ iṣẹ — Fun Fun Fun](https://www.youtube.com/watch?v=VGB9HbL1GHk)
+- [Iṣẹ Apakan vs. Currying — NWCalvank](https://www.youtube.com/watch?v=DzLkRsUN2vE)
+- [JavaScript Iṣẹ Apakan — Theodore Anderson](https://www.youtube.com/watch?v=jkebgHEcvac)
+- [pe, lo ati so ọna ni JavaScript](https://www.youtube.com/watch?v=75W8UPQ5l7k&t=261s)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Pada si oke](#table-of-contents)**
 
 ---
 
-## 33. Clean Code
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
 
--  [Clean Code Explained – A Practical Introduction to Clean Coding for Beginners — freeCodeCamp](https://www.freecodecamp.org/news/clean-coding-for-beginners/)
--  [Clean Code concepts adapted for JavaScript — Ryan McDermott](https://github.com/ryanmcdermott/clean-code-javascript)
--  [Clean Code Practice: How to write clean code — Tirth Bodawala](https://www.atyantik.com/clean-code-practices-javascript/)
--  [Function parameters in JavaScript Clean Code — Kevin Peters](https://medium.com/@kevin_peters/function-parameters-in-javascript-clean-code-4caac109159b)
--  [Keeping your code clean — Samuel James](https://codeburst.io/keeping-your-code-clean-d30bcffd1a10)
--  [Best Practices for Using Modern JavaScript Syntax — M. David Green](https://www.sitepoint.com/modern-javascript-best-practices/)
--  [best practices for cross node/web development - Jimmy Wärting](https://github.com/cross-js/cross-js)
--  [Writing Clean Code - Dylan Paulus](https://dev.to/ganderzz/on-writing-clean-code-57cm)
--  [Writing Clean Code and The Practice of Programming - Nityesh Agarwal](https://dev.to/nityeshaga/writing-clean-code-and-the-practice-of-programming-actionable-advice-for-beginners-5f0k)
--  [Clean code, dirty code, human code - Daniel Irvine](https://dev.to/d_ir/clean-code-dirty-code-human-code-6nm)
--  [Practical Ways to Write Better JavaScript - Ryland G](https://dev.to/taillogs/practical-ways-to-write-better-javascript-26d4)
--  [The Must-Know Clean Code Principles - Kesk on Medium](https://medium.com/swlh/the-must-know-clean-code-principles-1371a14a2e75)
--  [The Clean Code Book - Robert C Martin](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/)
--  [How to use destructuring in JavaScript to write cleaner, more powerful code - freecodecamp](https://www.freecodecamp.org/news/how-to-use-destructuring-in-javascript-to-write-cleaner-more-powerful-code-9d1b38794050/)
--  [Write Clean Code Using JavaScript Object Destructuring - Asel Siriwardena](https://betterprogramming.pub/write-clean-code-using-javascript-object-destructuring-3551302130e7)
+markdown_content_yoruba = """
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+## 33. Koodu Mimọ
 
-- 🎥 [JavaScript Pro Tips - Code This, NOT That](https://www.youtube.com/watch?v=Mus_vwhTCq0)
-- 🎥 [Clean Code playlist - Beau teaches](https://www.youtube.com/watch?v=b9c5GmmS7ks&list=PLWKjhJtqVAbkK24EaPurzMq0-kw5U9pJh&index=1)
-- 🎥 [JavaScript Best Practices and Coding Conventions - Write Clean Code](https://youtu.be/RMN_bkZ1KM0?si=Ssg3cNZ_DB7CIwKQ)
-- 🎥 [JavaScript Clean Code](https://youtu.be/vPXzVNmCPg4?si=QR1k4E6Zx5H4mfcs)
-- 🎥 [Tips On Learning How To Code](https://www.youtube.com/watch?v=0wHyoBPc6zs)
+### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Àwọn Àkọọlẹ
 
-**[⬆ Back to Top](#table-of-contents)**
+-  [Koodu Mimọ ti a ṣalaye – Ifihan Gidi si Koodu Mimọ fun Awọn Alakọbẹrẹ — freeCodeCamp](https://www.freecodecamp.org/news/clean-coding-for-beginners/)
+-  [Awọn imọran Koodu Mimọ ti a ṣe adapọ fun JavaScript — Ryan McDermott](https://github.com/ryanmcdermott/clean-code-javascript)
+-  [Iṣẹ Koodu Mimọ: Bawo ni a ṣe le kọ koodu mimọ — Tirth Bodawala](https://www.atyantik.com/clean-code-practices-javascript/)
+-  [Awọn paramita iṣẹ ni Koodu Mimọ JavaScript — Kevin Peters](https://medium.com/@kevin_peters/function-parameters-in-javascript-clean-code-4caac109159b)
+-  [Pa koodu rẹ mọ — Samuel James](https://codeburst.io/keeping-your-code-clean-d30bcffd1a10)
+-  [Awọn iṣe Ti o dara julọ fun Lilo Awọn Sintasi JavaScript Igba Modẹrn — M. David Green](https://www.sitepoint.com/modern-javascript-best-practices/)
+-  [Awọn iṣe ti o dara julọ fun idagbasoke nodel/web — Jimmy Wärting](https://github.com/cross-js/cross-js)
+-  [Kiko Koodu Mimọ - Dylan Paulus](https://dev.to/ganderzz/on-writing-clean-code-57cm)
+-  [Kiko Koodu Mimọ ati Ilana ti Ilana Ikọkọ - Nityesh Agarwal](https://dev.to/nityeshaga/writing-clean-code-and-the-practice-of-programming-actionable-advice-for-beginners-5f0k)
+-  [Koodu Mimọ, Koodu Idoti, Koodu Eniyan - Daniel Irvine](https://dev.to/d_ir/clean-code-dirty-code-human-code-6nm)
+-  [Awọn Ọna Ti o Nira lati Kọ JavaScript Ti o dara julọ - Ryland G](https://dev.to/taillogs/practical-ways-to-write-better-javascript-26d4)
+-  [Awọn Ilana Koodu Mimọ Ti o yẹ ki o Mọ - Kesk on Medium](https://medium.com/swlh/the-must-know-clean-code-principles-1371a14a2e75)
+-  [Iwe Koodu Mimọ - Robert C Martin](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/)
+-  [Bawo ni a ṣe le lo iyatọ ni JavaScript lati kọ koodu ti o mọ, ti o ni agbara diẹ sii - freecodecamp](https://www.freecodecamp.org/news/how-to-use-destructuring-in-javascript-to-write-cleaner-more-powerful-code-9d1b38794050/)
+-  [Kọ Koodu Mimọ Pẹlu Iyatọ Ohun-elo JavaScript - Asel Siriwardena](https://betterprogramming.pub/write-clean-code-using-javascript-object-destructuring-3551302130e7)
 
-## <img  align= center width=50px height=50px src="https://moein.video/wp-content/uploads/2022/05/license-GIF-Certificate-Royalty-Free-Animated-Icon-350px-after-effects-project.gif"> License <a id = "License"></a>
-This software is licensed under MIT License, See [License](https://github.com/leonardomso/33-js-concepts/blob/master/LICENSE) for more information ©Leonardo Maldonado.
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Awọn fidio
+
+- 🎥 [JavaScript Pro Tips - Koodu Yi, KII eyi](https://www.youtube.com/watch?v=Mus_vwhTCq0)
+- 🎥 [Atokọ Fidio Koodu Mimọ - Beau kọ́](https://www.youtube.com/watch?v=b9c5GmmS7ks&list=PLWKjhJtqVAbkK24EaPurzMq0-kw5U9pJh&index=1)
+- 🎥 [Awọn iṣe Ti o dara julọ JavaScript ati Awọn Ilana Koodu - Kọ Koodu Mimọ](https://youtu.be/RMN_bkZ1KM0?si=Ssg3cNZ_DB7CIwKQ)
+- 🎥 [Koodu Mimọ JavaScript](https://youtu.be/vPXzVNmCPg4?si=QR1k4E6Zx5H4mfcs)
+- 🎥 [Awọn imọran lori Kiko Bawo ni Lati Koodu](https://www.youtube.com/watch?v=0wHyoBPc6zs)
+
+**[⬆ Pada si Top](#table-of-contents)**
+
+## <img  align= center width=50px height=50px src="https://moein.video/wp-content/uploads/2022/05/license-GIF-Certificate-Royalty-Free-Animated-Icon-350px-after-effects-project.gif"> Iwe-aṣẹ <a id = "License"></a>
+Ọpa sọfitiwia yii ni iwe-aṣẹ labẹ MIT License, Wo [Iwe-aṣẹ](https://github.com/leonardomso/33-js-concepts/blob/master/LICENSE) fun alaye siwaju si ©Leonardo Maldonado.
+"""
+
