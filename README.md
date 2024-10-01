@@ -573,72 +573,73 @@ Gbogbo awọn itumọ fun ibi ipamọ yii yoo wa ni atokọ ni isalẹ:
 
 ---
 
-## 16. new, Constructor, instanceof and Instances
+## 16. tuntun, Constructor, instanceof àti Instances
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Àwùjọ
 
--  [JavaScript For Beginners: the ‘new’ operator — Brandon Morelli](https://codeburst.io/javascript-for-beginners-the-new-operator-cee35beb669e)
--  [Let’s demystify JavaScript’s ‘new’ keyword — Cynthia Lee](https://medium.freecodecamp.org/demystifying-javascripts-new-keyword-874df126184c)
--  [Constructor, operator "new" — JavaScript.Info](https://javascript.info/constructor-new)
--  [Understanding JavaScript Constructors — Faraz Kelhini](https://css-tricks.com/understanding-javascript-constructors/)
--  [Use Constructor Functions — Openclassrooms](https://openclassrooms.com/en/courses/3523231-learn-to-code-with-javascript/4379006-use-constructor-functions)
--  [Beyond `typeof` and `instanceof`: simplifying dynamic type checks — Dr. Axel Rauschmayer](http://2ality.com/2017/08/type-right.html)
--  [Function and Object, instances of each other — Kiro Risk](https://javascriptrefined.io/function-and-object-instances-of-each-other-1e1095d5faac)
--  [JavaScript instanceof operator](https://flexiple.com/javascript/instanceof-javascript)
-  
-**[⬆ Back to Top](#table-of-contents)**
+- [JavaScript Fun Awọn Olubere: iṣẹ́ ‘tuntun’ — Brandon Morelli](https://codeburst.io/javascript-for-beginners-the-new-operator-cee35beb669e)
+- [Ẹ jé k'á ṣàlàyé ọrọ̀ ‘tuntun’ nínú JavaScript — Cynthia Lee](https://medium.freecodecamp.org/demystifying-javascripts-new-keyword-874df126184c)
+- [Constructor, iṣẹ́ "tuntun" — JavaScript.Info](https://javascript.info/constructor-new)
+- [Ìmọ̀ nípa JavaScript Constructors — Faraz Kelhini](https://css-tricks.com/understanding-javascript-constructors/)
+- [Lo Constructor Functions — Openclassrooms](https://openclassrooms.com/en/courses/3523231-learn-to-code-with-javascript/4379006-use-constructor-functions)
+- [Ní ilẹ̀ `typeof` àti `instanceof`: dínà àwọn ìyípadà tó rọrùn — Dr. Axel Rauschmayer](http://2ality.com/2017/08/type-right.html)
+- [Fúnṣọ́ń àti Ọbá, àwùjọ ti kọọkan — Kiro Risk](https://javascriptrefined.io/function-and-object-instances-of-each-other-1e1095d5faac)
+- [JavaScript instanceof iṣẹ́](https://flexiple.com/javascript/instanceof-javascript)
+
+**[⬆ Padà si Àkọ́ọ̀lẹ̀](#table-of-contents)**
 
 ---
 
-## 17. Prototype Inheritance and Prototype Chain
+## 17. Ikẹ́kọ̀ọ́ Prototype àti Pátákó Prototype
 
-### Reference
+### Àtọka
 
--  [Inheritance and the prototype chain — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
+- [Ikẹ́kọ̀ọ́ àti pátákó prototype — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Àwùjọ
 
--  [Javascript : Prototype vs Class — Valentin PARSY](https://medium.com/@parsyval/javascript-prototype-vs-class-a7015d5473b)
--  [JavaScript engine fundamentals: optimizing prototypes — Mathias Bynens](https://mathiasbynens.be/notes/prototypes)
--  [JavaScript Prototype — NC Patro](https://codeburst.io/javascript-prototype-cb29d82b8809)
--  [Prototypes in JavaScript — Rupesh Mishra](https://hackernoon.com/prototypes-in-javascript-5bba2990e04b)
--  [Prototype in JavaScript: it’s quirky, but here’s how it works — Pranav Jindal](https://medium.freecodecamp.org/prototype-in-js-busted-5547ec68872)
--  [Understanding JavaScript: Prototype and Inheritance — Alexander Kondov](https://hackernoon.com/understanding-javascript-prototype-and-inheritance-d55a9a23bde2)
--  [Understanding Classes (ES5) and Prototypal Inheritance in JavaScript — Hridayesh Sharma](https://dev.to/_hridaysharma/understanding-classes-es5-and-prototypal-inheritance-in-javascript-n8d)
--  [prototype, **proto** and Prototypal inheritance in JavaScript — Varun Dey](https://dev.to/varundey/prototype-proto-and-prototypal-inheritance-in-javascript-2inl)
--  [Prototypal Inheritance — JavaScript.Info](https://javascript.info/prototype-inheritance)
--  [How To Work with Prototypes and Inheritance in JavaScript — Tania Rascia](https://www.digitalocean.com/community/tutorials/understanding-prototypes-and-inheritance-in-javascript)
--  [Master JavaScript Prototypes & Inheritance — Arnav Aggarwal](https://codeburst.io/master-javascript-prototypes-inheritance-d0a9a5a75c4e)
--  [JavaScript’s Prototypal Inheritance Explained Using CSS — Nash Vail](https://medium.freecodecamp.org/understanding-prototypal-inheritance-in-javascript-with-css-93b2fcda75e4)
--  [Prototypal Inheritance in JavaScript — Jannis Redmann](https://gist.github.com/derhuerst/a585c4916b1c361cc6f0)
--  [Demystifying ES6 Classes And Prototypal Inheritance ― Neo Ighodaro](https://scotch.io/tutorials/demystifying-es6-classes-and-prototypal-inheritance)
--  [Intro To Prototypal Inheritance — Dharani Jayakanthan](https://dev.to/danny/intro-to-prototypal-inheritance---js-9di)
--  [Let’s Build Prototypal Inheritance in JS — var-che](https://dev.to/varche/let-s-build-prototypal-inheritance-in-js-56mm)
--  [Objects, Prototypes and Classes in JavaScript — Atta](https://dev.to/attacomsian/objects-prototypes-and-classes-in-javascript-3i9b)
--  [The magical world of JavaScript prototypes — Belén](https://dev.to/ladybenko/the-magical-world-of-javascript-prototypes-1mhg)
--  [Understanding Prototypal Inheritance In JavaScript — Lawrence Eagles](https://dev.to/lawrence_eagles/understanding-prototypal-inheritance-in-javascript-4f31#chp-4)
--  [Objects and Prototypes in JavaScript — Irena Popova](https://dev.to/irenejpopova/objects-and-prototypes-in-javascript-2eie)
+- [JavaScript : Prototype vs Class — Valentin PARSY](https://medium.com/@parsyval/javascript-prototype-vs-class-a7015d5473b)
+- [JavaScript engine fundamentals: optimizing prototypes — Mathias Bynens](https://mathiasbynens.be/notes/prototypes)
+- [JavaScript Prototype — NC Patro](https://codeburst.io/javascript-prototype-cb29d82b8809)
+- [Prototypes nínú JavaScript — Rupesh Mishra](https://hackernoon.com/prototypes-in-javascript-5bba2990e04b)
+- [Prototype nínú JavaScript: ó jẹ́ aláfàà, ṣùgbọ́n ẹ̀wọ̀n rẹ̀ ni bí ó ṣe ń ṣiṣẹ́ — Pranav Jindal](https://medium.freecodecamp.org/prototype-in-js-busted-5547ec68872)
+- [Ìmọ̀ nípa JavaScript: Prototype àti Ikẹ́kọ̀ọ́ — Alexander Kondov](https://hackernoon.com/understanding-javascript-prototype-and-inheritance-d55a9a23bde2)
+- [Ìmọ̀ nípa Classes (ES5) àti Prototypal Inheritance nínú JavaScript — Hridayesh Sharma](https://dev.to/_hridaysharma/understanding-classes-es5-and-prototypal-inheritance-in-javascript-n8d)
+- [prototype, **proto** àti Prototypal inheritance nínú JavaScript — Varun Dey](https://dev.to/varundey/prototype-proto-and-prototypal-inheritance-in-javascript-2inl)
+- [Prototypal Inheritance nínú JavaScript — JavaScript.Info](https://javascript.info/prototype-inheritance)
+- [Báwo ni Lati Ṣiṣẹ́ Pẹ̀lú Prototypes àti Ikẹ́kọ̀ọ́ nínú JavaScript — Tania Rascia](https://www.digitalocean.com/community/tutorials/understanding-prototypes-and-inheritance-in-javascript)
+- [Kọ́ JavaScript Prototypes & Ikẹ́kọ̀ọ́ — Arnav Aggarwal](https://codeburst.io/master-javascript-prototypes-inheritance-d0a9a5a75c4e)
+- [Ìmọ̀ nípa Prototypal Inheritance nínú JavaScript — Nash Vail](https://medium.freecodecamp.org/understanding-prototypal-inheritance-in-javascript-with-css-93b2fcda75e4)
+- [Prototypal Inheritance nínú JavaScript — Jannis Redmann](https://gist.github.com/derhuerst/a585c4916b1c361cc6f0)
+- [Ìmọ̀ nípa ES6 Classes àti Prototypal Inheritance — Neo Ighodaro](https://scotch.io/tutorials/demystifying-es6-classes-and-prototypal-inheritance)
+- [Ìtọ́kasí si Prototypal Inheritance — Dharani Jayakanthan](https://dev.to/danny/intro-to-prototypal-inheritance---js-9di)
+- [Ẹ jé k'á kọ́ Prototypal Inheritance nínú JS — var-che](https://dev.to/varche/let-s-build-prototypal-inheritance-in-js-56mm)
+- [Àwọn Objets, Prototypes àti Classes nínú JavaScript — Atta](https://dev.to/attacomsian/objects-prototypes-and-classes-in-javascript-3i9b)
+- [Àgbáyé alájùmọ̀ ti JavaScript prototypes — Belén](https://dev.to/ladybenko/the-magical-world-of-javascript-prototypes-1mhg)
+- [Ìmọ̀ nípa Prototypal Inheritance nínú JavaScript — Lawrence Eagles](https://dev.to/lawrence_eagles/understanding-prototypal-inheritance-in-javascript-4f31#chp-4)
+- [Àwọn Objets àti Prototypes nínú JavaScript — Irena Popova](https://dev.to/irenejpopova/objects-and-prototypes-in-javascript-2eie)
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Fídíò
 
-- [Javascript Prototype Inheritance — Avelx](https://www.youtube.com/watch?v=sOrtAjyk4lQ)
-- [JavaScript Prototype Inheritance Explained pt. I — techsith](https://www.youtube.com/watch?v=7oNWNlMrkpc)
-- [JavaScript Prototype Inheritance Explained pt. II — techsith](https://www.youtube.com/watch?v=uIlj6_z_wL8)
-- [JavaScript Prototype Inheritance Explained — Kyle Robinson](https://www.youtube.com/watch?v=qMO-LTOrJaE)
-- [Advanced Javascript - Prototypal Inheritance In 1 Minute](https://www.youtube.com/watch?v=G6l5CHl67HQ)
-- [An Overview Of Classical Javascript Classes and Prototypal Inheritance — Pentacode](https://www.youtube.com/watch?v=phwzuiJJPpQ)
-- [Object Oriented JavaScript - Prototype — The Net Ninja](https://www.youtube.com/watch?v=4jb4AYEyhRc)
-- [Prototype in JavaScript — kudvenkat](https://www.youtube.com/watch?v=2rkEbcptR64)
-- [JavaScript Using Prototypes — O'Reilly](https://www.youtube.com/watch?v=oCwCcNvaXAQ)
-- [A Beginner's Guide to Javascript's Prototype — Tyler Mcginnis](https://www.youtube.com/watch?v=XskMWBXNbp0)
-- [Prototypes in Javascript - p5.js Tutorial — The Coding Train](https://www.youtube.com/watch?v=hS_WqkyUah8)
+- [JavaScript Prototype Inheritance — Avelx](https://www.youtube.com/watch?v=sOrtAjyk4lQ)
+- [JavaScript Prototype Inheritance Ṣàlàyé pt. I — techsith](https://www.youtube.com/watch?v=7oNWNlMrkpc)
+- [JavaScript Prototype Inheritance Ṣàlàyé pt. II — techsith](https://www.youtube.com/watch?v=uIlj6_z_wL8)
+- [JavaScript Prototype Inheritance Ṣàlàyé — Kyle Robinson](https://www.youtube.com/watch?v=qMO-LTOrJaE)
+- [JavaScript to ti ni ilọsiwaju - Prototypal Inheritance Nínú Iṣẹ́ 1 Iṣẹ́](https://www.youtube.com/watch?v=G6l5CHl67HQ)
+- [Àtúmọ̀ ti JavaScript ti aṣa àti Prototypal Inheritance — Pentacode](https://www.youtube.com/watch?v=phwzuiJJPpQ)
+- [JavaScript ti Oba ti Pẹlu Prototypes - Àkọ́tàn — The Net Ninja](https://www.youtube.com/watch?v=4jb4AYEyhRc)
+- [Prototype nínú JavaScript — kudvenkat](https://www.youtube.com/watch?v=2rkEbcptR64)
+- [JavaScript Pẹlu Prototypes — O'Reilly](https://www.youtube.com/watch?v=oCwCcNvaXAQ)
+- [Ẹkọ́ Olùkọ́ Pẹ̀lú Prototype JavaScript — Tyler Mcginnis](https://www.youtube.com/watch?v=XskMWBXNbp0)
+- [Prototypes nínú JavaScript - p5.js Àkọ́tàn — The Coding Train](https://www.youtube.com/watch?v=hS_WqkyUah8)
 
-### Books
+### Ìwé
 
-- [You Don't Know JS, 1st Edition: this & Object Prototypes — Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed)
-- [The Principles of Object-Oriented JavaScript - Nicholas C. Zakas](https://www.google.com.pk/books/edition/The_Principles_of_Object_Oriented_JavaSc/rorlAwAAQBAJ?hl=en&gbpv=1&pg=PP1&printsec=frontcover)
+- [O Ko Ni Mọ JS, Ẹ̀dà 1: this & Object Prototypes — Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed)
+- [Ìlànà ti Object-Oriented JavaScript - Nicholas C. Zakas](https://www.google.com.pk/books/edition/The_Principles_of_Object_Oriented_JavaSc/rorlAwAAQBAJ?hl=en&gbpv=1&pg=PP1&printsec=frontcover)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Padà si Àkọ́ọ̀lẹ̀](#table-of-contents)**
+
 
 ---
 
