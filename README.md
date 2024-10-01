@@ -1094,68 +1094,69 @@ Gbogbo awọn itumọ fun ibi ipamọ yii yoo wa ni atokọ ni isalẹ:
 
 ---
 
-## 30. Inheritance, Polymorphism and Code Reuse
+## 30. Ìmọ̀lẹ̀, Polymorphism àti Ìtunṣe Kóòdù
 
-### Reference
+### Àkópọ̀
 
--  [Inheritance in JavaScript — MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Inheritance)
--  [Class inheritance, super — JavaScript.Info](https://javascript.info/class-inheritance)
+-  [Ìmọ̀lẹ̀ ní JavaScript — MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Inheritance)
+-  [Ìmọ̀lẹ̀ kilasi, super — JavaScript.Info](https://javascript.info/class-inheritance)
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Àwọn Àpilẹkọ
 
--  [Inheritance in JavaScript — Rupesh Mishra](https://hackernoon.com/inheritance-in-javascript-21d2b82ffa6f)
--  [Simple Inheritance with JavaScript — David Catuhe](https://www.sitepoint.com/simple-inheritance-javascript/)
--  [JavaScript — Inheritance, delegation patterns and Object linking — NC Patro](https://codeburst.io/javascript-inheritance-25fe61ab9f85)
--  [Object Oriented JavaScript: Polymorphism with examples — Knoldus Blogs](https://blog.knoldus.com/object-oriented-javascript-polymorphism-with-examples/)
--  [Program Like Proteus — A beginner’s guide to polymorphism in Javascript — Sam Galson](https://medium.com/yld-blog/program-like-proteus-a-beginners-guide-to-polymorphism-in-javascript-867bea7c8be2)
--  [Object-oriented JavaScript: A Deep Dive into ES6 Classes — Jeff Mott](https://www.sitepoint.com/object-oriented-javascript-deep-dive-es6-classes/)
--  [Unlocking the Power of Polymorphism in JavaScript: A Deep Dive](https://prototypr.io/post/unlocking-the-power-of-polymorphism-in-javascript-a-deep-dive)
+-  [Ìmọ̀lẹ̀ ní JavaScript — Rupesh Mishra](https://hackernoon.com/inheritance-in-javascript-21d2b82ffa6f)
+-  [Ìmọ̀lẹ̀ Rọrun pẹ̀lú JavaScript — David Catuhe](https://www.sitepoint.com/simple-inheritance-javascript/)
+-  [JavaScript — Ìmọ̀lẹ̀, àwọn àkópọ̀ àṣẹ àti ìjápọ̀ Obìrin — NC Patro](https://codeburst.io/javascript-inheritance-25fe61ab9f85)
+-  [JavaScript ti a fi Ìmọ̀ Ọrẹ ṣe: Polymorphism pẹ̀lú àpẹẹrẹ — Knoldus Blogs](https://blog.knoldus.com/object-oriented-javascript-polymorphism-with-examples/)
+-  [Ṣe Ìkànsí gẹ́gẹ́ bí Proteus — Ìtọnisọna fun awọn olubere si polymorphism ní JavaScript — Sam Galson](https://medium.com/yld-blog/program-like-proteus-a-beginners-guide-to-polymorphism-in-javascript-867bea7c8be2)
+-  [JavaScript ti a fi Ìmọ̀ Ọrẹ ṣe: A Dẹ́kó Lọ́ọ̀tẹ̀ sí ES6 Classes — Jeff Mott](https://www.sitepoint.com/object-oriented-javascript-deep-dive-es6-classes/)
+-  [Ìmọ̀lẹ̀ ti agbara Polymorphism ní JavaScript: A Dẹ́kó Lọ́ọ̀tẹ̀](https://prototypr.io/post/unlocking-the-power-of-polymorphism-in-javascript-a-deep-dive)
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Fídíò
 
-- [Inheritance in JavaScript — kudvenkat](https://www.youtube.com/watch?v=yXlFR81tDBM)
-- [JavaScript ES6 Classes and Inheritance — Traversy Media](https://www.youtube.com/watch?v=RBLIm5LMrmc)
-- [Polymorphism in JavaScript — kudvenkat](https://www.youtube.com/watch?v=zdovG9cuEBA)
+- [Ìmọ̀lẹ̀ ní JavaScript — kudvenkat](https://www.youtube.com/watch?v=yXlFR81tDBM)
+- [JavaScript ES6 Classes àti Ìmọ̀lẹ̀ — Traversy Media](https://www.youtube.com/watch?v=RBLIm5LMrmc)
+- [Polymorphism ní JavaScript — kudvenkat](https://www.youtube.com/watch?v=zdovG9cuEBA)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Pada si Orí](#table-of-contents)**
 
 ---
 
-## 31. Design Patterns
+## 31. Àwọn Àkópọ̀ Ìṣàkóso
 
-### Books
+### Àwọn Ìwé
 
--  [Learning JavaScript Design Patterns — Addy Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
--  [Pro JavaScript Design Patterns — Ross Harmes and Dustin Diaz](https://pepa.holla.cz/wp-content/uploads/2016/08/Pro-JavaScript-Design-Patterns.pdf)
+-  [Kọ́ Àwọn Àkópọ̀ Ìṣàkóso JavaScript — Addy Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+-  [Pro JavaScript Design Patterns — Ross Harmes àti Dustin Diaz](https://pepa.holla.cz/wp-content/uploads/2016/08/Pro-JavaScript-Design-Patterns.pdf)
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Àwọn Àpilẹkọ
 
--  [JavaScript Design Patterns – Explained with Examples — Germán Cocca](https://www.freecodecamp.org/news/javascript-design-patterns-explained/)
--  [4 JavaScript Design Patterns You Should Know — Devan Patel](https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know)
--  [JavaScript Design Patterns – Beginner's Guide to Mobile Web Development — Soumyajit Pathak](https://medium.com/beginners-guide-to-mobile-web-development/javascript-design-patterns-25f0faaaa15)
--  [JavaScript Design Patterns — Akash Pal](https://medium.com/front-end-hacking/javascript-design-patterns-ed9d4c144c81)
--  [JavaScript Design Patterns: Understanding Design Patterns in JavaScript - Sukhjinder Arora](https://blog.bitsrc.io/understanding-design-patterns-in-javascript-13345223f2dd)
--  [All the 23 (GoF) design patterns implemented in Javascript — Felipe Beline](https://github.com/fbeline/Design-Patterns-JS)
--  [The Power of the Module Pattern in JavaScript — jsmanifest](https://medium.com/better-programming/the-power-of-the-module-pattern-in-javascript-3c73f7cd10e8)
--  [Design Patterns for Developers using JavaScript pt. I — Oliver Mensah](https://dev.to/omensah/design-patterns-for-developers-using-javascript----part-one--b3e)
--  [Design Patterns for Developers using JavaScript pt. II — Oliver Mensah](https://dev.to/omensah/design-patterns-for-developers-using-javascript---part-two--3p39)
--  [Design patterns in modern JavaScript development](https://levelup.gitconnected.com/design-patterns-in-modern-javascript-development-ec84d8be06ca)
--  [Understanding Design Patterns: Iterator using Dev.to and Medium social networks! — Carlos Caballero](https://dev.to/carlillo/understanding-design-patterns-iterator-using-dev-to-and-medium-social-networks-3bdd)
--  [JavaScript Design Patterns - Factory Pattern — KristijanFištrek](https://dev.to/kristijanfistrek/javascript-design-patterns-factory-pattern-562p)
--  [JavaScript Design Pattern — Module Pattern - Factory Pattern — Moon](https://medium.com/javascript-in-plain-english/javascript-design-pattern-module-pattern-555737eccecd)
--  [Design Patterns: Null Object - Carlos Caballero](https://medium.com/better-programming/design-patterns-null-object-5ee839e37892)
--  [Strategy Pattern - Francesco Ciulla](https://dev.to/francescoxx/strategy-pattern-5oh)
--  [Adapter Pattern - Francesco Ciulla](https://dev.to/francescoxx/adapter-pattern-5bjk)
--  [The Power of Composite Pattern in JavaScript - jsmanifest](https://dev.to/jsmanifest/the-power-of-composite-pattern-in-javascript-2732)
--  [In Defense of Defensive Programming - Adam Nathaniel Davis](https://dev.to/bytebodger/in-defense-of-defensive-programming-k45)
--  [JavaScript Patterns Workshop — Lydia Hallie](https://javascriptpatterns.vercel.app/patterns)
+-  [Àwọn Àkópọ̀ Ìṣàkóso JavaScript – Ṣàlàyé pẹ̀lú Àpẹẹrẹ — Germán Cocca](https://www.freecodecamp.org/news/javascript-design-patterns-explained/)
+-  [4 Àwọn Àkópọ̀ Ìṣàkóso JavaScript Tí O yẹ Kí O Mọ — Devan Patel](https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know)
+-  [Àwọn Àkópọ̀ Ìṣàkóso JavaScript – Ìtọnisọna Olubere sí Ìdàgbàsókè Àwọn Ìpamọ́ Foonu — Soumyajit Pathak](https://medium.com/beginners-guide-to-mobile-web-development/javascript-design-patterns-25f0faaaa15)
+-  [Àwọn Àkópọ̀ Ìṣàkóso JavaScript — Akash Pal](https://medium.com/front-end-hacking/javascript-design-patterns-ed9d4c144c81)
+-  [Àwọn Àkópọ̀ Ìṣàkóso JavaScript: Ìmọ̀ Ẹ̀ka Ìṣàkóso ní JavaScript - Sukhjinder Arora](https://blog.bitsrc.io/understanding-design-patterns-in-javascript-13345223f2dd)
+-  [Gbogbo 23 (GoF) àwọn àkópọ̀ ìṣàkóso tí a ṣe ní JavaScript — Felipe Beline](https://github.com/fbeline/Design-Patterns-JS)
+-  [Agbara Àkópọ̀ Modulu ní JavaScript — jsmanifest](https://medium.com/better-programming/the-power-of-the-module-pattern-in-javascript-3c73f7cd10e8)
+-  [Àwọn Àkópọ̀ Ìṣàkóso fún Awọn Olùgbéejáde pẹ̀lú JavaScript pt. I — Oliver Mensah](https://dev.to/omensah/design-patterns-for-developers-using-javascript----part-one--b3e)
+-  [Àwọn Àkópọ̀ Ìṣàkóso fún Awọn Olùgbéejáde pẹ̀lú JavaScript pt. II — Oliver Mensah](https://dev.to/omensah/design-patterns-for-developers-using-javascript---part-two--3p39)
+-  [Àwọn Àkópọ̀ Ìṣàkóso ní Ìdàgbàsókè JavaScript Ìmúdá — GitConnected](https://levelup.gitconnected.com/design-patterns-in-modern-javascript-development-ec84d8be06ca)
+-  [Ìmọ̀ Àkópọ̀ Ìṣàkóso: Iterator pẹ̀lú Dev.to àti Medium nẹtiwọọki awujọ! — Carlos Caballero](https://dev.to/carlillo/understanding-design-patterns-iterator-using-dev-to-and-medium-social-networks-3bdd)
+-  [JavaScript Àkópọ̀ Ìṣàkóso - Àkópọ̀ Ile-iṣẹ — KristijanFištrek](https://dev.to/kristijanfistrek/javascript-design-patterns-factory-pattern-562p)
+-  [JavaScript Àkópọ̀ Ìṣàkóso — Àkópọ̀ Modulu - Àkópọ̀ Ile-iṣẹ — Moon](https://medium.com/javascript-in-plain-english/javascript-design-pattern-module-pattern-555737eccecd)
+-  [Àkópọ̀ Ìṣàkóso: Null Object - Carlos Caballero](https://medium.com/better-programming/design-patterns-null-object-5ee839e37892)
+-  [Àkópọ̀ Ìṣàkóso - Francesco Ciulla](https://dev.to/francescoxx/strategy-pattern-5oh)
+-  [Àkópọ̀ Adapter - Francesco Ciulla](https://dev.to/francescoxx/adapter-pattern-5bjk)
+-  [Agbara Àkópọ̀ Komposita ní JavaScript - jsmanifest](https://dev.to/jsmanifest/the-power-of-composite-pattern-in-javascript-2732)
+-  [Nínú Àbo ti Ìkànsí Aabo — Adam Nathaniel Davis](https://dev.to/bytebodger/in-defense-of-defensive-programming-k45)
+-  [JavaScript Àkópọ̀ Ìṣàkóso Workshop — Lydia Hallie](https://javascriptpatterns.vercel.app/patterns)
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Fídíò
 
-- [JavaScript Design Patterns — Udacity](https://www.udacity.com/course/javascript-design-patterns--ud989)
-- [JavaScript Patterns for 2017 — Scott Allen](https://www.youtube.com/watch?v=hO7mzO83N1Q)
+- [Àwọn Àkópọ̀ Ìṣàkóso JavaScript — Udacity](https://www.udacity.com/course/javascript-design-patterns--ud989)
+- [Àwọn Àkópọ̀ JavaScript fún 2017 — Scott Allen](https://www.youtube.com/watch?v=hO7mzO83N1Q)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Pada si Orí](#table-of-contents)**
+
 
 ---
 
