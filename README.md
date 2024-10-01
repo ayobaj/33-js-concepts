@@ -326,68 +326,69 @@ Gbogbo awọn itumọ fun ibi ipamọ yii yoo wa ni atokọ ni isalẹ:
 
 ---
 
-## 8. IIFE, Modules and Namespaces
+## 8. IIFE, Àwọn mòdúlù àti Àwọn orúkọ
 
-### Reference
+### Ijápọ
 
 -  [IIFE — MDN](https://developer.mozilla.org/en-US/docs/Glossary/IIFE)
 -  [Modularity — MDN](https://developer.mozilla.org/en-US/docs/Glossary/modularity)
--  [Namespace — MDN](https://developer.mozilla.org/en-US/docs/Glossary/Namespace)
+-  [Orúkọ — MDN](https://developer.mozilla.org/en-US/docs/Glossary/Namespace)
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Àwárí
 
--  [Mastering Immediately-Invoked Function Expressions ― Chandra Gundamaraju](https://medium.com/@vvkchandra/essential-javascript-mastering-immediately-invoked-function-expressions-67791338ddc6)
--  [JavaScript Immediately Invoked Function Expression — javascripttutorial.net](https://www.javascripttutorial.net/javascript-immediately-invoked-function-expression-iife/)
--  [Do ES6 Modules make the case of IIFEs obsolete?](https://hashnode.com/post/do-es6-modules-make-the-case-of-iifes-obsolete-civ96wet80scqgc538un20es0)
--  [A 10 minute primer to JavaScript modules, module formats, module loaders and module bundlers ― Jurgen Van de Moere](https://www.jvandemo.com/a-10-minute-primer-to-javascript-modules-module-formats-module-loaders-and-module-bundlers/)
--  [Modules ― Exploring JS](http://exploringjs.com/es6/ch_modules.html)
--  [ES modules: A cartoon deep-dive — Lin Clark](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
--  [Understanding ES6 Modules — Craig Buckler](https://www.sitepoint.com/understanding-es6-modules/)
--  [An overview of ES6 Modules in JavaScript — Brent Graham](https://blog.cloud66.com/an-overview-of-es6-modules-in-javascript/)
--  [ES6 Modules in Depth — Nicolás Bevacqua](https://ponyfoo.com/articles/es6-modules-in-depth)
--  [ES6 modules, Node.js and the Michael Jackson Solution — Alberto Gimeno](https://medium.com/dailyjs/es6-modules-node-js-and-the-michael-jackson-solution-828dc244b8b)
--  [JavaScript Modules: A Beginner’s Guide — Preethi Kasireddy](https://medium.freecodecamp.org/javascript-modules-a-beginner-s-guide-783f7d7a5fcc)
--  [Using JavaScript modules on the web — Addy Osmani & Mathias Bynens](https://developers.google.com/web/fundamentals/primers/modules)
--  [IIFE: Immediately Invoked Function Expressions — Parwinder](https://dev.to/bhagatparwinder/iife-immediately-invoked-function-expressions-49c5)
--  [Javascript Module Bundlers — Vanshu Hassija](https://sassy-butter-197.notion.site/Javascript-bundlers-016932b17b0744e983c2cc0db31e6f02)
+-  [Mímu Iṣẹ́ Àfikún ti a pe ni IIFE — Chandra Gundamaraju](https://medium.com/@vvkchandra/essential-javascript-mastering-immediately-invoked-function-expressions-67791338ddc6)
+-  [Iṣẹ́ JavaScript ti a pe ni IIFE — javascripttutorial.net](https://www.javascripttutorial.net/javascript-immediately-invoked-function-expression-iife/)
+-  [Ṣe ES6 Àwọn mòdúlù mu àṣà IIFE ṣẹ̀ṣẹ̀?](https://hashnode.com/post/do-es6-modules-make-the-case-of-iifes-obsolete-civ96wet80scqgc538un20es0)
+-  [Àwọn iṣẹ́ mòdúlù JavaScript ni iṣẹ́ mẹ́wàá, àwọn fọọmù mòdúlù, àwọn olutọ́ka mòdúlù àti àwọn olùjọọ́ mòdúlù — Jurgen Van de Moere](https://www.jvandemo.com/a-10-minute-primer-to-javascript-modules-module-formats-module-loaders-and-module-bundlers/)
+-  [Àwọn mòdúlù — Ṣawari JS](http://exploringjs.com/es6/ch_modules.html)
+-  [ES mòdúlù: Iṣawari ìrìn àjò — Lin Clark](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
+-  [Ìtàn ti ES6 Àwọn mòdúlù — Craig Buckler](https://www.sitepoint.com/understanding-es6-modules/)
+-  [Àkótán ti ES6 Àwọn mòdúlù ni JavaScript — Brent Graham](https://blog.cloud66.com/an-overview-of-es6-modules-in-javascript/)
+-  [ES6 Àwọn mòdúlù ni Ijinlẹ̀ — Nicolás Bevacqua](https://ponyfoo.com/articles/es6-modules-in-depth)
+-  [ES6 Àwọn mòdúlù, Node.js ati Solusan Michael Jackson — Alberto Gimeno](https://medium.com/dailyjs/es6-modules-node-js-and-the-michael-jackson-solution-828dc244b8b)
+-  [Àwọn mòdúlù JavaScript: Iwe Itọsọna fun Awọn ibẹrẹ — Preethi Kasireddy](https://medium.freecodecamp.org/javascript-modules-a-beginner-s-guide-783f7d7a5fcc)
+-  [Lilo Àwọn mòdúlù JavaScript lori ayelujara — Addy Osmani & Mathias Bynens](https://developers.google.com/web/fundamentals/primers/modules)
+-  [IIFE: Àfikún ti a pe ni IIFE — Parwinder](https://dev.to/bhagatparwinder/iife-immediately-invoked-function-expressions-49c5)
+-  [Àwọn olùjọọ́ mòdúlù Javascript — Vanshu Hassija](https://sassy-butter-197.notion.site/Javascript-bundlers-016932b17b0744e983c2cc0db31e6f02)
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Fídíò
 
-- [Immediately Invoked Function Expression - Beau teaches JavaScript — freeCodeCamp](https://www.youtube.com/watch?v=3cbiZV4H22c)
-- [Understanding JavaScript IIFE — Sheo Narayan](https://www.youtube.com/watch?v=I5EntfMeIIQ)
-- [JavaScript Modules: ES6 Import and Export — Kyle Robinson](https://www.youtube.com/watch?v=_3oSWwapPKQ)
-- [ES6 - Modules — Ryan Christiani](https://www.youtube.com/watch?v=aQr2bV1BPyE)
-- [ES6 Modules in the Real World — Sam Thorogood](https://www.youtube.com/watch?v=fIP4pjAqCtQ)
-- [ES6 Modules — TempleCoding](https://www.youtube.com/watch?v=5P04OK6KlXA)
-- [JavaScript IIFE (Immediately Invoked Function Expressions) — Steve Griffith](https://www.youtube.com/watch?v=Xd7zgPFwVX8&)
+- [Àfikún ti a pe ni IIFE - Beau n kọ́ JavaScript — freeCodeCamp](https://www.youtube.com/watch?v=3cbiZV4H22c)
+- [Ìtàn Iṣẹ́ JavaScript IIFE — Sheo Narayan](https://www.youtube.com/watch?v=I5EntfMeIIQ)
+- [Àwọn mòdúlù JavaScript: ES6 Wíwọle àti Iṣejade — Kyle Robinson](https://www.youtube.com/watch?v=_3oSWwapPKQ)
+- [ES6 - Àwọn mòdúlù — Ryan Christiani](https://www.youtube.com/watch?v=aQr2bV1BPyE)
+- [ES6 Àwọn mòdúlù ni Agbegbe gidi — Sam Thorogood](https://www.youtube.com/watch?v=fIP4pjAqCtQ)
+- [ES6 Àwọn mòdúlù — TempleCoding](https://www.youtube.com/watch?v=5P04OK6KlXA)
+- [JavaScript IIFE (Àfikún ti a pe ni IIFE) — Steve Griffith](https://www.youtube.com/watch?v=Xd7zgPFwVX8&)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Pada si oke](#table-of-contents)**
 
 ---
 
-## 9. Message Queue and Event Loop
+## 9. Ẹ̀kọ́ Iṣẹ́ Ifiranṣẹ́ àti Ẹ̀rọ ìbáṣiṣẹ́
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Àwárí
 
--  [JavaScript Event Loop Explained — Anoop Raveendran](https://medium.com/front-end-hacking/javascript-event-loop-explained-4cd26af121d4)
--  [The JavaScript Event Loop: Explained — Erin Sweson-Healey](https://blog.carbonfive.com/2013/10/27/the-javascript-event-loop-explained/)
--  [Understanding JS: The Event Loop — Alexander Kondov](https://hackernoon.com/understanding-js-the-event-loop-959beae3ac40)
--  [The JavaScript Event Loop — Flavio Copes](https://flaviocopes.com/javascript-event-loop/)
--  [Tasks, microtasks, queues and schedules — Jake Archibald](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
--  [Visualising the JavaScript Event Loop with a Pizza Restaurant analogy — Priyansh Jain](https://dev.to/presto412/visualising-the-javascript-event-loop-with-a-pizza-restaurant-analogy-47a8)
--  [JavaScript Visualized: Event Loop — Lydia Hallie](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
+-  [Iṣẹ́ Ifiranṣẹ́ JavaScript — Anoop Raveendran](https://medium.com/front-end-hacking/javascript-event-loop-explained-4cd26af121d4)
+-  [Ẹ̀rọ Iṣẹ́ Ifiranṣẹ́ JavaScript: Iṣawari — Erin Sweson-Healey](https://blog.carbonfive.com/2013/10/27/the-javascript-event-loop-explained/)
+-  [Ìtàn JS: Ẹ̀rọ Iṣẹ́ Ifiranṣẹ́ — Alexander Kondov](https://hackernoon.com/understanding-js-the-event-loop-959beae3ac40)
+-  [Ẹ̀rọ Iṣẹ́ Ifiranṣẹ́ JavaScript — Flavio Copes](https://flaviocopes.com/javascript-event-loop/)
+-  [Àwọn iṣẹ́, microtasks, queues àti awọn iṣeto — Jake Archibald](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
+-  [Fífi Ẹ̀rọ Iṣẹ́ Ifiranṣẹ́ JavaScript hàn pẹlu àpẹẹrẹ Ile-iṣere Pizza — Priyansh Jain](https://dev.to/presto412/visualising-the-javascript-event-loop-with-a-pizza-restaurant-analogy-47a8)
+-  [JavaScript: Ẹ̀rọ Ifiranṣẹ́ Hàn — Lydia Hallie](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Fídíò
 
-- [What the heck is the event loop anyway? | JSConf EU — Philip Roberts](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
-- [JavaScript Event Loop — ComScience Simplified](https://www.youtube.com/watch?v=XzXIMZMN9k4)
-- [I'm stuck in an Event Loop — Philip Roberts](https://www.youtube.com/watch?v=6MXRNXXgP_0)
-- [In The Loop - Jake Archibald | JSConf.Asia 2018](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
+- [Kí ni Ẹ̀rọ Iṣẹ́ Ifiranṣẹ́ náà? | JSConf EU — Philip Roberts](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+- [Ẹ̀rọ Iṣẹ́ Ifiranṣẹ́ JavaScript — ComScience Simplified](https://www.youtube.com/watch?v=XzXIMZMN9k4)
+- [Mo ti di Ẹ̀rọ Iṣẹ́ Ifiranṣẹ́ — Philip Roberts](https://www.youtube.com/watch?v=6MXRNXXgP_0)
+- [Ninu Ẹ̀rọ - Jake Archibald | JSConf.Asia 2018](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
 - [Desmitificando el Event Loop (Spanish)](https://www.youtube.com/watch?v=Eqq2Rb7LzYE)
 - [Callbacks, Sincrono, Assíncrono e Event Loop (PT-BR)](https://www.youtube.com/watch?v=6lbBaM18X3g)
-- [JavaScript Event Loop: How it Works and Why it Matters in 5 Minutes - James Q Quick](https://www.youtube.com/watch?v=6lbBaM18X3g)
+- [Ẹ̀rọ Iṣẹ́ Ifiranṣẹ́ JavaScript: Bawo ni o ṣe n ṣiṣẹ́ ati Kí ni o ṣe pataki ni iṣẹ́ mẹ́jọ - James Q Quick](https://www.youtube.com/watch?v=6lbBaM18X3g)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Pada si oke](#table-of-contents)**
+
 
 ---
 
